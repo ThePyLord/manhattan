@@ -1,6 +1,6 @@
 #main file for the project
 
-import requests, discord
+import requests
 import json
 from bs4 import BeautifulSoup
 
@@ -9,7 +9,5 @@ URL = "https://www.google.com/search?q=btc+usd&oq=BTC+usd&aqs=chrome.0.69i59j0i6
 site = requests.get(URL)
 
 soup = BeautifulSoup(site.content, 'html.parser')
-
-with open("priceinfo.txt", "w") as f:
-    f.write(soup.text)
-    f.close()
+btc_value = soup.find(class_="BNeawe iBp4i AP7Wnd")
+btc_value_text = btc_value.text
