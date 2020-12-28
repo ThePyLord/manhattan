@@ -1,16 +1,1423 @@
-btc usd - Google SearchGoogleGoogle×Please click here if you are not redirected within a few seconds.    AllNewsShoppingVideos Images Maps Books Search tools    Any timeAny timePast hourPast 24 hoursPast weekPast monthPast yearAll resultsAll resultsVerbatim1 Bitcoin =26,927.10 United States DollarDisclaimerPeople also askWill Bitcoin Rise Again 2020?Can 1 Bitcoin make you a millionaire?How much is the Bitcoin right now?How many Bitcoins are left?Bitcoin USD (BTC-USD) Stock Price, News, Quote & History - Yahoo ...finance.yahoo.com › quote › BTC-USDFind the latest Bitcoin USD (BTC-USD) stock quote, history, news and other vital information to help you with your stock trading and investing.
-Chart · BTC · BTC-USD · XMR-USDBTCUSD — Bitcoin Chart and Price — TradingViewwww.tradingview.com › Markets › Cryptocurrencies › BitcoinWatch live Bitcoin to Dollar chart, follow BTCUSD prices in real-time and get bitcoin price history. Check the Bitcoin technical analysis and forecasts.
-BTC/USD · Ideas · Technicals · MarketsTop storiesBitcoin Tops $28K for 1st Time, Hours After Crossing $27K; Market Cap Now 
-Exceeds $500BYahoo Finance
-15 hours agoThe Crypto Daily – Movers and Shakers – December 27th, 2020Yahoo Finance
-1 day agoDeribit Adding Options to Allow Bitcoin Traders to Bet on Rally to $120K, 
-$140KYahoo Finance
-1 day agoBitcoin Tops $26K for First Time, Less Than a Day After Passing $25KYahoo Finance
-1 day agoNow Is the Time for Enterprises to Look at ETH 2.0Yahoo Finance
-1 day agoBitcoin price blasts past $27K — BTC market cap now over half a trillion 
-dollarsCointelegraph
-22 hours agoBitcoin surges to through $28K before pulling backSeeking Alpha
-9 hours agoBitcoin is irrelevant to financial markets and investors 'are going to 
-weep' if regulators come down hard on crypto, says ...Business Insider
-3 days agoRoubini: Bitcoin's 'hyperbolic bubble is going to go bust'Yahoo Finance
-3 days ago23,975 BTC/USD - Bitfinexwww.bitfinex.com › demoDownload our free best in class algorithmic trading engine for Bitfinex. Learn more. Chart BTC/USD. Show liquidations. Date Range. 00:00:04 (UTC). log. auto  ...Bitcoin Price | BTC Price Index and Live Chart — CoinDesk 20www.coindesk.com › price › bitcoinBitcoin USD price, real-time (live) charts, news and videos. Learn about BTC value, bitcoin cryptocurrency, crypto trading, and more.BTC to USD | Bitcoin to USD Bitfinex - Investing.com Canadaca.investing.com › crypto › bitcoin › btc-usdExamine the current Bitcoin to USD Bitfinex rate and access our BTC to USD converter, charts, historical data, news, and more.BTCUSD | Bitcoin USD Overview | MarketWatchwww.marketwatch.com › Investing › Quotes › Crypto CurrencyBTCUSD | A complete Bitcoin USD cryptocurrency overview by MarketWatch. View the latest cryptocurrency news, crypto prices and market data.Bitcoin Price in USD | Real Time Bitcoin Chart | KITCOwww.kitco.com › bitcoin-price-charts-usdThe Kitco Bitcoin price index provides the latest Bitcoin price in US Dollars using an average from the world's leading exchanges.Bitcoin Price (BTC/USD): BTC Live Chart, News & Analysis - DailyFXwww.dailyfx.com › bitcoinFollow the Bitcoin price live with the interactive, real-time chart and read our expert articles on the latest BTC news, forecast and technical analysis.Bitcoin Price | BTC USD | Chart | Bitcoin US-Dollar | Markets Insidermarkets.businessinsider.com › currencies › btc-usdBitcoin Price (BTC USD): Get all information on the Bitcoin to US-Dollar Exchange Rate including Charts, News and Realtime Price.Related searchesBitcoin websitesBitfinexBinanceBitstampBTC-eMore resultsBitcoin websitesTop crypto companiesEasiest coins to mineETH/USDBTC/CADBTC AUDXRP/USDBitcoinLTC/USDBitcoin priceBTC News  Next >  Sign inSettingsPrivacyTerms 
+<!DOCTYPE html>
+<html lang="en-CA">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="/images/branding/googleg/1x/googleg_standard_color_128dp.png" itemprop="image"/>
+  <title>
+   btc usd - Google Search
+  </title>
+  <script nonce="A9p1gszWem+FMUpxpYmfNg==">
+   (function(){
+document.documentElement.addEventListener("submit",function(b){var a;if(a=b.target){var c=a.getAttribute("data-submitfalse");a="1"==c||"q"==c&&!a.elements.q.value?!0:!1}else a=!1;a&&(b.preventDefault(),b.stopPropagation())},!0);document.documentElement.addEventListener("click",function(b){var a;a:{for(a=b.target;a&&a!=document.documentElement;a=a.parentElement)if("A"==a.tagName){a="1"==a.getAttribute("data-nohref");break a}a=!1}a&&b.preventDefault()},!0);}).call(this);(function(){
+var a=window.performance;window.start=Date.now();a:{var b=window;if(a){var c=a.timing;if(c){var d=c.navigationStart,f=c.responseStart;if(f>d&&f<=window.start){window.start=f;b.wsrt=f-d;break a}}a.now&&(b.wsrt=Math.floor(a.now()))}}window.google=window.google||{};var h=function(g){g&&g.target.setAttribute("data-iml",Date.now())};document.documentElement.addEventListener("load",h,!0);google.rglh=function(){document.documentElement.removeEventListener("load",h,!0)};}).call(this);(function(){
+var c=[],e=0;window.ping=function(b){-1==b.indexOf("&zx")&&(b+="&zx="+Date.now());var a=new Image,d=e++;c[d]=a;a.onerror=a.onload=a.onabort=function(){delete c[d]};a.src=b};}).call(this);
+  </script>
+  <style>
+   body{margin:0 auto;max-width:736px;padding:0 8px}a{color:#1967D2;text-decoration:none;tap-highlight-color:rgba(0,0,0,.10)}a:visited{color:#4B11A8}a:hover{text-decoration:underline}img{border:0}html{font-family:Roboto,HelveticaNeue,Arial,sans-serif;font-size:14px;line-height:20px;text-size-adjust:100%;color:#3c4043;word-wrap:break-word;background-color:#fff}.bRsWnc{background-color:#fff;border-top:1px solid #dadce0;height:39px;overflow:hidden}.N6RWV{height:51px;overflow-scrolling:touch;overflow-x:auto;overflow-y:hidden}.Uv67qb{box-pack:justify;font-size:12px;line-height:37px;justify-content:space-between;justify-content:space-between}.Uv67qb a,.Uv67qb span{color:#70757a;display:block;flex:none;padding:0 16px;text-align:center;text-transform:uppercase;}span.OXXup{border-bottom:2px solid #4285f4;color:#4285f4;font-weight:bold}a.eZt8xd:visited{color:#70757a}.FElbsf{border-left:1px solid rgba(0,0,0,.12)}header article{overflow:visible}.Pg70bf{height:39px;display:box;display:flex;display:flex;width:100%}.H0PQec{position:relative;flex:1}.sbc{display:flex;width:100%}.Pg70bf input{margin:2px 4px 2px 8px;}.x{width:26px;color:#70757a;font:27px/38px arial, sans-serif;line-height:40px;}#qdClwb{flex:0 0 auto;width:39px;height:39px;border-bottom:0;padding:0;border-top-right-radius:8px;background-color:#1a73e8;border:1px solid #1558d6;background-image:url(data:image/gif;base64,R0lGODdhJAAjAPIHAODr/nCk+MPZ/FmV96zK+/7+/5K5+kqL9iwAAAAAJAAjAEADani63P4wykmbKcQRXDscQAEMXmmeaLQVLCukzyC09AjfeK7v/MAajACLhPMVAgwjsUcEiZa8xgAYrVqv2Kx2iwsIAAABknfBBAKrTE4IcMyot8ur8datqIbQfJdnAfo2WE6BV05wXIiJigkAOw==);}.sc{font-size:;position:absolute;top:39px;left:0;right:0;box-shadow:0px 2px 5px rgba(0,0,0,.2);z-index:2;background-color:#fff}.sc>div{padding:10px 10px;padding-left:16px;padding-left:14px;border-top:1px solid #dfe1e5}.scs{background-color:#f8f9fa;}.noHIxc{display:block;font-size:16px;padding:0 0 0 8px;flex:1;height:35px;outline:none;border:none;width:100%;-webkit-tap-highlight-color:rgba(0,0,0,.00);overflow:hidden;}.sbc input[type=text]{background:none}.sml .cOl4Id{display:none}.l{display:none}.sml header{background:none}.sml .l{display:block;padding:0 8px}.sml .l{letter-spacing:-1px;text-align:center;border-radius:2px 0 0 0;font:22px/36px Futura, Arial, sans-serif;font-smoothing:antialiased}.bz1lBb{background:#fff;border-radius:8px 8px 0 0;box-shadow:0 1px 6px rgba(32, 33, 36, 0.18);margin-top:10px}.KP7LCb{border-radius:0 0 8px 8px;box-shadow:0 2px 3px rgba(32, 33, 36, 0.18);margin-bottom:10px;overflow:hidden}.cOl4Id{letter-spacing:-1px;text-align:center;font:22pt Futura, Arial, sans-serif;padding:10px 0 5px 0;height:37px;font-smoothing:antialiased}.cOl4Id span{display:inline-block}.S591j{height:100%}.V6gwVd{color:#4285f4}.iWkuvd{color:#ea4335}.cDrQ7{color:#fcc934}.ntlR9{color:#34a853}.tJ3Myc{-webkit-transform:rotate(-20deg);position:relative;left:-1px;display:inline-block}footer{text-align:center;margin-top:18px}footer a,footer a:visited,.smiUbb{color:#70757a}.ksTU4c{margin:0 13px}#mCljob{margin-top:36px}#mCljob>div{margin:20px}
+  </style>
+ </head>
+ <body jsmodel="TvHxbe">
+  <header id="hdr">
+   <script nonce="A9p1gszWem+FMUpxpYmfNg==">
+    (function(){
+var k=this||self,l=function(){},m=function(a){var b=typeof a;return"object"==b&&null!=a||"function"==b},aa=function(a,b){function c(){}c.prototype=b.prototype;a.m=b.prototype;a.prototype=new c;a.prototype.constructor=a;a.o=function(d,e,f){for(var g=Array(arguments.length-2),h=2;h<arguments.length;h++)g[h-2]=arguments[h];return b.prototype[e].apply(d,g)}};var n=Array.prototype.indexOf?function(a,b){return Array.prototype.indexOf.call(a,b,void 0)}:function(a,b){if("string"===typeof a)return"string"!==typeof b||1!=b.length?-1:a.indexOf(b,0);for(var c=0;c<a.length;c++)if(c in a&&a[c]===b)return c;return-1},ba=Array.prototype.filter?function(a,b){return Array.prototype.filter.call(a,b,void 0)}:function(a,b){for(var c=a.length,d=[],e=0,f="string"===typeof a?a.split(""):a,g=0;g<c;g++)if(g in f){var h=f[g];b.call(void 0,h,g,a)&&(d[e++]=h)}return d};var p=function(a){return"string"==typeof a.className?a.className:a.getAttribute&&a.getAttribute("class")||""},q=function(a,b){"string"==typeof a.className?a.className=b:a.setAttribute&&a.setAttribute("class",b)},r=function(a,b){a.classList?b=a.classList.contains(b):(a=a.classList?a.classList:p(a).match(/\S+/g)||[],b=0<=n(a,b));return b},ca=function(){var a=t,b=u;a.classList?a.classList.remove(b):r(a,b)&&q(a,ba(a.classList?a.classList:p(a).match(/\S+/g)||[],function(c){return c!=b}).join(" "))};var v=String.prototype.trim?function(a){return a.trim()}:function(a){return/^[\s\xa0]*([\s\S]*?)[\s\xa0]*$/.exec(a)[1]},w=function(a,b){return a<b?-1:a>b?1:0};var x;a:{var y=k.navigator;if(y){var z=y.userAgent;if(z){x=z;break a}}x=""};var A=function(a){A[" "](a);return a};A[" "]=l;var da=-1!=x.indexOf("Opera"),B=-1!=x.indexOf("Trident")||-1!=x.indexOf("MSIE"),ea=-1!=x.indexOf("Edge"),fa=-1!=x.indexOf("Gecko")&&!(-1!=x.toLowerCase().indexOf("webkit")&&-1==x.indexOf("Edge"))&&!(-1!=x.indexOf("Trident")||-1!=x.indexOf("MSIE"))&&-1==x.indexOf("Edge"),ha=-1!=x.toLowerCase().indexOf("webkit")&&-1==x.indexOf("Edge"),ia=function(){var a=k.document;return a?a.documentMode:void 0},C;a:{var D="",E=function(){var a=x;if(fa)return/rv:([^\);]+)(\)|;)/.exec(a);if(ea)return/Edge\/([\d\.]+)/.exec(a);if(B)return/\b(?:MSIE|rv)[:]([^\);]+)(\)|;)/.exec(a);if(ha)return/WebKit\/(\S+)/.exec(a);if(da)return/(?:Version)[ \/]?(\S+)/.exec(a)}();E&&(D=E?E[1]:"");if(B){var F=ia();if(null!=F&&F>parseFloat(D)){C=String(F);break a}}C=D}var ja=C,G={},H;if(k.document&&B){var ka=ia();H=ka?ka:parseInt(ja,10)||void 0}else H=void 0;var la=H;var I;(I=!B)||(I=9<=Number(la));var ma=I,J;if(J=B){var K;if(Object.prototype.hasOwnProperty.call(G,"9"))K=G["9"];else{for(var L=0,na=v(String(ja)).split("."),oa=v("9").split("."),pa=Math.max(na.length,oa.length),M=0;0==L&&M<pa;M++){var qa=na[M]||"",ra=oa[M]||"";do{var N=/(\d*)(\D*)(.*)/.exec(qa)||["","","",""],O=/(\d*)(\D*)(.*)/.exec(ra)||["","","",""];if(0==N[0].length&&0==O[0].length)break;L=w(0==N[1].length?0:parseInt(N[1],10),0==O[1].length?0:parseInt(O[1],10))||w(0==N[2].length,0==O[2].length)||w(N[2],O[2]);qa=N[3];ra=O[3]}while(0==L)}K=
+G["9"]=0<=L}J=!K}var sa=J,ta=function(){if(!k.addEventListener||!Object.defineProperty)return!1;var a=!1,b=Object.defineProperty({},"passive",{get:function(){a=!0}});try{k.addEventListener("test",l,b),k.removeEventListener("test",l,b)}catch(c){}return a}();var P=function(a,b){this.type=a;this.g=this.target=b};P.prototype.h=function(){};var Q=function(a,b){P.call(this,a?a.type:"");this.relatedTarget=this.g=this.target=null;this.button=this.screenY=this.screenX=this.clientY=this.clientX=0;this.key="";this.keyCode=0;this.metaKey=this.shiftKey=this.altKey=this.ctrlKey=!1;this.pointerId=0;this.pointerType="";this.l=null;if(a){var c=this.type=a.type,d=a.changedTouches&&a.changedTouches.length?a.changedTouches[0]:null;this.target=a.target||a.srcElement;this.g=b;if(b=a.relatedTarget){if(fa){a:{try{A(b.nodeName);var e=!0;break a}catch(f){}e=
+!1}e||(b=null)}}else"mouseover"==c?b=a.fromElement:"mouseout"==c&&(b=a.toElement);this.relatedTarget=b;d?(this.clientX=void 0!==d.clientX?d.clientX:d.pageX,this.clientY=void 0!==d.clientY?d.clientY:d.pageY,this.screenX=d.screenX||0,this.screenY=d.screenY||0):(this.clientX=void 0!==a.clientX?a.clientX:a.pageX,this.clientY=void 0!==a.clientY?a.clientY:a.pageY,this.screenX=a.screenX||0,this.screenY=a.screenY||0);this.button=a.button;this.keyCode=a.keyCode||0;this.key=a.key||"";this.ctrlKey=a.ctrlKey;this.altKey=a.altKey;this.shiftKey=a.shiftKey;this.metaKey=a.metaKey;this.pointerId=a.pointerId||0;this.pointerType="string"===typeof a.pointerType?a.pointerType:ua[a.pointerType]||"";this.l=a;a.defaultPrevented&&this.h()}};aa(Q,P);var ua={2:"touch",3:"pen",4:"mouse"};Q.prototype.h=function(){Q.m.h.call(this);var a=this.l;if(a.preventDefault)a.preventDefault();else if(a.returnValue=!1,sa)try{if(a.ctrlKey||112<=a.keyCode&&123>=a.keyCode)a.keyCode=-1}catch(b){}};var R="closure_listenable_"+(1E6*Math.random()|0),va=0;var wa=function(a,b,c,d,e){this.listener=a;this.g=null;this.src=b;this.type=c;this.capture=!!d;this.h=e;this.key=++va;this.i=this.j=!1},xa=function(a){a.i=!0;a.listener=null;a.g=null;a.src=null;a.h=null};var S=function(a){this.src=a;this.g={};this.h=0};S.prototype.add=function(a,b,c,d,e){var f=a.toString();a=this.g[f];a||(a=this.g[f]=[],this.h++);var g;a:{for(g=0;g<a.length;++g){var h=a[g];if(!h.i&&h.listener==b&&h.capture==!!d&&h.h==e)break a}g=-1}-1<g?(b=a[g],c||(b.j=!1)):(b=new wa(b,this.src,f,!!d,e),b.j=c,a.push(b));return b};var T="closure_lm_"+(1E6*Math.random()|0),U={},ya=0,za=function(a,b,c,d,e){if(d&&d.once)return V(a,b,c,d,e);if(Array.isArray(b)){for(var f=0;f<b.length;f++)za(a,b[f],c,d,e);return null}c=Aa(c);return a&&a[R]?a.g(b,c,m(d)?!!d.capture:!!d,e):Ba(a,b,c,!1,d,e)},Ba=function(a,b,c,d,e,f){if(!b)throw Error("a");var g=m(e)?!!e.capture:!!e,h=W(a);h||(a[T]=h=new S(a));c=h.add(b,c,d,g,f);if(c.g)return c;d=Ca();c.g=d;d.src=a;d.listener=c;if(a.addEventListener)ta||(e=g),void 0===e&&(e=!1),a.addEventListener(b.toString(),d,e);else if(a.attachEvent)a.attachEvent(Da(b.toString()),d);else if(a.addListener&&a.removeListener)a.addListener(d);else throw Error("b");ya++;return c},Ca=function(){var a=Ea,b=ma?function(c){return a.call(b.src,b.listener,c)}:function(c){c=a.call(b.src,b.listener,c);if(!c)return c};return b},V=function(a,b,c,d,e){if(Array.isArray(b)){for(var f=0;f<b.length;f++)V(a,b[f],c,d,e);return null}c=Aa(c);return a&&a[R]?a.h(b,c,m(d)?!!d.capture:!!d,e):Ba(a,b,c,!0,d,e)},X=function(a){if("number"!==typeof a&&
+a&&!a.i){var b=a.src;if(b&&b[R])b.l(a);else{var c=a.type,d=a.g;b.removeEventListener?b.removeEventListener(c,d,a.capture):b.detachEvent?b.detachEvent(Da(c),d):b.addListener&&b.removeListener&&b.removeListener(d);ya--;if(c=W(b)){d=a.type;if(d in c.g){var e=c.g[d],f=n(e,a),g;(g=0<=f)&&Array.prototype.splice.call(e,f,1);g&&(xa(a),0==c.g[d].length&&(delete c.g[d],c.h--))}0==c.h&&(c.src=null,b[T]=null)}else xa(a)}}},Da=function(a){return a in U?U[a]:U[a]="on"+a},Ga=function(a,b,c,d){var e=!0;if(a=W(a))if(b=
+a.g[b.toString()])for(b=b.concat(),a=0;a<b.length;a++){var f=b[a];f&&f.capture==c&&!f.i&&(f=Fa(f,d),e=e&&!1!==f)}return e},Fa=function(a,b){var c=a.listener,d=a.h||a.src;a.j&&X(a);return c.call(d,b)},Ea=function(a,b){if(a.i)return!0;if(!ma){if(!b)a:{b=["window","event"];for(var c=k,d=0;d<b.length;d++)if(c=c[b[d]],null==c){b=null;break a}b=c}d=b;b=new Q(d,this);c=!0;if(!(0>d.keyCode||void 0!=d.returnValue)){a:{var e=!1;if(0==d.keyCode)try{d.keyCode=-1;break a}catch(g){e=!0}if(e||void 0==d.returnValue)d.returnValue=
+!0}d=[];for(e=b.g;e;e=e.parentNode)d.push(e);a=a.type;for(e=d.length-1;0<=e;e--){b.g=d[e];var f=Ga(d[e],a,!0,b);c=c&&f}for(e=0;e<d.length;e++)b.g=d[e],f=Ga(d[e],a,!1,b),c=c&&f}return c}return Fa(a,new Q(b,this))},W=function(a){a=a[T];return a instanceof S?a:null},Y="__closure_events_fn_"+(1E9*Math.random()>>>0),Aa=function(a){if("function"===typeof a)return a;a[Y]||(a[Y]=function(b){return a.handleEvent(b)});return a[Y]};var u,t=document.documentElement,Z;function Ha(){X(Z);Z=V(t,"mousedown",function(){ca();Ia()},{capture:!0})}function Ia(){X(Z);Z=za(t,"keydown",function(a){if(9==a.keyCode){a=t;var b=u;if(a.classList)a.classList.add(b);else if(!r(a,b)){var c=p(a);q(a,c+(0<c.length?" "+b:b))}Ha()}})};u="zAoYTe";Ia();}).call(this);(function(){var c=500;(function(){window.screen&&window.screen.width<=c&&window.screen.height<=c&&document.getElementById("hdr").classList.add("sml");}).call(this);})();
+   </script>
+   <div class="cOl4Id">
+    <a href="/?sa=X&amp;ved=0ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQOwgC">
+     <span class="V6gwVd">
+      G
+     </span>
+     <span class="iWkuvd">
+      o
+     </span>
+     <span class="cDrQ7">
+      o
+     </span>
+     <span class="V6gwVd">
+      g
+     </span>
+     <span class="ntlR9">
+      l
+     </span>
+     <span class="iWkuvd tJ3Myc">
+      e
+     </span>
+    </a>
+   </div>
+   <div class="bz1lBb">
+    <form class="Pg70bf" id="sf">
+     <a class="l" href="/?output=search&amp;ie=UTF-8&amp;sa=X&amp;ved=0ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQPAgE">
+      <span class="V6gwVd">
+       G
+      </span>
+      <span class="iWkuvd">
+       o
+      </span>
+      <span class="cDrQ7">
+       o
+      </span>
+      <span class="V6gwVd">
+       g
+      </span>
+      <span class="ntlR9">
+       l
+      </span>
+      <span class="iWkuvd tJ3Myc">
+       e
+      </span>
+     </a>
+     <input name="ie" type="hidden" value="ISO-8859-1"/>
+     <div class="H0PQec">
+      <div class="sbc esbc">
+       <input autocapitalize="none" autocomplete="off" class="noHIxc" name="q" spellcheck="false" type="text" value="btc usd"/>
+       <input name="oq" type="hidden"/>
+       <input name="aqs" type="hidden"/>
+       <div class="x">
+        ×
+       </div>
+       <div class="sc">
+       </div>
+      </div>
+     </div>
+     <button id="qdClwb" type="submit">
+     </button>
+    </form>
+   </div>
+   <noscript>
+    <meta content="0;url=/search?q=btc+usd&amp;ie=UTF-8&amp;gbv=1&amp;sei=jB_qX_r0B_yE9PwP9fGK2AI" http-equiv="refresh"/>
+    <style>
+     table,div,span,p{display:none}
+    </style>
+    <div style="display:block">
+     Please click
+     <a href="/search?q=btc+usd&amp;ie=UTF-8&amp;gbv=1&amp;sei=jB_qX_r0B_yE9PwP9fGK2AI">
+      here
+     </a>
+     if you are not redirected within a few seconds.
+    </div>
+   </noscript>
+  </header>
+  <div id="main">
+   <div>
+    <div class="KP7LCb">
+     <div class="bRsWnc">
+      <div class="N6RWV">
+       <div class="Pg70bf Uv67qb">
+        <span class="OXXup">
+         All
+        </span>
+        <a class="eZt8xd" href="/search?q=btc+usd&amp;ie=UTF-8&amp;source=lnms&amp;tbm=nws&amp;sa=X&amp;ved=0ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQ_AUICCgB">
+         News
+        </a>
+        <a class="eZt8xd" href="/search?q=btc+usd&amp;ie=UTF-8&amp;source=lnms&amp;tbm=shop&amp;sa=X&amp;ved=0ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQ_AUICSgC">
+         Shopping
+        </a>
+        <a class="eZt8xd" href="/search?q=btc+usd&amp;ie=UTF-8&amp;source=lnms&amp;tbm=vid&amp;sa=X&amp;ved=0ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQ_AUICigD">
+         Videos
+        </a>
+        <a href="/search?q=btc+usd&amp;ie=UTF-8&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=0ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQ_AUICygE">
+         Images
+        </a>
+        <a href="https://maps.google.com/maps?q=btc+usd&amp;um=1&amp;ie=UTF-8&amp;sa=X&amp;ved=0ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQ_AUIDCgF">
+         Maps
+        </a>
+        <a href="/search?q=btc+usd&amp;ie=UTF-8&amp;source=lnms&amp;tbm=bks&amp;sa=X&amp;ved=0ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQ_AUIDSgG">
+         Books
+        </a>
+        <div class="FElbsf">
+         <a href="/advanced_search" id="st-toggle" role="button" style="white-space:nowrap">
+          Search tools
+         </a>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="Pg70bf wEsjbd ZINbbc xpd O9g5cc uUPGi" id="st-card" style="display:none">
+     <style>
+      .wEsjbd{background-color:#fff;height:44px;white-space:nowrap}.coPU8c{height:60px;overflow-scrolling:touch;overflow-x:auto;overflow-y:hidden}.Xj2aue{height:44px;overflow:hidden}.RnNGze{margin:11px 16px}.wEsjbd div,.wEsjbd a,.wEsjbd li{outline-width:0;outline:none}
+     </style>
+     <div class="Xj2aue">
+      <div class="coPU8c">
+       <div class="RnNGze">
+        <style>
+         .PA9J5{display:inline-block}.RXaOfd{display:inline-block;height:22px;position:relative;padding-top:0;padding-bottom:0;padding-right:16px;padding-left:0;line-height:22px;cursor:pointer;text-transform:uppercase;font-size:12px;color:#70757a}.sa1toc{display:none;position:absolute;background:#fff;border:1px solid #d6d6d6;box-shadow:0 2px 4px rgba(0,0,0,0.3);margin:0;white-space:nowrap;z-index:103;line-height:17px;padding-top:5px;padding-bottom:5px;padding-left:0px}.PA9J5:hover .sa1toc{display:block}.mGSy8d a:active,.RXaOfd:active{color:#4285f4}
+        </style>
+        <div class="PA9J5">
+         <div class="RXaOfd" role="button" tabindex="0">
+          <style>
+           .TWMOUc{display:inline-block;padding-right:14px;white-space:nowrap}.vQYuGf{font-weight:bold}.OmTIzf{border-color:#909090 transparent;border-style:solid;border-width:4px 4px 0 4px;width:0;height:0;margin-left:-10px;top:50%;margin-top:-2px;position:absolute}.RXaOfd:active .OmTIzf{border-color:#4285f4 transparent}
+          </style>
+          <div class="TWMOUc">
+           Any time
+          </div>
+          <span class="OmTIzf">
+          </span>
+         </div>
+         <ul class="sa1toc ozatM">
+          <style>
+           .ozatM{font-size:12px;text-transform:uppercase}.ozatM .yNFsl,.ozatM li{list-style-type:none;list-style-position:outside;list-style-image:none}.yNFsl.SkUj4c,.yNFsl a{color:rgba(0,0,0,0.54);text-decoration:none;padding:6px 44px 6px 14px;line-height:17px;display:block}.SkUj4c{background-image:url(//ssl.gstatic.com/ui/v1/menu/checkmark2.png);background-position:right center;background-repeat:no-repeat}.SkUj4c:active{background-color:#f8f9fa}
+          </style>
+          <li class="yNFsl SkUj4c">
+           Any time
+          </li>
+          <li class="yNFsl">
+           <a href="/search?q=btc+usd&amp;ie=UTF-8&amp;source=lnt&amp;tbs=qdr:h&amp;sa=X&amp;ved=0ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQpwUIDw">
+            Past hour
+           </a>
+          </li>
+          <li class="yNFsl">
+           <a href="/search?q=btc+usd&amp;ie=UTF-8&amp;source=lnt&amp;tbs=qdr:d&amp;sa=X&amp;ved=0ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQpwUIEA">
+            Past 24 hours
+           </a>
+          </li>
+          <li class="yNFsl">
+           <a href="/search?q=btc+usd&amp;ie=UTF-8&amp;source=lnt&amp;tbs=qdr:w&amp;sa=X&amp;ved=0ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQpwUIEQ">
+            Past week
+           </a>
+          </li>
+          <li class="yNFsl">
+           <a href="/search?q=btc+usd&amp;ie=UTF-8&amp;source=lnt&amp;tbs=qdr:m&amp;sa=X&amp;ved=0ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQpwUIEg">
+            Past month
+           </a>
+          </li>
+          <li class="yNFsl">
+           <a href="/search?q=btc+usd&amp;ie=UTF-8&amp;source=lnt&amp;tbs=qdr:y&amp;sa=X&amp;ved=0ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQpwUIEw">
+            Past year
+           </a>
+          </li>
+         </ul>
+        </div>
+        <div class="PA9J5">
+         <div class="RXaOfd" role="button" tabindex="0">
+          <div class="TWMOUc">
+           All results
+          </div>
+          <span class="OmTIzf">
+          </span>
+         </div>
+         <ul class="sa1toc ozatM">
+          <li class="yNFsl SkUj4c">
+           All results
+          </li>
+          <li class="yNFsl">
+           <a href="/search?q=BTC+usd&amp;ie=UTF-8&amp;source=lnt&amp;tbs=li:1&amp;sa=X&amp;ved=0ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQpwUIFQ">
+            Verbatim
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+      </div>
+     </div>
+     <script nonce="A9p1gszWem+FMUpxpYmfNg==">
+      (function(){
+var a=document.getElementById("st-toggle"),b=document.getElementById("st-card");a&&b&&a.addEventListener("click",function(c){b.style.display=b.style.display?"":"none";c.preventDefault()},!1);}).call(this);
+     </script>
+    </div>
+   </div>
+   <style>
+    .ZINbbc{background-color:#fff;margin-bottom:10px;box-shadow:0 1px 6px rgba(32, 33, 36, 0.28);border-radius:8px}.uUPGi{font-size:14px;line-height:20px;}.O9g5cc>*:first-child{border-top-left-radius:8px;border-top-right-radius:8px}.O9g5cc>*:last-child{border-bottom-left-radius:8px;border-bottom-right-radius:8px}.O9g5cc>.qxDOhb>*:first-child{border-top-left-radius:8px;border-top-right-radius:8px}.O9g5cc>.qxDOhb>*:last-child{border-bottom-left-radius:8px;border-bottom-right-radius:8px}.kCrYT{padding:12px 16px 12px}.BNeawe{white-space:pre-line;word-wrap:break-word}.tAd8D{font-size:14px;line-height:20px}.tAd8D.HrGdeb{color:rgba(255,255,255,.70)}.tAd8D.AP7Wnd{color:#70757a}.r0bn4c.tr0dw{color:rgba(255,255,255,.70)}.r0bn4c.rQMQod{color:#70757a}.x54gtf{height:1px;background-color:#dfe1e5;margin:0 16px}.Q0HXG{height:1px;background-color:#dfe1e5}.lnWbdd{display:table;width:100%}.kvKEAb{display:table-cell;vertical-align:top}.nXE3Ob{padding-top:12px}.iafz5e{float:right;padding-left:16px}.zv7zOb{border-radius:8px;display:block}.Ap5OSd{padding-bottom:12px}.iBp4i{font-size:24px;line-height:28px;font-weight:400}.iBp4i.HrGdeb{color:#fff}.iBp4i.AP7Wnd{color:#202124}.uEec3{font-size:12px;line-height:16px}.uEec3.HrGdeb{color:rgba(255,255,255,.70)}.uEec3.AP7Wnd{color:#70757a}a.fdYsqf{color:#4B11A8}.wITvVb{margin:0;padding:12px 16px 12px}.deIvCb{font-size:16px;line-height:20px;font-weight:400}.deIvCb.HrGdeb{color:#fff}.deIvCb.AP7Wnd{color:#202124}.FCUp0c{font-weight:bold}.LKSyXe{height:1px;background-color:#dfe1e5;margin:0 16px}.xpc .hwc,.xpx .hwx{display:none}.iIWm4b{box-sizing:border-box;min-height:48px}html:not(.zAoYTe) .hide-focus-ring{outline:0}.fLtXsc{padding:14px;position:relative}.NtmAdb{width:40px;height:40px;overflow:hidden;margin-top:-10px;margin-bottom:-16px;margin-right:8px;border-radius:4px}.xpc .NtmAdb{display:inline-block}.xpx .NtmAdb{display:none}.Lt3Tzc{display:inline-block;padding-right:26px}.Lym8W{width:14px;height:20px;position:relative;margin:0 auto}.xCgLUe{position:absolute;right:16px;margin-top:-10px;top:50%}.Lym8W div{position:absolute;border-left:7px solid transparent;border-right:7px solid transparent;width:0;height:0;left:0}.IyYaEd{top:7px;border-top:7px solid #70757a}.ECUHQe{top:4px;border-top:7px solid #fff}.AeQQub{bottom:7px;border-bottom:7px solid #70757a}.YCU7eb{bottom:4px;border-bottom:7px solid #fff}.qxDOhb{border-radius:0}.M56Nqc{padding:0 16px 12px}.Z8j5ae>div>div{border-radius:8px;box-shadow:none;border:1px solid #dadce0;margin-bottom:0}.oTWEpb{padding-top:12px}.n1Qedd{overflow:hidden;text-align:center}.KMAGC{margin:0 auto;display:block}.ho0sdc{margin:0 -50%;display:inline-block}.s3v9rd{font-size:14px;line-height:20px}.s3v9rd.HrGdeb{color:#fff}.s3v9rd.AP7Wnd{color:#202124}.vvjwJb{color:#1967D2;font-size:16px;line-height:20px}a:visited .vvjwJb,.vvjwJb a:visited{color:#4B11A8}.vvjwJb.HrGdeb{color:#fff}a:visited .vvjwJb.HrGdeb,.vvjwJb.HrGdeb a:visited{color:rgba(255,255,255,.70)}.UPmit{font-size:14px;line-height:20px}.UPmit.HrGdeb{color:rgba(255,255,255,.70)}.UPmit.AP7Wnd{color:#0d652d}.PDHNXc{display:table;width:100%;padding-top:16px;padding-bottom:16px;margin-bottom:-12px}.iU269d{display:table-cell;vertical-align:top}.TeHtNe{vertical-align:middle}.kXUfPb{color:#3c4043;font-size:14px;text-align:center}.Vp9uZ{display:block;white-space:pre-line;word-wrap:break-word}.kXUfPb.Vp9uZ{line-height:20px}.RtoYlb{padding:18px}.hfgVwf{margin-top:12px}.IxZjcf .hfgVwf{margin-bottom:12px}.OdF8Fd{float:right;padding-left:16px}.p1vimb{border-radius:8px;display:block}.rkvY3c{clear:both}.CgE3Ac{margin:0 16px}.I9mEQ{padding-bottom:12px}.LnMnt{border-collapse:collapse;border-spacing:0;width:100%}.LnMnt td{padding-top:0;padding-bottom:0;padding-right:8px}.LnMnt .s5aIid{padding-right:0}.IxZjcf{border-bottom:1px solid #dfe1e5}.sjsZvd{vertical-align:top}.OE1use{text-align:left}.BSv1qf{text-align:center}.HlHBvc{text-align:right}.IfyLsd{float:left;margin-right:8px}.rl7ilb{display:block;clear:both}.zBAuLc{font-weight:normal;line-height:normal;margin:0;padding:0}.mSx1Ee{padding-left:48px;margin:0}.v9i61e{padding-bottom:8px}.XLloXe{color:#1967D2;font-size:14px;line-height:20px}a:visited .XLloXe,.XLloXe a:visited{color:#4B11A8}.XLloXe.HrGdeb{color:#fff}a:visited .XLloXe.HrGdeb,.XLloXe.HrGdeb a:visited{color:rgba(255,255,255,.70)}.Xdlr0d{overflow-x:auto;-webkit-overflow-scrolling:touch;margin:0 -8px;padding:16px 0 16px 24px;padding-top:2px;margin-top:-2px;transform:translate3d(0,0,0)}.idg8be{display:table;border-collapse:separate;border-spacing:8px 0;margin:0 -8px;padding-right:16px}.BVG0Nb{display:table-cell;vertical-align:top;background-color:#fff;border-radius:8px;box-shadow:0 1px 6px rgba(32, 33, 36, 0.28);overflow:hidden}.EYOsld{display:inline-block;position:relative}.BFi9Zb{overflow:hidden;position:relative}.S7Jdze{align-items:center;display:flex;flex-direction:column;justify-content:space-around}.R0jTRc{vertical-align:middle}.Xb5VRe{color:#1967D2}a:visited .Xb5VRe{color:#4B11A8}.Xb5VRe.tr0dw{color:#fff}a:visited .Xb5VRe.tr0dw{color:rgba(255,255,255,.70)}.SXn0g{overflow:hidden}.GXKcHe{display:inline-block}.p1CInd{position:relative}.W5nzFf{padding-bottom:12px}.r2NYtc>div>div{box-shadow:none;border:none;margin-bottom:0;margin-top:-16px}.FybcKc{padding-top:16px}.mHhylf{display:table-cell;vertical-align:middle}.WZ5GJf{align-items:center;padding:0 20px;min-width:112px}.qN9Ked,.DXk5Me{margin:0 auto}.DXk5Me{margin-bottom:12px}.Qi9Fd{background:#fff;border:0;border-radius:999px;display:block;height:56px;justify-content:center;width:56px;z-index:0}.Qi9Fd{box-shadow:0 1px 6px rgba(32, 33, 36, 0.28),inset 0 0 0 0 rgba(0,0,0,0.10),inset 0 0 0 0 rgba(255,255,255,0.50)}.Qi9Fd:focus{outline:none}.Qi9Fd .hWHuJ{display:block;margin:0 auto}.ji5jpf{text-align:center}.MHODM,.MHODM:visited{color:inherit}.Sljvkf{padding:14px;position:relative}.fohFr{display:block;position:relative;width:100%}.EbCMvf{position:absolute;left:0;vertical-align:bottom;width:100%}.yE2Vzb{padding-left:48px}.QDvyZe{width:40px;height:40px;overflow:hidden;margin-top:-10px;margin-bottom:-16px;margin-right:8px;border-radius:4px;display:inline-block;border-radius:50%;}.LsF2v span{color:#fff;mask-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAQAAAD9CzEMAAABa0lEQVR4AeyWtUIYQRBAX6yLu0uH08Q9ZfInNHF36UKFlHwHNLi7u2uNN9hgg3PsCVtx753fzOkalgkJieErOXQwsWAHOXwjZjcvXohsYy7xBOYgycwhDs6RzEECcJZyxGA5Z/HJIUoQVAp4z22OL3ibdxs+WgmH8EUqorZzl83cpR1RU/FBDKI2cMrhAzYgaiyeydDUQc7hxDkGNSoDj1xH1CfsxDNEvYEnXmtaNiayNPK1vw+UgIkEfx+pRdOiMRGlkS14YlLTjmHimEZO4IlxTTuCiSMaOYkn2jQtChORGtlr+ycX4YlXrotptkb+wxM3XFa0J4j60E5TMaRRNXgmHlEbOevQ2DUi6gt8kGJorjsQNW23OpxbnOQEt3lPMYLKNJdsdpkjuv5lo9MX/nMBUT/jk3iHYUs9zwGQ4LeAaHTgxTgtpPOLpyj8Dn4LE4l79RbhLV7bvsVnsHmLz1gk0e7lQ0LmRzMAAAU5VLMEuZJZAAAAAElFTkSuQmCC)}.vhXRgc{padding:14px}.cREFlf{display:inline-block;color:#3c4043}.lRVwie{text-overflow:ellipsis;white-space:nowrap;overflow:hidden}.rLshyf,.BmP5tf{padding-top:12px;padding-bottom:12px}.YOx3Ab{padding-left:16px;}.w1C3Le,.BmP5tf,.G5NbBd{padding-left:16px;padding-right:16px;}.G5NbBd{padding-bottom:12px}.nMymef{display:flex}.G5eFlf{flex:1;display:block}.nMymef span{text-align:center}
+   </style>
+   <div>
+    <!--SW_C_X-->
+   </div>
+   <div>
+    <div class="ZINbbc xpd O9g5cc uUPGi">
+     <div class="kCrYT">
+      <span>
+       <span class="BNeawe tAd8D AP7Wnd">
+        <span class="r0bn4c rQMQod">
+         1 Bitcoin =
+        </span>
+       </span>
+      </span>
+     </div>
+     <div class="Q0HXG">
+     </div>
+     <div>
+      <div>
+       <div>
+        <div class="kCrYT">
+         <div>
+          <div>
+           <div>
+            <div class="BNeawe iBp4i AP7Wnd">
+             <div>
+              <div class="BNeawe iBp4i AP7Wnd">
+               27,166.20 United States Dollar
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="nXE3Ob">
+           <span>
+            <div class="BNeawe uEec3 AP7Wnd">
+             <span class="BNeawe">
+              <a href="https://g.co/gfd">
+               <span class="uEec3 AP7Wnd">
+                Disclaimer
+               </span>
+              </a>
+             </span>
+            </div>
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="ZINbbc xpd O9g5cc uUPGi">
+    <h2 class="wITvVb">
+     <span>
+      <div class="BNeawe deIvCb AP7Wnd">
+       <span class="FCUp0c rQMQod">
+        People also ask
+       </span>
+      </div>
+     </span>
+    </h2>
+    <div class="LKSyXe">
+    </div>
+    <div class="xpc">
+     <div class="duf-h">
+      <div aria-expanded="false" class="fLtXsc hide-focus-ring iIWm4b" data-ved="2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQuk56BAgREAI" id="tsuid31" role="button" tabindex="0">
+       <div class="Lt3Tzc">
+        Will Bitcoin Rise Again 2020?
+       </div>
+       <div class="Lym8W xCgLUe">
+        <div class="AeQQub hwc">
+        </div>
+        <div class="YCU7eb hwc">
+        </div>
+        <div class="IyYaEd hwx">
+        </div>
+        <div class="ECUHQe hwx">
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="qxDOhb" id="accdef_32">
+     </div>
+    </div>
+    <div class="LKSyXe">
+    </div>
+    <div class="xpc">
+     <div class="duf-h">
+      <div aria-expanded="false" class="fLtXsc hide-focus-ring iIWm4b" data-ved="2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQuk56BAgREAU" id="tsuid36" role="button" tabindex="0">
+       <div class="Lt3Tzc">
+        Can 1 Bitcoin make you a millionaire?
+       </div>
+       <div class="Lym8W xCgLUe">
+        <div class="AeQQub hwc">
+        </div>
+        <div class="YCU7eb hwc">
+        </div>
+        <div class="IyYaEd hwx">
+        </div>
+        <div class="ECUHQe hwx">
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="qxDOhb" id="accdef_39">
+     </div>
+    </div>
+    <div class="LKSyXe">
+    </div>
+    <div class="xpc">
+     <div class="duf-h">
+      <div aria-expanded="false" class="fLtXsc hide-focus-ring iIWm4b" data-ved="2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQuk56BAgREAg" id="tsuid41" role="button" tabindex="0">
+       <div class="Lt3Tzc">
+        How much is the Bitcoin right now?
+       </div>
+       <div class="Lym8W xCgLUe">
+        <div class="AeQQub hwc">
+        </div>
+        <div class="YCU7eb hwc">
+        </div>
+        <div class="IyYaEd hwx">
+        </div>
+        <div class="ECUHQe hwx">
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="qxDOhb" id="accdef_42">
+     </div>
+    </div>
+    <div class="LKSyXe">
+    </div>
+    <div class="xpc">
+     <div class="duf-h">
+      <div aria-expanded="false" class="fLtXsc hide-focus-ring iIWm4b" data-ved="2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQuk56BAgREAs" id="tsuid44" role="button" tabindex="0">
+       <div class="Lt3Tzc">
+        Is it worth buying 100 dollars of Bitcoin?
+       </div>
+       <div class="Lym8W xCgLUe">
+        <div class="AeQQub hwc">
+        </div>
+        <div class="YCU7eb hwc">
+        </div>
+        <div class="IyYaEd hwx">
+        </div>
+        <div class="ECUHQe hwx">
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="qxDOhb" id="accdef_47">
+     </div>
+    </div>
+   </div>
+   <div>
+    <div class="ZINbbc xpd O9g5cc uUPGi">
+     <div class="kCrYT">
+      <a href="/url?q=https://finance.yahoo.com/quote/BTC-USD/&amp;sa=U&amp;ved=2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQFjAJegQIBhAB&amp;usg=AOvVaw3v6f5MDLrliXakXv9YGEBP">
+       <h3 class="zBAuLc">
+        <div class="BNeawe vvjwJb AP7Wnd">
+         Bitcoin USD (BTC-USD) Stock Price, News, Quote &amp; History - Yahoo ...
+        </div>
+       </h3>
+       <div class="BNeawe UPmit AP7Wnd">
+        finance.yahoo.com › quote › BTC-USD
+       </div>
+      </a>
+     </div>
+     <div class="x54gtf">
+     </div>
+     <div class="kCrYT">
+      <div>
+       <div class="BNeawe s3v9rd AP7Wnd">
+        <div>
+         <div>
+          <div class="BNeawe s3v9rd AP7Wnd">
+           Find the latest Bitcoin USD (BTC-USD) stock quote, history, news and other vital information to help you with your stock trading and investing.
+           <span class="BNeawe">
+            <a href="/url?q=https://finance.yahoo.com/quote/BTC-USD/chart/&amp;sa=U&amp;ved=2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQ0gIwCXoECAYQAg&amp;usg=AOvVaw05LfiP_73b3YZXynYqzv4q">
+             <span class="XLloXe AP7Wnd">
+              Chart
+             </span>
+            </a>
+           </span>
+           ·
+           <span class="BNeawe">
+            <a href="/url?q=https://finance.yahoo.com/chart/BTC-USD/&amp;sa=U&amp;ved=2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQ0gIwCXoECAYQAw&amp;usg=AOvVaw1TxU28ntYTWiVw5rkUYz-h">
+             <span class="XLloXe AP7Wnd">
+              BTC
+             </span>
+            </a>
+           </span>
+           ·
+           <span class="BNeawe">
+            <a href="/url?q=https://finance.yahoo.com/quote/BTC-USD/history/&amp;sa=U&amp;ved=2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQ0gIwCXoECAYQBA&amp;usg=AOvVaw0rIw6so5lZTW7tLqmF5NRv">
+             <span class="XLloXe AP7Wnd">
+              BTC-USD
+             </span>
+            </a>
+           </span>
+           ·
+           <span class="BNeawe">
+            <a href="/url?q=https://finance.yahoo.com/quote/XMR-USD/&amp;sa=U&amp;ved=2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQ0gIwCXoECAYQBQ&amp;usg=AOvVaw3GGdxNo-KfvXzh7dWrH6D9">
+             <span class="XLloXe AP7Wnd">
+              XMR-USD
+             </span>
+            </a>
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <div class="ZINbbc xpd O9g5cc uUPGi">
+     <div class="kCrYT">
+      <a href="/url?q=https://www.tradingview.com/symbols/BTCUSD/&amp;sa=U&amp;ved=2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQFjAKegQICRAB&amp;usg=AOvVaw3pwl7OwXCVIMoRmjQGto7X">
+       <h3 class="zBAuLc">
+        <div class="BNeawe vvjwJb AP7Wnd">
+         BTCUSD — Bitcoin Chart and Price — TradingView
+        </div>
+       </h3>
+       <div class="BNeawe UPmit AP7Wnd">
+        www.tradingview.com › Markets › Cryptocurrencies › Bitcoin
+       </div>
+      </a>
+     </div>
+     <div class="x54gtf">
+     </div>
+     <div class="kCrYT">
+      <div>
+       <div class="BNeawe s3v9rd AP7Wnd">
+        <div>
+         <div>
+          <div class="BNeawe s3v9rd AP7Wnd">
+           Watch live Bitcoin to Dollar chart, follow BTCUSD prices in real-time and get bitcoin price history. Check the Bitcoin technical analysis and forecasts.
+           <span class="BNeawe">
+            <a href="/url?q=https://uk.tradingview.com/symbols/BTCUSD/&amp;sa=U&amp;ved=2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQ0gIwCnoECAkQAg&amp;usg=AOvVaw31ZIBYJaj2d7hNVhSohJ6V">
+             <span class="XLloXe AP7Wnd">
+              BTC/USD
+             </span>
+            </a>
+           </span>
+           ·
+           <span class="BNeawe">
+            <a href="/url?q=https://www.tradingview.com/chart/BTCUSD/jCpTilNZ-A-BTC-Signal-With-100-Accuracy-For-Your-Viewing-Pleasure/&amp;sa=U&amp;ved=2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQ0gIwCnoECAkQAw&amp;usg=AOvVaw3MPX1xw8swy-W952XO7G3w">
+             <span class="XLloXe AP7Wnd">
+              A BTC Signal With 100 ...
+             </span>
+            </a>
+           </span>
+           ·
+           <span class="BNeawe">
+            <a href="/url?q=https://www.tradingview.com/symbols/BTCUSD/ideas/&amp;sa=U&amp;ved=2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQ0gIwCnoECAkQBA&amp;usg=AOvVaw2FaAf3bQDAb25fI2LjxC5K">
+             <span class="XLloXe AP7Wnd">
+              Ideas
+             </span>
+            </a>
+           </span>
+           ·
+           <span class="BNeawe">
+            <a href="/url?q=https://www.tradingview.com/symbols/BTCUSD/technicals/&amp;sa=U&amp;ved=2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQ0gIwCnoECAkQBQ&amp;usg=AOvVaw03zEZ8i7_2WA6oOmzTZ93A">
+             <span class="XLloXe AP7Wnd">
+              Technicals
+             </span>
+            </a>
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <div class="ZINbbc xpd O9g5cc uUPGi">
+     <div class="kCrYT">
+      <div class="BNeawe deIvCb AP7Wnd">
+       <span class="FCUp0c rQMQod">
+        Top stories
+       </span>
+      </div>
+     </div>
+     <div>
+      <div>
+       <div>
+        <div class="Xdlr0d">
+         <div class="idg8be">
+          <a class="BVG0Nb" href="/url?q=https://www.marketwatch.com/story/buy-bitcoin-as-prices-soar-near-27-000-in-holiday-trade-good-luck-11609100397&amp;sa=U&amp;ved=2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQ0PADMAt6BAgAEAI&amp;usg=AOvVaw2IAHtLCtk2QZbSwVrw5OZk">
+           <div>
+            <div style="width:232px">
+             <div class="S7Jdze" style="background-color:;width:232px;height:128px">
+              <img alt="" class="EYOsld" data-deferred="1" id="dimg_1" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="max-width:232px;max-height:128px"/>
+             </div>
+             <div class="RWuggc kCrYT">
+              <div>
+               <div class="BNeawe s3v9rd AP7Wnd">
+                <span class="rQMQod Xb5VRe">
+                 Buy bitcoin as prices soar above $28,000 in holiday trade? Good luck!
+                </span>
+               </div>
+              </div>
+              <div>
+               <div class="BNeawe tAd8D AP7Wnd">
+                MarketWatch
+21 hours ago
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </a>
+          <a class="BVG0Nb" href="/url?q=https://finance.yahoo.com/news/bitcoin-tops-28k-1st-time-144308083.html&amp;sa=U&amp;ved=2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQ0PADMAx6BAgAEAY&amp;usg=AOvVaw1-kckcuRYym8LYespq0jOK">
+           <div>
+            <div style="width:232px">
+             <div class="S7Jdze" style="background-color:;width:232px;height:128px">
+              <img alt="" class="EYOsld" data-deferred="1" id="dimg_3" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="max-width:232px;max-height:128px"/>
+             </div>
+             <div class="RWuggc kCrYT">
+              <div>
+               <div class="BNeawe s3v9rd AP7Wnd">
+                <span class="rQMQod Xb5VRe">
+                 Bitcoin Tops $28K for 1st Time, Hours After Crossing $27K; Market Cap Now 
+Exceeds $500B
+                </span>
+               </div>
+              </div>
+              <div>
+               <div class="BNeawe tAd8D AP7Wnd">
+                Yahoo Finance
+1 day ago
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </a>
+          <a class="BVG0Nb" href="/url?q=https://seekingalpha.com/news/3647437-bitcoin-surges-through-28k-pulling-back&amp;sa=U&amp;ved=2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQ0PADMA16BAgAEAo&amp;usg=AOvVaw1wnHQGnzcYNCDFQt74U9ei">
+           <div>
+            <div style="width:232px">
+             <div class="S7Jdze" style="background-color:;width:232px;height:128px">
+              <img alt="" class="EYOsld" data-deferred="1" id="dimg_5" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="max-width:232px;max-height:128px"/>
+             </div>
+             <div class="RWuggc kCrYT">
+              <div>
+               <div class="BNeawe s3v9rd AP7Wnd">
+                <span class="rQMQod Xb5VRe">
+                 Bitcoin surges through $28K before pulling back
+                </span>
+               </div>
+              </div>
+              <div>
+               <div class="BNeawe tAd8D AP7Wnd">
+                Seeking Alpha
+21 hours ago
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </a>
+          <a class="BVG0Nb" href="/url?q=https://finance.yahoo.com/news/deribit-adding-options-allow-bitcoin-152523907.html&amp;sa=U&amp;ved=2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQ0PADMA56BAgAEA4&amp;usg=AOvVaw3WDf9OTuBfdY3VJ1RbiwIM">
+           <div>
+            <div style="width:232px">
+             <div class="S7Jdze" style="background-color:;width:232px;height:128px">
+              <img alt="" class="EYOsld" data-deferred="1" id="dimg_7" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="max-width:232px;max-height:128px"/>
+             </div>
+             <div class="RWuggc kCrYT">
+              <div>
+               <div class="BNeawe s3v9rd AP7Wnd">
+                <span class="rQMQod Xb5VRe">
+                 Deribit Adding Options to Allow Bitcoin Traders to Bet on Rally to $120K, 
+$140K
+                </span>
+               </div>
+              </div>
+              <div>
+               <div class="BNeawe tAd8D AP7Wnd">
+                Yahoo Finance
+2 days ago
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </a>
+          <a class="BVG0Nb" href="/url?q=https://www.newsbtc.com/analysis/btc/bitcoin-has-yet-to-post-blow-off-top-despite-this-mornings-rejection/&amp;sa=U&amp;ved=2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQ0PADMA96BAgAEBI&amp;usg=AOvVaw1mb62qhzUShXuSo7a5ybD2">
+           <div>
+            <div style="width:232px">
+             <div class="S7Jdze" style="background-color:;width:232px;height:128px">
+              <img alt="" class="EYOsld" data-deferred="1" id="dimg_9" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="max-width:232px;max-height:128px"/>
+             </div>
+             <div class="RWuggc kCrYT">
+              <div>
+               <div class="BNeawe s3v9rd AP7Wnd">
+                <span class="rQMQod Xb5VRe">
+                 Bitcoin Has Yet to Post a “Blow-Off Top” Despite This Morning’s Rejection
+                </span>
+               </div>
+              </div>
+              <div>
+               <div class="BNeawe tAd8D AP7Wnd">
+                NewsBTC
+19 hours ago
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </a>
+          <a class="BVG0Nb" href="/url?q=https://www.newsbtc.com/analysis/btc/bitcoin-reaches-27k-why-btc-could-hit-30k-before-new-year/&amp;sa=U&amp;ved=2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQ0PADMBB6BAgAEBY&amp;usg=AOvVaw3NDdG59re4GBgmFtSf3ZWb">
+           <div>
+            <div style="width:232px">
+             <div class="S7Jdze" style="background-color:;width:232px;height:128px">
+              <img alt="" class="EYOsld" data-deferred="1" id="dimg_11" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="max-width:232px;max-height:128px"/>
+             </div>
+             <div class="RWuggc kCrYT">
+              <div>
+               <div class="BNeawe s3v9rd AP7Wnd">
+                <span class="rQMQod Xb5VRe">
+                 Bitcoin Reaches $27K, Why BTC Could Hit $30K Before New Year
+                </span>
+               </div>
+              </div>
+              <div>
+               <div class="BNeawe tAd8D AP7Wnd">
+                NewsBTC
+1 day ago
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </a>
+          <a class="BVG0Nb" href="/url?q=https://www.businessinsider.com/bitcoin-price-kevin-oleary-regulations-institutional-investors-weep-cryptocurrency-2020-12&amp;sa=U&amp;ved=2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQ0PADMBF6BAgAEBo&amp;usg=AOvVaw0s-UVn-g6dMSMI4uL2N1UJ">
+           <div>
+            <div style="width:232px">
+             <div class="S7Jdze" style="background-color:;width:232px;height:128px">
+              <img alt="" class="EYOsld" data-deferred="1" id="dimg_13" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="max-width:232px;max-height:128px"/>
+             </div>
+             <div class="RWuggc kCrYT">
+              <div>
+               <div class="BNeawe s3v9rd AP7Wnd">
+                <span class="rQMQod Xb5VRe">
+                 Bitcoin is irrelevant to financial markets and investors 'are going to 
+weep' if regulators come down hard on crypto, says ...
+                </span>
+               </div>
+              </div>
+              <div>
+               <div class="BNeawe tAd8D AP7Wnd">
+                Business Insider
+3 days ago
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <div class="ZINbbc xpd O9g5cc uUPGi">
+     <div class="kCrYT">
+      <a href="/url?q=https://www.marketwatch.com/investing/cryptocurrency/btcusd&amp;sa=U&amp;ved=2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQFjASegQIBxAB&amp;usg=AOvVaw07Uo69ShOTgwVNZuSzjJFt">
+       <h3 class="zBAuLc">
+        <div class="BNeawe vvjwJb AP7Wnd">
+         BTCUSD | Bitcoin USD Overview | MarketWatch
+        </div>
+       </h3>
+       <div class="BNeawe UPmit AP7Wnd">
+        www.marketwatch.com › Investing › Quotes › Crypto Currency
+       </div>
+      </a>
+     </div>
+     <div class="x54gtf">
+     </div>
+     <div class="kCrYT">
+      <div>
+       <div class="BNeawe s3v9rd AP7Wnd">
+        <div>
+         <div>
+          <div class="BNeawe s3v9rd AP7Wnd">
+           BTCUSD | A complete Bitcoin USD cryptocurrency overview by MarketWatch. View the latest cryptocurrency news, crypto prices and market data.
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <div class="ZINbbc xpd O9g5cc uUPGi">
+     <div class="kCrYT">
+      <a href="/url?q=https://ca.investing.com/crypto/bitcoin/btc-usd&amp;sa=U&amp;ved=2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQFjATegQIDBAB&amp;usg=AOvVaw2BPG11xHa0v-TB2zaMErpI">
+       <h3 class="zBAuLc">
+        <div class="BNeawe vvjwJb AP7Wnd">
+         BTC to USD | Bitcoin to USD Bitfinex - Investing.com Canada
+        </div>
+       </h3>
+       <div class="BNeawe UPmit AP7Wnd">
+        ca.investing.com › crypto › bitcoin › btc-usd
+       </div>
+      </a>
+     </div>
+     <div class="x54gtf">
+     </div>
+     <div class="kCrYT">
+      <div>
+       <div class="BNeawe s3v9rd AP7Wnd">
+        <div>
+         <div>
+          <div class="BNeawe s3v9rd AP7Wnd">
+           Examine the current Bitcoin to USD Bitfinex rate and access our BTC to USD converter, charts, historical data, news, and more.
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <div class="ZINbbc xpd O9g5cc uUPGi">
+     <div class="kCrYT">
+      <a href="/url?q=https://www.bitfinex.com/demo&amp;sa=U&amp;ved=2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQFjAUegQIARAB&amp;usg=AOvVaw0IXcREcfOF4usWQ9BcuiWy">
+       <h3 class="zBAuLc">
+        <div class="BNeawe vvjwJb AP7Wnd">
+         25,312 BTC/USD - Bitfinex
+        </div>
+       </h3>
+       <div class="BNeawe UPmit AP7Wnd">
+        www.bitfinex.com › demo
+       </div>
+      </a>
+     </div>
+     <div class="x54gtf">
+     </div>
+     <div class="kCrYT">
+      <div>
+       <div class="BNeawe s3v9rd AP7Wnd">
+        <div>
+         <div>
+          <div class="BNeawe s3v9rd AP7Wnd">
+           Download our free best in class algorithmic trading engine for Bitfinex. Learn more. Chart BTC/USD. Show liquidations. Date Range. 00:00:04 (UTC). log. auto  ...
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <div class="ZINbbc xpd O9g5cc uUPGi">
+     <div class="kCrYT">
+      <a href="/url?q=https://www.coindesk.com/price/bitcoin&amp;sa=U&amp;ved=2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQFjAVegQIAhAB&amp;usg=AOvVaw3GVLh_j7Nxy3Jrk99kH-M2">
+       <h3 class="zBAuLc">
+        <div class="BNeawe vvjwJb AP7Wnd">
+         Bitcoin Price | BTC Price Index and Live Chart — CoinDesk 20
+        </div>
+       </h3>
+       <div class="BNeawe UPmit AP7Wnd">
+        www.coindesk.com › price › bitcoin
+       </div>
+      </a>
+     </div>
+     <div class="x54gtf">
+     </div>
+     <div class="kCrYT">
+      <div>
+       <div class="BNeawe s3v9rd AP7Wnd">
+        <div>
+         <div>
+          <div class="BNeawe s3v9rd AP7Wnd">
+           Bitcoin USD price, real-time (live) charts, news and videos. Learn about BTC value, bitcoin cryptocurrency, crypto trading, and more.
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <div class="ZINbbc xpd O9g5cc uUPGi">
+     <div class="kCrYT">
+      <a href="/url?q=https://www.kitco.com/bitcoin-price-charts-usd/&amp;sa=U&amp;ved=2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQFjAWegQIAxAB&amp;usg=AOvVaw10h3KNgCdfk3m_7bKnw74G">
+       <h3 class="zBAuLc">
+        <div class="BNeawe vvjwJb AP7Wnd">
+         Bitcoin Price in USD | Real Time Bitcoin Chart | KITCO
+        </div>
+       </h3>
+       <div class="BNeawe UPmit AP7Wnd">
+        www.kitco.com › bitcoin-price-charts-usd
+       </div>
+      </a>
+     </div>
+     <div class="x54gtf">
+     </div>
+     <div class="kCrYT">
+      <div>
+       <div class="BNeawe s3v9rd AP7Wnd">
+        <div>
+         <div>
+          <div class="BNeawe s3v9rd AP7Wnd">
+           The Kitco Bitcoin price index provides the latest Bitcoin price in US Dollars using an average from the world's leading exchanges.
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <div class="ZINbbc xpd O9g5cc uUPGi">
+     <div class="kCrYT">
+      <a href="/url?q=https://www.dailyfx.com/bitcoin&amp;sa=U&amp;ved=2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQFjAXegQIBRAB&amp;usg=AOvVaw2QcBJ3sJt2kRjssKG0OD2s">
+       <h3 class="zBAuLc">
+        <div class="BNeawe vvjwJb AP7Wnd">
+         Bitcoin Price (BTC/USD): BTC Live Chart, News &amp; Analysis - DailyFX
+        </div>
+       </h3>
+       <div class="BNeawe UPmit AP7Wnd">
+        www.dailyfx.com › bitcoin
+       </div>
+      </a>
+     </div>
+     <div class="x54gtf">
+     </div>
+     <div class="kCrYT">
+      <div>
+       <div class="BNeawe s3v9rd AP7Wnd">
+        <div>
+         <div>
+          <div class="BNeawe s3v9rd AP7Wnd">
+           Follow the Bitcoin price live with the interactive, real-time chart and read our expert articles on the latest BTC news, forecast and technical analysis.
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div>
+    <div class="ZINbbc xpd O9g5cc uUPGi">
+     <div class="kCrYT">
+      <a href="/url?q=https://markets.businessinsider.com/currencies/btc-usd&amp;sa=U&amp;ved=2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQFjAYegQICBAB&amp;usg=AOvVaw3UTFzAT98ufcVeeYxZqxqe">
+       <h3 class="zBAuLc">
+        <div class="BNeawe vvjwJb AP7Wnd">
+         Bitcoin Price | BTC USD | Chart | Bitcoin US-Dollar | Markets Insider
+        </div>
+       </h3>
+       <div class="BNeawe UPmit AP7Wnd">
+        markets.businessinsider.com › currencies › btc-usd
+       </div>
+      </a>
+     </div>
+     <div class="x54gtf">
+     </div>
+     <div class="kCrYT">
+      <div>
+       <div class="BNeawe s3v9rd AP7Wnd">
+        <div>
+         <div>
+          <div class="BNeawe s3v9rd AP7Wnd">
+           Bitcoin Price (BTC USD): Get all information on the Bitcoin to US-Dollar Exchange Rate including Charts, News and Realtime Price.
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="ZINbbc xpd O9g5cc uUPGi">
+    <h2 class="wITvVb">
+     <span>
+      <div class="BNeawe deIvCb AP7Wnd">
+       <span class="FCUp0c rQMQod">
+        Related searches
+       </span>
+      </div>
+     </span>
+    </h2>
+    <div class="LKSyXe">
+    </div>
+    <div class="xpx">
+     <div class="duf-h">
+      <div aria-expanded="true" class="fLtXsc hide-focus-ring iIWm4b" data-ved="2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQ3aYDegQIFxAC" id="tsuid57" role="button" tabindex="0">
+       <div class="NtmAdb">
+        <div class="SXn0g GXKcHe">
+         <div style="width:40px;height:40px;position:static">
+          <img alt="" class="EYOsld" data-deferred="1" id="dimg_58" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="width:40px;height:40px"/>
+         </div>
+        </div>
+       </div>
+       <div class="Lt3Tzc">
+        Bitcoin websites
+       </div>
+       <div class="Lym8W xCgLUe">
+        <div class="AeQQub hwc">
+        </div>
+        <div class="YCU7eb hwc">
+        </div>
+        <div class="IyYaEd hwx">
+        </div>
+        <div class="ECUHQe hwx">
+        </div>
+       </div>
+      </div>
+     </div>
+     <div>
+      <div class="hwc W5nzFf">
+       <div class="r2NYtc">
+        <div>
+         <div class="ZINbbc xpd O9g5cc uUPGi">
+          <div class="FybcKc">
+           <div>
+            <div>
+             <div class="Xdlr0d">
+              <div class="idg8be">
+               <a class="BVG0Nb" href="/search?ie=UTF-8&amp;q=Bitfinex&amp;stick=H4sIAAAAAAAAAOOQUeLVT9c3NEypzC0vTjaONxJIyixJzs_MUyhPTSrOLEktjmJPKklWKC1OOcWIqhTGz0iuMiwyKc85xciln6tvUF5VZFmZDuNUGhtZJP1iFHBCM7WBhXERKwdQNC0zL7XiFpskg9bUKq4D3dZV_xY2bzfhN8lc_Mbn-vPlMzwB3306k6MAAAA&amp;sa=X&amp;ved=2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQs9oBegQIChAB">
+                <div>
+                 <div style="width:112px">
+                  <div class="S7Jdze" style="width:112px;height:112px">
+                   <img alt="" class="EYOsld" data-deferred="1" id="dimg_15" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="max-width:112px;max-height:112px"/>
+                  </div>
+                  <div class="RWuggc kCrYT">
+                   <div>
+                    <div class="BNeawe s3v9rd AP7Wnd">
+                     Bitfinex
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </a>
+               <a class="BVG0Nb" href="/search?ie=UTF-8&amp;q=Binance&amp;stick=H4sIAAAAAAAAAOOQUeLVT9c3NMxIrjIsMinPMRJIyixJzs_MUyhPTSrOLEktjmJPKklWKC1OOcUIUZpSmVtenGwcD-PDtJ5i5NLP1TcoryqyrEyHcSqNjSySfjEKOKGZ2sDCuIiV3SkzLzEvOfUWmySD1tQqrgPd1lX_FjZvN-E3yVz8xuf68-UzPAFUvzhKogAAAA&amp;sa=X&amp;ved=2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQs9oBegQIChAC">
+                <div>
+                 <div style="width:112px">
+                  <div class="S7Jdze" style="width:112px;height:112px">
+                   <img alt="" class="EYOsld" data-deferred="1" id="dimg_17" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="max-width:112px;max-height:112px"/>
+                  </div>
+                  <div class="RWuggc kCrYT">
+                   <div>
+                    <div class="BNeawe s3v9rd AP7Wnd">
+                     Binance
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </a>
+               <a class="BVG0Nb" href="/search?ie=UTF-8&amp;q=Bitstamp&amp;stick=H4sIAAAAAAAAAOOQUeLSz9U3KK8qsqxMNxJIyixJzs_MUyhPTSrOLEktjmJPKklWKC1OOcXIq5-ub2iYUplbXpxsHA_jZyRXGRaZlOecYkQyB8apNDaySPrFKOCEZmoDC-MiVg6gaHFJYm7BLTZJBq2pVVwHuq2r_i1s3m7Cb5K5-I3P9efLZ3gCAAF2GmygAAAA&amp;sa=X&amp;ved=2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQs9oBegQIChAD">
+                <div>
+                 <div style="width:112px">
+                  <div class="S7Jdze" style="width:112px;height:112px">
+                   <img alt="" class="EYOsld" data-deferred="1" id="dimg_19" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="max-width:112px;max-height:112px"/>
+                  </div>
+                  <div class="RWuggc kCrYT">
+                   <div>
+                    <div class="BNeawe s3v9rd AP7Wnd">
+                     Bitstamp
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </a>
+               <a class="BVG0Nb" href="/search?ie=UTF-8&amp;q=BTC-e&amp;stick=H4sIAAAAAAAAAOOQUeLSz9U3KK80NrJIMhJIyixJzs_MUyhPTSrOLEktjmJPKklWKC1OOcXIq5-ub2iYUplbXpxsHA_jZyRXGRaZlOecYoSYU1VkWZkO44AN_cUo4IRmagML4yJWVqcQZ93UW2ySDFpTq7gOdFtX_VvYvN2E3yRz8Ruf68-Xz_AEAKei-IadAAAA&amp;sa=X&amp;ved=2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQs9oBegQIChAE">
+                <div>
+                 <div style="width:112px">
+                  <div class="S7Jdze" style="width:112px;height:112px">
+                   <img alt="" class="EYOsld" data-deferred="1" id="dimg_21" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="max-width:112px;max-height:112px"/>
+                  </div>
+                  <div class="RWuggc kCrYT">
+                   <div>
+                    <div class="BNeawe s3v9rd AP7Wnd">
+                     BTC-e
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </a>
+               <div class="mHhylf">
+                <div class="WZ5GJf">
+                 <a class="qN9Ked" href="/search?ie=UTF-8&amp;q=Bitcoin+websites&amp;stick=H4sIAAAAAAAAAOOQMRJIyixJzs_MUyhPTSrOLEktjmJPKklWKC1OOcXIq5-ub2iYUplbXpxsHA_jZyRXGRaZlOecYuTSz9U3KK8qsqxMh3EqjY0skn4xCjihmdrAwriIFUP0Fpskg9bUKq4D3dZV_xY2bzfhN8lc_Mbn-vPlMzwBL7D8dZwAAAA&amp;sa=X&amp;ved=2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQzO0BegQIChAF">
+                  <button class="DXk5Me Qi9Fd" tabindex="-1">
+                   <img alt="" class="hWHuJ" data-deferred="1" id="dimg_23" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="max-width:24px;max-height:24px"/>
+                  </button>
+                  <div class="BNeawe ji5jpf tAd8D AP7Wnd">
+                   More results
+                  </div>
+                 </a>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div>
+        <div class="PDHNXc">
+         <div class="iU269d TeHtNe">
+          <span class="kXUfPb Vp9uZ">
+           <a class="RtoYlb MHODM" href="/search?ie=UTF-8&amp;q=Bitcoin+websites&amp;sa=X&amp;ved=2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQ4qYDegQIFxAD">
+            Bitcoin websites
+           </a>
+          </span>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="LKSyXe">
+    </div>
+    <div class="xpc">
+     <div class="duf-h">
+      <div aria-expanded="false" class="fLtXsc hide-focus-ring iIWm4b" data-ved="2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQ3aYDegQIFxAF" id="tsuid60" role="button" tabindex="0">
+       <div class="NtmAdb">
+        <div class="SXn0g GXKcHe">
+         <div style="width:40px;height:40px;position:static">
+          <img alt="" class="EYOsld" data-deferred="1" id="dimg_61" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="width:40px;height:40px"/>
+         </div>
+        </div>
+       </div>
+       <div class="Lt3Tzc">
+        Peer-to-peer cryptocurrency list
+       </div>
+       <div class="Lym8W xCgLUe">
+        <div class="AeQQub hwc">
+        </div>
+        <div class="YCU7eb hwc">
+        </div>
+        <div class="IyYaEd hwx">
+        </div>
+        <div class="ECUHQe hwx">
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="qxDOhb" id="accdef_63">
+     </div>
+    </div>
+    <div class="LKSyXe">
+    </div>
+    <div class="xpc">
+     <div class="duf-h">
+      <div aria-expanded="false" class="fLtXsc hide-focus-ring iIWm4b" data-ved="2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQ3aYDegQIFxAI" id="tsuid65" role="button" tabindex="0">
+       <div class="NtmAdb">
+        <div class="SXn0g GXKcHe">
+         <div style="width:40px;height:40px;position:static">
+          <img alt="" class="EYOsld" data-deferred="1" id="dimg_66" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="width:40px;height:40px"/>
+         </div>
+        </div>
+       </div>
+       <div class="Lt3Tzc">
+        Top crypto companies
+       </div>
+       <div class="Lym8W xCgLUe">
+        <div class="AeQQub hwc">
+        </div>
+        <div class="YCU7eb hwc">
+        </div>
+        <div class="IyYaEd hwx">
+        </div>
+        <div class="ECUHQe hwx">
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="qxDOhb" id="accdef_68">
+     </div>
+    </div>
+    <div class="LKSyXe">
+    </div>
+    <div class="Sljvkf iIWm4b">
+     <a class="fohFr" href="/search?ie=UTF-8&amp;q=ETH/USD&amp;sa=X&amp;ved=2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQ1QJ6BAgXEAs">
+      <accordion-entry-search-icon>
+       <span class="QDvyZe WqQeqc LsF2v">
+        <span>
+        </span>
+       </span>
+      </accordion-entry-search-icon>
+      <div class="EbCMvf cREFlf">
+       <div class="yE2Vzb">
+        <span>
+         <div class="BNeawe s3v9rd AP7Wnd lRVwie">
+          ETH/USD
+         </div>
+        </span>
+       </div>
+      </div>
+     </a>
+    </div>
+    <div class="LKSyXe">
+    </div>
+    <div class="Sljvkf iIWm4b">
+     <a class="fohFr" href="/search?ie=UTF-8&amp;q=BTC/CAD&amp;sa=X&amp;ved=2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQ1QJ6BAgXEA0">
+      <accordion-entry-search-icon>
+       <span class="QDvyZe WqQeqc LsF2v">
+        <span>
+        </span>
+       </span>
+      </accordion-entry-search-icon>
+      <div class="EbCMvf cREFlf">
+       <div class="yE2Vzb">
+        <span>
+         <div class="BNeawe s3v9rd AP7Wnd lRVwie">
+          BTC/CAD
+         </div>
+        </span>
+       </div>
+      </div>
+     </a>
+    </div>
+    <div class="LKSyXe">
+    </div>
+    <div class="Sljvkf iIWm4b">
+     <a class="fohFr" href="/search?ie=UTF-8&amp;q=XRP/USD&amp;sa=X&amp;ved=2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQ1QJ6BAgXEA8">
+      <accordion-entry-search-icon>
+       <span class="QDvyZe WqQeqc LsF2v">
+        <span>
+        </span>
+       </span>
+      </accordion-entry-search-icon>
+      <div class="EbCMvf cREFlf">
+       <div class="yE2Vzb">
+        <span>
+         <div class="BNeawe s3v9rd AP7Wnd lRVwie">
+          XRP/USD
+         </div>
+        </span>
+       </div>
+      </div>
+     </a>
+    </div>
+    <div class="LKSyXe">
+    </div>
+    <div class="Sljvkf iIWm4b">
+     <a class="fohFr" href="/search?ie=UTF-8&amp;q=Bitcoin&amp;sa=X&amp;ved=2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQ1QJ6BAgXEBE">
+      <accordion-entry-search-icon>
+       <span class="QDvyZe WqQeqc LsF2v">
+        <span>
+        </span>
+       </span>
+      </accordion-entry-search-icon>
+      <div class="EbCMvf cREFlf">
+       <div class="yE2Vzb">
+        <span>
+         <div class="BNeawe s3v9rd AP7Wnd lRVwie">
+          Bitcoin
+         </div>
+        </span>
+       </div>
+      </div>
+     </a>
+    </div>
+    <div class="LKSyXe">
+    </div>
+    <div class="Sljvkf iIWm4b">
+     <a class="fohFr" href="/search?ie=UTF-8&amp;q=LTC/USD&amp;sa=X&amp;ved=2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQ1QJ6BAgXEBM">
+      <accordion-entry-search-icon>
+       <span class="QDvyZe WqQeqc LsF2v">
+        <span>
+        </span>
+       </span>
+      </accordion-entry-search-icon>
+      <div class="EbCMvf cREFlf">
+       <div class="yE2Vzb">
+        <span>
+         <div class="BNeawe s3v9rd AP7Wnd lRVwie">
+          LTC/USD
+         </div>
+        </span>
+       </div>
+      </div>
+     </a>
+    </div>
+    <div class="LKSyXe">
+    </div>
+    <div class="Sljvkf iIWm4b">
+     <a class="fohFr" href="/search?ie=UTF-8&amp;q=BTC+price&amp;sa=X&amp;ved=2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQ1QJ6BAgXEBU">
+      <accordion-entry-search-icon>
+       <span class="QDvyZe WqQeqc LsF2v">
+        <span>
+        </span>
+       </span>
+      </accordion-entry-search-icon>
+      <div class="EbCMvf cREFlf">
+       <div class="yE2Vzb">
+        <span>
+         <div class="BNeawe s3v9rd AP7Wnd lRVwie">
+          BTC price
+         </div>
+        </span>
+       </div>
+      </div>
+     </a>
+    </div>
+    <div class="LKSyXe">
+    </div>
+    <div class="Sljvkf iIWm4b">
+     <a class="fohFr" href="/search?ie=UTF-8&amp;q=BTC+News&amp;sa=X&amp;ved=2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQ1QJ6BAgXEBc">
+      <accordion-entry-search-icon>
+       <span class="QDvyZe WqQeqc LsF2v">
+        <span>
+        </span>
+       </span>
+      </accordion-entry-search-icon>
+      <div class="EbCMvf cREFlf">
+       <div class="yE2Vzb">
+        <span>
+         <div class="BNeawe s3v9rd AP7Wnd lRVwie">
+          BTC News
+         </div>
+        </span>
+       </div>
+      </div>
+     </a>
+    </div>
+    <div class="LKSyXe">
+    </div>
+    <div class="Sljvkf iIWm4b">
+     <a class="fohFr" href="/search?ie=UTF-8&amp;q=btc-usd+stock&amp;sa=X&amp;ved=2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQ1QJ6BAgXEBk">
+      <accordion-entry-search-icon>
+       <span class="QDvyZe WqQeqc LsF2v">
+        <span>
+        </span>
+       </span>
+      </accordion-entry-search-icon>
+      <div class="EbCMvf cREFlf">
+       <div class="yE2Vzb">
+        <span>
+         <div class="BNeawe s3v9rd AP7Wnd lRVwie">
+          btc-usd stock
+         </div>
+        </span>
+       </div>
+      </div>
+     </a>
+    </div>
+   </div>
+   <footer>
+    <div>
+     <div class="ZINbbc xpd O9g5cc uUPGi BmP5tf">
+      <div class="nMymef MUxGbd lyLwlc">
+       <a aria-label="Next page" class="nBDE1b G5eFlf" href="/search?q=btc+usd&amp;ie=UTF-8&amp;ei=jB_qX_r0B_yE9PwP9fGK2AI&amp;start=10&amp;sa=N">
+        Next &gt;
+       </a>
+      </div>
+     </div>
+    </div>
+    <div id="mCljob">
+     <div>
+      <a href="/url?q=https://accounts.google.com/ServiceLogin%3Fcontinue%3Dhttps://www.google.com/search%253Fq%253Dbtc%252Busd%2526oq%253DBTC%252Busd%2526aqs%253Dchrome.0.69i59j0i67i131i433j0i131i433j0l2j69i60l3.2445j0j7%2526sourceid%253Dchrome%2526ie%253DUTF-8%26hl%3Den&amp;sa=U&amp;ved=0ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQxs8CCJsB&amp;usg=AOvVaw3StFtS5oO3nFinBmGF8JFe">
+       Sign in
+      </a>
+     </div>
+     <div>
+      <a class="ksTU4c" href="https://www.google.com/preferences?hl=en-CA&amp;fg=1&amp;sa=X&amp;ved=0ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQ5fUCCJwB">
+       Settings
+      </a>
+      <a class="ksTU4c" href="https://policies.google.com/privacy?hl=en-CA&amp;fg=1">
+       Privacy
+      </a>
+      <a class="ksTU4c" href="https://policies.google.com/terms?hl=en-CA&amp;fg=1">
+       Terms
+      </a>
+     </div>
+    </div>
+   </footer>
+   <script nonce="A9p1gszWem+FMUpxpYmfNg==">
+    (function(){var hl='en-CA';(function(){
+var f=this||self,k=function(a){if(a&&a!=f)return g(a.document);null===h&&(h=g(f.document));return h},l=/^[\w+/_-]+[=]{0,2}$/,h=null,g=function(a){return(a=a.querySelector&&a.querySelector("script[nonce]"))&&(a=a.nonce||a.getAttribute("nonce"))&&l.test(a)?a:""},m=function(a){return a};var n,q=function(){if(void 0===n){var a=null,b=f.trustedTypes;if(b&&b.createPolicy){try{a=b.createPolicy("goog#html",{createHTML:m,createScript:m,createScriptURL:m})}catch(c){f.console&&f.console.error(c.message)}n=a}else n=a}return n};var u=function(a,b){this.h=a===r&&b||"";this.g=t},v=function(a){return a instanceof u&&a.constructor===u&&a.g===t?a.h:"type_error:Const"},t={},r={};var x=function(a,b){this.g=b===w?a:""},y=function(a){return a instanceof x&&a.constructor===x?a.g:"type_error:TrustedResourceUrl"},aa=function(){var a={},b=v(new u(r,"/complete/search"));if(!z.test(b))throw Error("a`"+b);var c=b.replace(A,function(d,e){if(!Object.prototype.hasOwnProperty.call(a,e))throw Error("b`"+e+"`"+b+"`"+JSON.stringify(a));d=a[e];return d instanceof u?v(d):encodeURIComponent(String(d))});return B(c)},A=/%{(\w+)}/g,z=/^((https:)?\/\/[0-9a-z.:[\]-]+\/|\/[^/\\]|[^:/\\%]+\/|[^:/\\%]*[?#]|about:blank#)/i,ba=/^([^?#]*)(\?[^#]*)?(#[\s\S]*)?/,w={},B=function(a){var b=q();a=b?b.createScriptURL(a):a;return new x(a,w)},C=function(a,b,c){if(null==c)return b;if("string"===typeof c)return c?a+encodeURIComponent(c):"";for(var d in c)if(Object.prototype.hasOwnProperty.call(c,d)){var e=c[d];e=Array.isArray(e)?e:[e];for(var p=0;p<e.length;p++){var T=e[p];null!=T&&(b||(b=a),b+=(b.length>a.length?"&":"")+encodeURIComponent(d)+"="+encodeURIComponent(String(T)))}}return b};var E=function(a,b,c){this.g=c===D?a:""},F=function(a){return a instanceof E&&a.constructor===E?a.g:"type_error:SafeHtml"},D={},ca=function(a){var b=q();a=b?b.createHTML(a):a;return new E(a,null,D)},da=new E(f.trustedTypes&&f.trustedTypes.emptyHTML||"",0,D);var ea=function(a){var b=!1,c;return function(){b||(c=a(),b=!0);return c}}(function(){var a=document.createElement("div"),b=document.createElement("div");b.appendChild(document.createElement("div"));a.appendChild(b);b=a.firstChild.firstChild;a.innerHTML=F(da);return!b.parentElement}),fa=function(a,b){if(ea())for(;a.lastChild;)a.removeChild(a.lastChild);a.innerHTML=F(b)};var G=document.querySelector(".l"),H=document.querySelector("#sf"),I=H.querySelector(".sbc"),J=H.querySelector("[type=text]"),K=H.querySelector("[type=submit]"),L=H.querySelector(".sc"),M=H.querySelector(".x"),N=J.value,O=[],P=-1,Q=N,R,S,U;N||(M&&(M.style.display="none"),V(!1));function V(a){if(I.classList.contains("esbc")){var b=I.classList.contains("chsbc"),c=I.classList.contains("rtlsbc");a&&(L.style.display="block",b?(H.style.borderRadius="20px 20px 0 0",L.style.borderBottom="1px solid #DFE1E5",K.style.borderRadius=c?"20px 0 0 0":"0 20px 0 0"):I.style.borderRadius=c?"0 8px 0 0":"8px 0 0 0");a||(L.style.display="none",b?(H.style.borderRadius="20px",L.style.borderBottom="none",K.style.borderRadius=c?"20px 0 0 20px":"0 20px 20px 0"):I.style.borderRadius=c?"0 8px 8px 0":"8px 0 0 8px")}}function W(){H.querySelector("[name=oq]").value=Q;H.querySelector("[name=aqs]").value="heirloom-srp."+(0<=P?P:"")+"."+(0<O.length?"0l"+O.length:"")}
+function X(){R=null;if(S){var a={client:"heirloom-srp",hl:hl,json:"t",callback:"hS",q:S};"undefined"!==typeof ds&&ds&&(a.ds=ds);var b=document;var c="SCRIPT";"application/xhtml+xml"===b.contentType&&(c=c.toLowerCase());c=b.createElement(c);b=aa();b=ba.exec(y(b).toString());var d=b[3]||"";a=B(b[1]+C("?",b[2]||"",a)+C("#",d,void 0));c.src=y(a);(a=k(c.ownerDocument&&c.ownerDocument.defaultView))&&c.setAttribute("nonce",a);(a=k())&&c.setAttribute("nonce",a);document.body.appendChild(c);S=null;R=setTimeout(X,500)}}function Y(){for(;L.firstChild;)L.removeChild(L.firstChild);O=[];P=-1;V(!1)}function Z(){var a=L.querySelector(".scs");a&&(a.className="");0<=P?(a=L.childNodes[P],a.className="scs",N=a.textContent):N=Q;J.value=N}J.addEventListener("focus",function(){G&&(G.style.display="none")},!1);J.addEventListener("blur",function(){Y();G&&(G.style.display="")},!1);J.addEventListener("keyup",function(a){N=J.value;U=!1;13==a.which?W():27==a.which?(Y(),G&&(G.style.display=""),N=Q,J.value=N):40==a.which?(P++,P>=O.length&&(P=-1),Z()):38==a.which?(P--,-1>P&&(P=O.length-1),Z()):(a=N)?(M&&(M.style.display=""),S=a,R||X(),Q=a):(M&&(M.style.display="none"),V(!1),Y(),Q="",U=!0)},!1);K.addEventListener("click",W,!1);M.addEventListener("click",function(){J.value="";M.style.display="none";V(!1)},!1);I.addEventListener("click",function(){J.focus()},!1);window.hS=function(a){if(!U){Y();0==a[1].length&&V(!1);for(var b=0;b<a[1].length;b++){var c=a[1][b][0],d=document.createElement("div");var e=ca(c);fa(d,e);d.addEventListener("mousedown",function(p){p.preventDefault();return!1},!1);c=c.replace(/<\/?b>/g,"");d.addEventListener("click",function(p){return function(){P=p;W();Z();Y();H.submit()}}(b),!1);L.appendChild(d);V(!0);O.push(c)}}};}).call(this);})();(function(){
+function b(a){for(a=a.target||a.srcElement;a&&"A"!=a.nodeName;)a=a.parentElement;a&&(a.href||"").match(/\/search.*[?&]tbm=isch/)&&(a.href+="&biw="+document.documentElement.clientWidth,a.href+="&bih="+document.documentElement.clientHeight)}document.addEventListener("click",b,!1);document.addEventListener("touchStart",b,!1);}).call(this);
+   </script>
+  </div>
+  <!-- cctlcm 5 cctlcm -->
+  <textarea class="csi" name="csi" style="display:none"></textarea>
+  <script nonce="A9p1gszWem+FMUpxpYmfNg==">
+   (function(){var e='jB_qX_r0B_yE9PwP9fGK2AI';var sn='web';(function(){
+function x(a){return!a||y(a)?0:a.getBoundingClientRect?z(a,function(c){return c.getBoundingClientRect()}):1}function y(a){if("none"==a.style.display)return!0;if(document.defaultView&&document.defaultView.getComputedStyle){var c=a.getAttribute("data-deferred");c&&a.setAttribute("data-deferred",0);var b=document.defaultView.getComputedStyle(a);b=!!b&&("hidden"==b.visibility||"0px"==b.height&&"0px"==b.width);c&&a.setAttribute("data-deferred",c);return b}return!1}
+function z(a,c){var b=c(a);a=b.left+window.pageXOffset;c=b.top+window.pageYOffset;var f=b.width;b=b.height;var h=0;if(0>=b&&0>=f)return h;0>c+b?h=2:c>=(window.innerHeight||document.documentElement.clientHeight)&&(h=4);if(0>a+f||a>=(window.innerWidth||document.documentElement.clientWidth))h|=8;return h||1};var H=e,I=sn,J=[];function K(a,c,b){a="/gen_204?atyp=csi&s="+(I||"web")+"&t="+a+("&lite=1&ei="+H+"&conn="+(window.navigator&&window.navigator.connection?window.navigator.connection.type:-1)+c);c="&rt=";for(var f in b)a+=""+c+f+"."+b[f],c=",";return a}function L(a){a={prt:a};window.wsrt&&(a.wsrt=window.wsrt);return a}function M(a){window.ping?window.ping(a):(new Image).src=a}
+(function(){for(var a=(new Date).getTime()-window.start,c=L(a),b=0,f=0,h=0,A=document.getElementsByTagName("img"),n="&imn="+A.length+"&biw="+window.innerWidth+"&bih="+window.innerHeight,N=function(g,p){g.onload=function(){f=(new Date).getTime()-window.start;p&&++t==h&&(b=f,B());g.onload=null}},B=function(){n+="&ima="+h;c.aft=b;M(K("aft",n,c))},t=0,O=0,d=void 0;d=A[O++];){var q=x(d),r=1==q;r&&++h;var m=d.hasAttribute("data-ilite"),u=d.hasAttribute("data-deferred")||m,C=d.getAttribute("data-src")||
+d.getAttribute("data-lzysrc");J.push([q,u,!u&&C,google.ldi&&d.id&&google.ldi[d.id]||m&&C]);m=(q=d.complete&&(m||!u))&&Number(d.getAttribute("data-iml"))||0;q&&m?(r&&++t,m&&(d=m-window.start,r&&(b=Math.max(b,d)),f=Math.max(f,d))):N(d,r)}b||(b=a);f||(f=b);t==h&&B();google.rglh&&google.rglh();window.addEventListener("load",function(){window.setTimeout(function(){c.ol=(new Date).getTime()-window.start;c.iml=f;var g=window.performance&&window.performance.timing;g&&(c.rqst=g.responseEnd-g.requestStart,c.rspt=g.responseEnd-g.responseStart);for(var p=g=0,D=0,E=0,F=0,P=0,k;k=J[P++];){var l=k[0],v=k[1],Q=k[2];k=k[3];var R=0==l,w=l&8,G=l&4;l=1==l||2==l||w&&!G;!l||w||v&&!k||++D;v&&(l&&k&&++g,G&&!k&&++p);R||w?Q||++F:v||++E}n+="&ime="+D+("&imex="+E+"&imeh="+F)+("&imea="+g+"&imeb="+p);M(K("all",n,c))},0)},!1)})();}).call(this);})();
+  </script>
+  <script nonce="A9p1gszWem+FMUpxpYmfNg==">
+   function _setImagesSrc(e,d){function f(a){a.onerror=function(){a.style.display="none"};a.src=d;a.setAttribute("data-deferred",2)}for(var g=0,b=void 0;b=e[g++];){var c=document.getElementById(b)||document.querySelector('img[data-iid="'+b+'"]');c?(google.c&&google.c.sdi&&google.c.setup&&google.c.setup(c),f(c)):(google.iir=google.iir||{},google.iir[b]=d)}}"undefined"==typeof window.google&&(window.google={});
+  </script>
+  <script nonce="A9p1gszWem+FMUpxpYmfNg==">
+   (function(){var s='data:image/jpeg;base64,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';var i=['dimg_1'];_setImagesSrc(i,s);})();
+  </script>
+  <script nonce="A9p1gszWem+FMUpxpYmfNg==">
+   (function(){var s='data:image/jpeg;base64,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';var i=['dimg_3'];_setImagesSrc(i,s);})();
+  </script>
+  <script nonce="A9p1gszWem+FMUpxpYmfNg==">
+   (function(){var s='data:image/jpeg;base64,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';var i=['dimg_5'];_setImagesSrc(i,s);})();
+  </script>
+  <script nonce="A9p1gszWem+FMUpxpYmfNg==">
+   (function(){var s='data:image/jpeg;base64,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\x3d';var i=['dimg_7'];_setImagesSrc(i,s);})();
+  </script>
+  <script nonce="A9p1gszWem+FMUpxpYmfNg==">
+   (function(){var s='data:image/jpeg;base64,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\x3d\x3d';var i=['dimg_9'];_setImagesSrc(i,s);})();
+  </script>
+  <script nonce="A9p1gszWem+FMUpxpYmfNg==">
+   (function(){var s='data:image/jpeg;base64,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\x3d\x3d';var i=['dimg_11'];_setImagesSrc(i,s);})();
+  </script>
+  <script nonce="A9p1gszWem+FMUpxpYmfNg==">
+   (function(){var s='data:image/jpeg;base64,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';var i=['dimg_13'];_setImagesSrc(i,s);})();
+  </script>
+  <script nonce="A9p1gszWem+FMUpxpYmfNg==">
+   (function(){var s='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAMAAAC7IEhfAAAAYFBMVEX///8AAAA8PkAxNjmqq6vKy8v3+PinqKijpKXQ0NBAQkVjZGdzdXeLjY8sLjHo6Oi6u7s3OTu1tbYjJSjW19cyNz03PEHw8PFqbW8CDxcABxKWmJkTGSB+gIJdX2Le3t7VFS0fAAAAr0lEQVQ4je2Q0Q6DIAxF2wkIiIroxKmb//+Xa0H3AUv2sITzRC4nlxaAQuEfsV3v7Y0YHNgAwTpOmxaMTfEIoRMcBaEESmZSqEEjNpTeHUgMhmOgTINnV2AuV1hTaNicWTSxj+ki4IJZfKy4XSIZTRb3fV1yxRNfWZyOI35EUpxlMV57bNimxhrV+bROIjmYZyQk90kwaYT5FIcAouOTr2jrYa6IHdrR/OzPC4XveAMsMgbBcXd6IgAAAABJRU5ErkJggg\x3d\x3d';var i=['dimg_58'];_setImagesSrc(i,s);})();
+  </script>
+  <script nonce="A9p1gszWem+FMUpxpYmfNg==">
+   (function(){var s='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHAAAABwCAMAAADxPgR5AAAAh1BMVEX///8AAADu7u5nZ2cAAAkMDQ3FyMkAAAxydngBEx3R09T29vYADxsyMjKbnqABFB94e3zj4+MiIiK5ubmChIYAABHa3NwnLjWRlJcABxQLEh2rra+zs7NERkhfX19AQEIRFRqKjI1ub28rKysZIysYGBc2OjxSVFUiJSkFDRMVHCVKTVE7QUa9c3ECAAACgklEQVRoge2V0XaiMBCGM4iEkBiwCEptsdCu1bbv/3w7iUgTwqn2bvec+a5o6M8Xk5mEMYIgCIIgCIIgCIIgCIIgiH+TyIIPMppBDuP2X2U0Prpp6XwnSEdBZmGpGVuni4ACx5/aRavtR7UZapNJuq2trw/TbYnjaYsP2onEBsgYq1+B89gDjjiugUNqhQXEnMND5qTf8KX9e/0nSMdgPNkReHzefUe4AXCW9UoJdV66wMEKcyiscMOFEHm1dIzbKh+ED0F6aYWsfgehoJPXyMZQrK2wOe4Tj0xOhY0S/DWZFao37acTu9hsvTDGwm6kdH4qCqvnmgV4QnU8NSI+jEZX2GyzMG3f9VdjtIGJcCbiCXmnz0rAaLxLiBUFGOqjqDirXwpBSw1CxKtsTjizPoNxg8a47XGyvvDz1pLCzgwIwZd1IFQfnR7YR5OPSGOsGpX7S6reFunAZqyqQMh2JnzOpkLcpyvP63DejwprHJyOtG3xHRnnGArl7qURfJVMheJxoHoPhfWhwRp3V90XHn4QGqO61KrfFt1+oJRsQvZZCWUK3BM2W10+XSh/WFJjxH00tXpflTKWHABbeMtz7glv9+EgZLIztXrKvu4TlqdYVJCUJz6p0tttMZ4UWHZ59fGB/XVbWEIl4grfJqvpL7xfyLq4EQor5bZQm7b/snWU+Xv4K6HsXkyhfwvVSZc+doOkNhX2PmyWIzBFc0uYO0JsZjw4xGwfDujLvBoBi7BPzH1o779QCON9CK6QRYX97PU+DEGhTM1DPz15bGSD58tMlZZ92l9u/H2a9k/uK7nDM+ky+ahIA3q88XWPD0XQlgRBEARBEARBEARBEARB/Hf8BdVhNxaIZHVaAAAAAElFTkSuQmCC';var i=['dimg_15'];_setImagesSrc(i,s);})();
+  </script>
+  <script nonce="A9p1gszWem+FMUpxpYmfNg==">
+   (function(){var s='data:image/jpeg;base64,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\x3d\x3d';var i=['dimg_17'];_setImagesSrc(i,s);})();
+  </script>
+  <script nonce="A9p1gszWem+FMUpxpYmfNg==">
+   (function(){var s='data:image/jpeg;base64,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\x3d';var i=['dimg_19'];_setImagesSrc(i,s);})();
+  </script>
+  <script nonce="A9p1gszWem+FMUpxpYmfNg==">
+   (function(){var s='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHAAAABwCAMAAADxPgR5AAAAaVBMVEX///92ismVlZWSkpJzh8hwhcf29vZtg8by9Pr5+v2enp7l5eWrq6vn6vair9rV2+6ImdB9kMvL0une3t7Dw8OPn9KysrK9xuPV1dXFzeeWpNTh5fOaqNWptdyClc69vb3MzMy0vuCKioq56On1AAAEEklEQVRogc2a65qjIAyGRUA62nqsUk897P1f5Grb6XoINaD4bH6OdN7nCwkQgnP4+XF2tSpsZRnVh92AjDHOyDVvHtE+UsnLeq64yh2UkoExznMZ7Qh8Kk0qu0gyMyaS0uJ0zoGdiTy1hgSBhJHGVvjAwB4p7YhUAQnhoRWRaiDh1WlfYOdWCxnyDWiF+BVIWLI58TvQgsYFYEfcNHK8RSBh1VbZ4WXn4rgM7PJxixXAuxxpbwgg4XK9tptLqdsbBkjWTuPl6L5oWCDL10xj5tMPDquQmDvVuw1xWCBLTCVe/BEOrZCFZvIKOuFhgUSYxI13nOJ6oGAYIDeQGEzd+QQ6aUUwSP1VPHABntt/SWO+DGSt5noD6nsBnVOIICZ6s+jBPPf9WS4DebsF7xeIIRIdXqHgfYCOXIwcoRE2dwVuAHTar/PYV1f4zAhU+obAw1WlkTFB4qYtazQQSPg50CkBiX3VKOI2rU86SXFR84bAQzWS2BfGSdxI/cJYkYGdUd8fDiwHMEHy8JFq6frYWcGj/i0bDTxdXxPWwR5RfTA9yXi+glcE06HdgnPN23LlgQIWSN37fGgto/VHQlgg9S+r/7PC4BCl1ngOuKjRuzVeAHmUHq3xYI/6s/jczm4AkN7s8aBzk+tmyz80BoIe9ewBM8ijhT2ec4eA9nJQETMWYxRM+z8WpxDe620CoXXGZpD+H8DdXUr3Bu4epVYTH8pDerYIhE5QNrff/fdfcHuy6VPwkEgtpj5cidqUCG2InSlm8RTKtfe/meLgDTs1EkJc28isaHoZfIrqjhkgUfJnXRiHEl/tTk1VrIHEmP0W9EncGrZoA5jXeXU+jwcxKuxZWJq0aFUFPqW3YKJSTqp8JkjzSHWZ0EnxjXSLcX7k83sMxsi1kVpMRdi8VQ5HRqprk/4iQyN0MyXPHd1i/LTqy6hn6KIvapT3XmNgnSh579DFtmlVgToBhku3bfyBVKha38bAevleOMUCv8TNZ8wPEKITn8b4dVZ9GfUZ8lgUqNVKUEbq74B00Z9EoD3am2oa359rxM0+1+HBhdsHGGF4WnfejmrbeH6SCaJzwbR3LJDY/b1uMJ0S1ujvVhDRiSqO6gUZdbuzeXY4SByrjLbjYLYCoLtrWjnxz7zzpAOF7R/GZrweWYyQWOCK9wpedhy0LXFArttaA5BUA6izbCssOB9fzW4U0DRiJjLvhY97qcCqDXhPphdcEMB1zwZmtsxLzI/9RkCdtuEmwHJb3iJw9dMWPaDYnPf9XVuyRQLigSy28dJUzePxrm8TebL99H0D8mbbdP8OZJzYe7QL4EhsyZsgkPFcu6o3BjImeLtBGxgDZOzZ4bb9qtx5vdUXIslDmda7PNav2kcZnQ7GzwR07S8nPjV5ARIOaAAAAABJRU5ErkJggg\x3d\x3d';var i=['dimg_21'];_setImagesSrc(i,s);})();
+  </script>
+  <script nonce="A9p1gszWem+FMUpxpYmfNg==">
+   (function(){var s='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYAgMAAACdGdVrAAAADFBMVEVMaXFChfRChfRChfT0tCPZAAAAA3RSTlMAgFJEkGxNAAAAL0lEQVR4AWPADxgdwBT3BTDF9AUiuhdC6WNK/v///y+UggrClSA07EWVglmEFwAA5eYSExeCwigAAAAASUVORK5CYII\x3d';var i=['dimg_23'];_setImagesSrc(i,s);})();
+  </script>
+  <script nonce="A9p1gszWem+FMUpxpYmfNg==">
+   (function(){var s='data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIACgAKAMBEQACEQEDEQH/xAAaAAADAAMBAAAAAAAAAAAAAAAAAQUEBgcC/8QAJxAAAgIBAgUDBQAAAAAAAAAAAQIDEQAFIRITMVGBBAZBFSJhobH/xAAZAQEAAwEBAAAAAAAAAAAAAAAAAQQFAwL/xAAmEQACAgEDAQkBAAAAAAAAAAAAAQIRBBIhMQUDExRRYaGxwfBx/9oADAMBAAIRAxEAPwDuAuzdfjAC96+cACAwpgCO2AGAO8AMA8SyJFG0krBUUWzMaAzzKUYpyk6SJjFydLkmw+4dNlmESzkEmgzKQD5yjDqmLOWlS9mW5YGRGOpxKmaBTEEAcv8AJFZFK7JvahIgQUCTve+EqDdkX3iJPpK8F8AlXmV23r91mV1nV4dVxav9/aNDpmnvt/LYj6gfTroqRGSJ2EcZjIItjZ4jVX023/uZ2S+zWIo2m6jX2/Pjbf5L3YqbyHKny7+vT12+DadJEo0v0onvmcpbvr0zfxNXh4a+aRjZOnvpaeLMsCgB2ywcRI6uLU2LrITT4Jaa5E6pKjI6qykUykWDiUVJU1sE2naJ8OhaZDMJo/SjiBsAsSB4JrKUOm4sJ64w3LMs3IlHS5FAluYAF+2tzl3eyttQzfwN8kgYAHTAA0vk4AYALZG4rAHgH//Z';var i=['dimg_61'];_setImagesSrc(i,s);})();
+  </script>
+  <script nonce="A9p1gszWem+FMUpxpYmfNg==">
+   (function(){var s='data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIACgAKAMBEQACEQEDEQH/xAAZAAEAAwEBAAAAAAAAAAAAAAABAgMGBAD/xAAkEAACAgEDAwUBAAAAAAAAAAABAgARAwQSISIxQQUGExUjFP/EABoBAQADAQEBAAAAAAAAAAAAAAEAAgMEBgX/xAAjEQEAAQMDBAMBAAAAAAAAAAAAAQMRoQQhURMxMkESgfAC/9oADAMBAAIRAxEAPwDIieweUSBiDEERBiiiZNEgYhIGIMQQYhXhCNlRcj7ELAM1XtHk1MpvbZtERfdpcfp3oWN8jNrAAoybd2qx5AT2UUF5sdW7wemrnFNWvMdsTH7jLtilQib3zC5tD7dbSnFi1YQfM/65NSm5QCyrdJbK21TwOndfNQirqI/q8x64++fWUmlp/jaJy99T7d+SvsMu0V0/04bYlVJAPYVbckgEgAXfFuvqbeOJV6Gnv5ZhmGoOwUkqDwT5E+hHZwTa+znEzuuRFCJAkIggxCmZNSJaFTFDICDEP//Z';var i=['dimg_66'];_setImagesSrc(i,s);})();
+  </script>
+  <script nonce="A9p1gszWem+FMUpxpYmfNg==">
+   (function(){var e='jB_qX_r0B_yE9PwP9fGK2AI';(function(){
+var a=e;2==(window.performance&&window.performance.navigation&&window.performance.navigation.type)&&window.ping("/gen_204?ct=backbutton&ei="+a);}).call(this);})();(function(){
+var b=[function(){google.tick&&google.tick("load","dcl")}];google.dclc=function(a){b.length?b.push(a):a()};function c(){for(var a;a=b.shift();)a()}window.addEventListener?(document.addEventListener("DOMContentLoaded",c,!1),window.addEventListener("load",c,!1)):window.attachEvent&&window.attachEvent("onload",c);}).call(this);(function(){(function(){google.csct={};google.csct.ps='AOvVaw03aQvbipvWHfuE5Jk-0URA\x26ust\x3d1609265420173213';})();})();(function(){(function(){google.csct.rd=true;})();})();(function(){window.xp=function(b){function f(k,g,h){return"xp"+("x"==g?"c":"x")+h}for(var c=/\bxp(x|c)(\d?)\b/,a=b;a;){var e=a.className,d=e.match(c);if(d){d="c"==d[1];a.className=e.replace(c,f);b&&b.setAttribute("aria-expanded",d);if(d)for(b=a.getElementsByTagName("img"),c=0;c<b.length;++c)if(a=b[c],e=a.getAttribute("data-ll"))a.src=e,a.removeAttribute("data-ll");break}a=a.parentElement}};})();(function(){(function(){window.logVe=function(a){a&&a.attributes["data-ved"]&&window.ping("/gen_204?ved="+a.attributes["data-ved"].value)};}).call(this);})();(function(){(function(){var id='tsuid31';var lve=true;(function(){
+
+
+var e="undefined"!=typeof navigator&&!/Opera/.test(navigator.userAgent)&&/WebKit/.test(navigator.userAgent),f={A:1,INPUT:1,TEXTAREA:1,SELECT:1,BUTTON:1},g={A:13,BUTTON:0,CHECKBOX:32,COMBOBOX:13,FILE:0,GRIDCELL:13,LINK:13,LISTBOX:13,MENU:0,MENUBAR:0,MENUITEM:0,MENUITEMCHECKBOX:0,MENUITEMRADIO:0,OPTION:0,RADIO:32,RADIOGROUP:32,RESET:0,SUBMIT:0,SWITCH:32,TAB:0,TREE:13,TREEITEM:13},h={CHECKBOX:!0,FILE:!0,OPTION:!0,RADIO:!0},k={COLOR:!0,DATE:!0,DATETIME:!0,"DATETIME-LOCAL":!0,EMAIL:!0,MONTH:!0,NUMBER:!0,PASSWORD:!0,RANGE:!0,SEARCH:!0,TEL:!0,TEXT:!0,TEXTAREA:!0,TIME:!0,URL:!0,WEEK:!0};document.getElementById(id).onclick=function(){window.xp(this);lve&&window.logVe(this)};document.getElementById(id).onkeydown=function(d){var c=d.which||d.keyCode;e&&3==c&&(c=13);if(13!=c&&32!=c)c=!1;else{var a=d.target||d.srcElement;!a.getAttribute&&a.parentNode&&(a=a.parentNode);var b;if(!(b="keydown"!=d.type)){if(b="getAttribute"in a)b=!((a.getAttribute("type")||a.tagName).toUpperCase()in k);b=!(b&&!("BUTTON"==a.tagName.toUpperCase()||a.type&&"FILE"==a.type.toUpperCase())&&!a.isContentEditable)}(b=b||d.ctrlKey||d.shiftKey||d.altKey||d.metaKey||(a.getAttribute("type")||a.tagName).toUpperCase()in
+h&&32==c)||((b=a.tagName in f)||(b=a.getAttributeNode("tabindex"),b=null!=b&&b.specified),b=!(b&&!a.disabled));if(b)c=!1;else{b=(a.getAttribute("role")||a.type||a.tagName).toUpperCase();var l=!(b in g)&&13==c;a="INPUT"!=a.tagName.toUpperCase()||!!a.type;c=(0==g[b]%c||l)&&a}}c&&(d.preventDefault(),window.xp(this),lve&&window.logVe(this))};}).call(this);})();})();(function(){window.jsl=window.jsl||{};window.jsl.dh=window.jsl.dh||function(i,c,d){try{var e=document.getElementById(i);if(e){e.innerHTML=c;if(d){d();}}else{if(window.jsl.el){window.jsl.el(new Error('Missing ID.'),{'id':i});}}}catch(e){if(window.jsl.el){window.jsl.el(new Error('jsl.dh'));}}};})();(function(){window.jsl.dh('accdef_32','\x3cdiv\x3e\x3cdiv class\x3d\x22hwc M56Nqc\x22\x3e\x3cdiv class\x3d\x22Z8j5ae\x22\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22ZINbbc xpd O9g5cc uUPGi\x22\x3e\x3cdiv class\x3d\x22kCrYT\x22\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3eIn \x3cspan class\x3d\x22FCUp0c rQMQod\x22\x3e2020\x3c/span\x3e, the \x3cspan class\x3d\x22FCUp0c rQMQod\x22\x3erise\x3c/span\x3e of \x3cspan class\x3d\x22FCUp0c rQMQod\x22\x3eBitcoin\x3c/span\x3e is driven by institutional investment. Large hedge funds and publicly traded companies are driving this bull cycle and they don\x27t present the same reputational drawbacks that retail investors do. Recently, Square and Paypal have added \x3cspan class\x3d\x22FCUp0c rQMQod\x22\x3ecrypto\x3c/span\x3e currency to their offering.\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3cdiv class\x3d\x22x54gtf\x22\x3e\x3c/div\x3e\x3cdiv class\x3d\x22kCrYT\x22\x3e\x3ca href\x3d\x22/url?q\x3dhttps://www.globenewswire.com/news-release/2020/12/13/2144141/0/en/Will-Bitcoin-Continue-to-Rise-Crypto-Experts-Finixio-Make-Their-Predictions.html\x26amp;sa\x3dU\x26amp;ved\x3d2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQFnoECAsQAg\x26amp;usg\x3dAOvVaw3CteNhu-n1BK8FfMq6GckT\x22\x3e\x3cspan\x3e\x3cdiv class\x3d\x22BNeawe vvjwJb AP7Wnd\x22\x3eWill Bitcoin Continue to Rise? Crypto Experts Finixio Make Their ...\x3c/div\x3e\x3c/span\x3e\x3cspan\x3e\x3cdiv class\x3d\x22BNeawe UPmit AP7Wnd\x22\x3ewww.globenewswire.com \x26gt; news-release \x26gt; 2020/12/13 \x26gt; Will-Bitcoin-Cont...\x3c/div\x3e\x3c/span\x3e\x3c/a\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22PDHNXc\x22\x3e\x3cdiv class\x3d\x22iU269d TeHtNe\x22\x3e\x3cspan class\x3d\x22kXUfPb Vp9uZ\x22\x3e\x3ca class\x3d\x22RtoYlb\x22 href\x3d\x22https://www.google.com/search?ie\x3dUTF-8\x26amp;ei\x3djB_qX_r0B_yE9PwP9fGK2AI\x26amp;q\x3dWill+Bitcoin+Rise+Again+2020?\x26amp;sa\x3dX\x26amp;ved\x3d2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQzmd6BAgREAM\x22\x3eMore results\x3c/a\x3e\x3c/span\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e');})();(function(){(function(){var id='tsuid36';var lve=true;(function(){
+
+
+var e="undefined"!=typeof navigator&&!/Opera/.test(navigator.userAgent)&&/WebKit/.test(navigator.userAgent),f={A:1,INPUT:1,TEXTAREA:1,SELECT:1,BUTTON:1},g={A:13,BUTTON:0,CHECKBOX:32,COMBOBOX:13,FILE:0,GRIDCELL:13,LINK:13,LISTBOX:13,MENU:0,MENUBAR:0,MENUITEM:0,MENUITEMCHECKBOX:0,MENUITEMRADIO:0,OPTION:0,RADIO:32,RADIOGROUP:32,RESET:0,SUBMIT:0,SWITCH:32,TAB:0,TREE:13,TREEITEM:13},h={CHECKBOX:!0,FILE:!0,OPTION:!0,RADIO:!0},k={COLOR:!0,DATE:!0,DATETIME:!0,"DATETIME-LOCAL":!0,EMAIL:!0,MONTH:!0,NUMBER:!0,PASSWORD:!0,RANGE:!0,SEARCH:!0,TEL:!0,TEXT:!0,TEXTAREA:!0,TIME:!0,URL:!0,WEEK:!0};document.getElementById(id).onclick=function(){window.xp(this);lve&&window.logVe(this)};document.getElementById(id).onkeydown=function(d){var c=d.which||d.keyCode;e&&3==c&&(c=13);if(13!=c&&32!=c)c=!1;else{var a=d.target||d.srcElement;!a.getAttribute&&a.parentNode&&(a=a.parentNode);var b;if(!(b="keydown"!=d.type)){if(b="getAttribute"in a)b=!((a.getAttribute("type")||a.tagName).toUpperCase()in k);b=!(b&&!("BUTTON"==a.tagName.toUpperCase()||a.type&&"FILE"==a.type.toUpperCase())&&!a.isContentEditable)}(b=b||d.ctrlKey||d.shiftKey||d.altKey||d.metaKey||(a.getAttribute("type")||a.tagName).toUpperCase()in
+h&&32==c)||((b=a.tagName in f)||(b=a.getAttributeNode("tabindex"),b=null!=b&&b.specified),b=!(b&&!a.disabled));if(b)c=!1;else{b=(a.getAttribute("role")||a.type||a.tagName).toUpperCase();var l=!(b in g)&&13==c;a="INPUT"!=a.tagName.toUpperCase()||!!a.type;c=(0==g[b]%c||l)&&a}}c&&(d.preventDefault(),window.xp(this),lve&&window.logVe(this))};}).call(this);})();})();(function(){window.jsl.dh('accdef_39','\x3cdiv\x3e\x3cdiv class\x3d\x22hwc M56Nqc\x22\x3e\x3cdiv class\x3d\x22Z8j5ae\x22\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22ZINbbc xpd O9g5cc uUPGi\x22\x3e\x3cdiv class\x3d\x22kCrYT\x22\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3eThe Value of \x3cspan class\x3d\x22FCUp0c rQMQod\x22\x3eBitcoin\x3c/span\x3e\n\n While it may be difficult, theoretically, \x3cspan class\x3d\x22FCUp0c rQMQod\x22\x3eone bitcoin can\x3c/span\x3e eventually \x3cspan class\x3d\x22FCUp0c rQMQod\x22\x3emake you a Millionaire\x3c/span\x3e. The value of \x3cspan class\x3d\x22FCUp0c rQMQod\x22\x3ebitcoins\x3c/span\x3e changes regularly, sometimes quickly. So if \x3cspan class\x3d\x22FCUp0c rQMQod\x22\x3eyou\x3c/span\x3e buy or mine $10 in \x3cspan class\x3d\x22FCUp0c rQMQod\x22\x3ebitcoins\x3c/span\x3e, then trade them for $1000 because the value increased, \x3cspan class\x3d\x22FCUp0c rQMQod\x22\x3eyou will\x3c/span\x3e have \x3cspan class\x3d\x22FCUp0c rQMQod\x22\x3emade\x3c/span\x3e $990.\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3cdiv class\x3d\x22x54gtf\x22\x3e\x3c/div\x3e\x3cdiv class\x3d\x22kCrYT\x22\x3e\x3ca href\x3d\x22/url?q\x3dhttps://www.andysowards.com/blog/2020/can-1-bitcoin-make-millionaire/\x26amp;sa\x3dU\x26amp;ved\x3d2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQFnoECA0QAg\x26amp;usg\x3dAOvVaw0BEh2KwEwjtJ3pFEoQkkz3\x22\x3e\x3cspan\x3e\x3cdiv class\x3d\x22BNeawe vvjwJb AP7Wnd\x22\x3eCan 1 Bitcoin Make You a Millionaire? - Andy Sowards\x3c/div\x3e\x3c/span\x3e\x3cspan\x3e\x3cdiv class\x3d\x22BNeawe UPmit AP7Wnd\x22\x3ewww.andysowards.com \x26gt; blog \x26gt; can-1-bitcoin-make-millionaire\x3c/div\x3e\x3c/span\x3e\x3c/a\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22PDHNXc\x22\x3e\x3cdiv class\x3d\x22iU269d TeHtNe\x22\x3e\x3cspan class\x3d\x22kXUfPb Vp9uZ\x22\x3e\x3ca class\x3d\x22RtoYlb\x22 href\x3d\x22https://www.google.com/search?ie\x3dUTF-8\x26amp;ei\x3djB_qX_r0B_yE9PwP9fGK2AI\x26amp;q\x3dCan+1+Bitcoin+make+you+a+millionaire?\x26amp;sa\x3dX\x26amp;ved\x3d2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQzmd6BAgREAY\x22\x3eMore results\x3c/a\x3e\x3c/span\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e');})();(function(){(function(){var id='tsuid41';var lve=true;(function(){
+
+
+var e="undefined"!=typeof navigator&&!/Opera/.test(navigator.userAgent)&&/WebKit/.test(navigator.userAgent),f={A:1,INPUT:1,TEXTAREA:1,SELECT:1,BUTTON:1},g={A:13,BUTTON:0,CHECKBOX:32,COMBOBOX:13,FILE:0,GRIDCELL:13,LINK:13,LISTBOX:13,MENU:0,MENUBAR:0,MENUITEM:0,MENUITEMCHECKBOX:0,MENUITEMRADIO:0,OPTION:0,RADIO:32,RADIOGROUP:32,RESET:0,SUBMIT:0,SWITCH:32,TAB:0,TREE:13,TREEITEM:13},h={CHECKBOX:!0,FILE:!0,OPTION:!0,RADIO:!0},k={COLOR:!0,DATE:!0,DATETIME:!0,"DATETIME-LOCAL":!0,EMAIL:!0,MONTH:!0,NUMBER:!0,PASSWORD:!0,RANGE:!0,SEARCH:!0,TEL:!0,TEXT:!0,TEXTAREA:!0,TIME:!0,URL:!0,WEEK:!0};document.getElementById(id).onclick=function(){window.xp(this);lve&&window.logVe(this)};document.getElementById(id).onkeydown=function(d){var c=d.which||d.keyCode;e&&3==c&&(c=13);if(13!=c&&32!=c)c=!1;else{var a=d.target||d.srcElement;!a.getAttribute&&a.parentNode&&(a=a.parentNode);var b;if(!(b="keydown"!=d.type)){if(b="getAttribute"in a)b=!((a.getAttribute("type")||a.tagName).toUpperCase()in k);b=!(b&&!("BUTTON"==a.tagName.toUpperCase()||a.type&&"FILE"==a.type.toUpperCase())&&!a.isContentEditable)}(b=b||d.ctrlKey||d.shiftKey||d.altKey||d.metaKey||(a.getAttribute("type")||a.tagName).toUpperCase()in
+h&&32==c)||((b=a.tagName in f)||(b=a.getAttributeNode("tabindex"),b=null!=b&&b.specified),b=!(b&&!a.disabled));if(b)c=!1;else{b=(a.getAttribute("role")||a.type||a.tagName).toUpperCase();var l=!(b in g)&&13==c;a="INPUT"!=a.tagName.toUpperCase()||!!a.type;c=(0==g[b]%c||l)&&a}}c&&(d.preventDefault(),window.xp(this),lve&&window.logVe(this))};}).call(this);})();})();(function(){window.jsl.dh('accdef_42','\x3cdiv\x3e\x3cdiv class\x3d\x22hwc M56Nqc\x22\x3e\x3cdiv class\x3d\x22Z8j5ae\x22\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22ZINbbc xpd O9g5cc uUPGi\x22\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22kCrYT\x22\x3e\x3ca href\x3d\x22/url?q\x3dhttps://cointelegraph.com/bitcoin-price-index\x26amp;sa\x3dU\x26amp;ved\x3d2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQFnoECA4QAQ\x26amp;usg\x3dAOvVaw0p4ptrghtnqmgENub0TkEr\x22\x3e\x3cspan\x3e\x3cdiv class\x3d\x22BNeawe deIvCb AP7Wnd\x22\x3eBitcoin Market Overview\x3c/div\x3e\x3c/span\x3e\x3c/a\x3e\x3c/div\x3e\x3cdiv class\x3d\x22CgE3Ac I9mEQ\x22\x3e\x3ctable class\x3d\x22LnMnt\x22\x3e\x3cthead\x3e\x3ctr\x3e\x3ctd class\x3d\x22IxZjcf sjsZvd OE1use\x22\x3e\x3cdiv class\x3d\x22hfgVwf\x22\x3e\x3cdiv class\x3d\x22BNeawe uEec3 AP7Wnd\x22\x3eOpen 24H\x3c/div\x3e\x3c/div\x3e\x3c/td\x3e\x3ctd class\x3d\x22IxZjcf sjsZvd s5aIid OE1use\x22\x3e\x3cdiv class\x3d\x22hfgVwf\x22\x3e\x3cdiv class\x3d\x22BNeawe uEec3 AP7Wnd\x22\x3e$13,761\x3c/div\x3e\x3c/div\x3e\x3c/td\x3e\x3c/tr\x3e\x3c/thead\x3e\x3ctbody\x3e\x3ctr\x3e\x3ctd class\x3d\x22sjsZvd OE1use\x22\x3e\x3cdiv class\x3d\x22hfgVwf\x22\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3eHigh 24H\x3c/div\x3e\x3c/div\x3e\x3c/td\x3e\x3ctd class\x3d\x22sjsZvd s5aIid OE1use\x22\x3e\x3cdiv class\x3d\x22hfgVwf\x22\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3e$14,290\x3c/div\x3e\x3c/div\x3e\x3c/td\x3e\x3c/tr\x3e\x3ctr\x3e\x3ctd class\x3d\x22sjsZvd OE1use\x22\x3e\x3cdiv class\x3d\x22hfgVwf\x22\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3eLow 24H\x3c/div\x3e\x3c/div\x3e\x3c/td\x3e\x3ctd class\x3d\x22sjsZvd s5aIid OE1use\x22\x3e\x3cdiv class\x3d\x22hfgVwf\x22\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3e$13,533\x3c/div\x3e\x3c/div\x3e\x3c/td\x3e\x3c/tr\x3e\x3ctr\x3e\x3ctd class\x3d\x22sjsZvd OE1use\x22\x3e\x3cdiv class\x3d\x22hfgVwf\x22\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3eLast Price\x3c/div\x3e\x3c/div\x3e\x3c/td\x3e\x3ctd class\x3d\x22sjsZvd s5aIid OE1use\x22\x3e\x3cdiv class\x3d\x22hfgVwf\x22\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3e$14,265\x3c/div\x3e\x3c/div\x3e\x3c/td\x3e\x3c/tr\x3e\x3c/tbody\x3e\x3c/table\x3e\x3c/div\x3e\x3cdiv class\x3d\x22hwc\x22\x3e\x3cdiv class\x3d\x22Q0HXG\x22\x3e\x3c/div\x3e\x3cdiv class\x3d\x22kCrYT\x22\x3e\x3ca href\x3d\x22/url?q\x3dhttps://cointelegraph.com/bitcoin-price-index\x26amp;sa\x3dU\x26amp;ved\x3d2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQFnoECA4QAw\x26amp;usg\x3dAOvVaw0fP3SzLOtqSRtKLmXft0V3\x22\x3e\x3cdiv\x3e\x3cspan\x3e\x3cdiv class\x3d\x22BNeawe vvjwJb AP7Wnd\x22\x3eBitcoin Price | Current BTC Price Charts, Live History | Cointelegraph\x3c/div\x3e\x3c/span\x3e\x3cspan\x3e\x3cdiv class\x3d\x22BNeawe UPmit AP7Wnd\x22\x3ecointelegraph.com \x26gt; bitcoin-price-index\x3c/div\x3e\x3c/span\x3e\x3c/div\x3e\x3c/a\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22PDHNXc\x22\x3e\x3cdiv class\x3d\x22iU269d TeHtNe\x22\x3e\x3cspan class\x3d\x22kXUfPb Vp9uZ\x22\x3e\x3ca class\x3d\x22RtoYlb\x22 href\x3d\x22https://www.google.com/search?ie\x3dUTF-8\x26amp;ei\x3djB_qX_r0B_yE9PwP9fGK2AI\x26amp;q\x3dHow+much+is+the+Bitcoin+right+now?\x26amp;sa\x3dX\x26amp;ved\x3d2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQzmd6BAgREAk\x22\x3eMore results\x3c/a\x3e\x3c/span\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e');})();(function(){(function(){var id='tsuid44';var lve=true;(function(){
+
+
+var e="undefined"!=typeof navigator&&!/Opera/.test(navigator.userAgent)&&/WebKit/.test(navigator.userAgent),f={A:1,INPUT:1,TEXTAREA:1,SELECT:1,BUTTON:1},g={A:13,BUTTON:0,CHECKBOX:32,COMBOBOX:13,FILE:0,GRIDCELL:13,LINK:13,LISTBOX:13,MENU:0,MENUBAR:0,MENUITEM:0,MENUITEMCHECKBOX:0,MENUITEMRADIO:0,OPTION:0,RADIO:32,RADIOGROUP:32,RESET:0,SUBMIT:0,SWITCH:32,TAB:0,TREE:13,TREEITEM:13},h={CHECKBOX:!0,FILE:!0,OPTION:!0,RADIO:!0},k={COLOR:!0,DATE:!0,DATETIME:!0,"DATETIME-LOCAL":!0,EMAIL:!0,MONTH:!0,NUMBER:!0,PASSWORD:!0,RANGE:!0,SEARCH:!0,TEL:!0,TEXT:!0,TEXTAREA:!0,TIME:!0,URL:!0,WEEK:!0};document.getElementById(id).onclick=function(){window.xp(this);lve&&window.logVe(this)};document.getElementById(id).onkeydown=function(d){var c=d.which||d.keyCode;e&&3==c&&(c=13);if(13!=c&&32!=c)c=!1;else{var a=d.target||d.srcElement;!a.getAttribute&&a.parentNode&&(a=a.parentNode);var b;if(!(b="keydown"!=d.type)){if(b="getAttribute"in a)b=!((a.getAttribute("type")||a.tagName).toUpperCase()in k);b=!(b&&!("BUTTON"==a.tagName.toUpperCase()||a.type&&"FILE"==a.type.toUpperCase())&&!a.isContentEditable)}(b=b||d.ctrlKey||d.shiftKey||d.altKey||d.metaKey||(a.getAttribute("type")||a.tagName).toUpperCase()in
+h&&32==c)||((b=a.tagName in f)||(b=a.getAttributeNode("tabindex"),b=null!=b&&b.specified),b=!(b&&!a.disabled));if(b)c=!1;else{b=(a.getAttribute("role")||a.type||a.tagName).toUpperCase();var l=!(b in g)&&13==c;a="INPUT"!=a.tagName.toUpperCase()||!!a.type;c=(0==g[b]%c||l)&&a}}c&&(d.preventDefault(),window.xp(this),lve&&window.logVe(this))};}).call(this);})();})();(function(){window.jsl.dh('accdef_47','\x3cdiv\x3e\x3cdiv class\x3d\x22hwc M56Nqc\x22\x3e\x3cdiv class\x3d\x22Z8j5ae\x22\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22ZINbbc xpd O9g5cc uUPGi\x22\x3e\x3cdiv class\x3d\x22kCrYT\x22\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3e\x3cspan class\x3d\x22FCUp0c rQMQod\x22\x3e$100\x3c/span\x3e is equivalent to 0.28% of the current value of \x3cspan class\x3d\x22FCUp0c rQMQod\x22\x3eBitcoin\x3c/span\x3e therefore you can see that it will need to work extremely hard to see a return or growth with that amount. It depends on what you want to achieve and what capital you have to start at a higher level. Your \x3cspan class\x3d\x22FCUp0c rQMQod\x22\x3e100\x3c/span\x3e might be \x3cspan class\x3d\x22FCUp0c rQMQod\x22\x3eworth\x3c/span\x3e a lot more now.\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3cdiv class\x3d\x22x54gtf\x22\x3e\x3c/div\x3e\x3cdiv class\x3d\x22kCrYT\x22\x3e\x3ca href\x3d\x22/url?q\x3dhttps://www.quora.com/Can-I-make-money-starting-with-100-dollars-worth-of-bitcoin\x26amp;sa\x3dU\x26amp;ved\x3d2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQFnoECBAQAg\x26amp;usg\x3dAOvVaw0PSMKovXLmCWf8KjiM-Wxy\x22\x3e\x3cspan\x3e\x3cdiv class\x3d\x22BNeawe vvjwJb AP7Wnd\x22\x3eCan I make money starting with 100 dollars worth of bitcoin? - Quora\x3c/div\x3e\x3c/span\x3e\x3cspan\x3e\x3cdiv class\x3d\x22BNeawe UPmit AP7Wnd\x22\x3ewww.quora.com \x26gt; Can-I-make-money-starting-with-100-dollars-worth-of-...\x3c/div\x3e\x3c/span\x3e\x3c/a\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22PDHNXc\x22\x3e\x3cdiv class\x3d\x22iU269d TeHtNe\x22\x3e\x3cspan class\x3d\x22kXUfPb Vp9uZ\x22\x3e\x3ca class\x3d\x22RtoYlb\x22 href\x3d\x22https://www.google.com/search?ie\x3dUTF-8\x26amp;ei\x3djB_qX_r0B_yE9PwP9fGK2AI\x26amp;q\x3dIs+it+worth+buying+100+dollars+of+Bitcoin?\x26amp;sa\x3dX\x26amp;ved\x3d2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQzmd6BAgREAw\x22\x3eMore results\x3c/a\x3e\x3c/span\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e');})();(function(){(function(){var id='tsuid57';var lve=true;(function(){
+
+
+var e="undefined"!=typeof navigator&&!/Opera/.test(navigator.userAgent)&&/WebKit/.test(navigator.userAgent),f={A:1,INPUT:1,TEXTAREA:1,SELECT:1,BUTTON:1},g={A:13,BUTTON:0,CHECKBOX:32,COMBOBOX:13,FILE:0,GRIDCELL:13,LINK:13,LISTBOX:13,MENU:0,MENUBAR:0,MENUITEM:0,MENUITEMCHECKBOX:0,MENUITEMRADIO:0,OPTION:0,RADIO:32,RADIOGROUP:32,RESET:0,SUBMIT:0,SWITCH:32,TAB:0,TREE:13,TREEITEM:13},h={CHECKBOX:!0,FILE:!0,OPTION:!0,RADIO:!0},k={COLOR:!0,DATE:!0,DATETIME:!0,"DATETIME-LOCAL":!0,EMAIL:!0,MONTH:!0,NUMBER:!0,PASSWORD:!0,RANGE:!0,SEARCH:!0,TEL:!0,TEXT:!0,TEXTAREA:!0,TIME:!0,URL:!0,WEEK:!0};document.getElementById(id).onclick=function(){window.xp(this);lve&&window.logVe(this)};document.getElementById(id).onkeydown=function(d){var c=d.which||d.keyCode;e&&3==c&&(c=13);if(13!=c&&32!=c)c=!1;else{var a=d.target||d.srcElement;!a.getAttribute&&a.parentNode&&(a=a.parentNode);var b;if(!(b="keydown"!=d.type)){if(b="getAttribute"in a)b=!((a.getAttribute("type")||a.tagName).toUpperCase()in k);b=!(b&&!("BUTTON"==a.tagName.toUpperCase()||a.type&&"FILE"==a.type.toUpperCase())&&!a.isContentEditable)}(b=b||d.ctrlKey||d.shiftKey||d.altKey||d.metaKey||(a.getAttribute("type")||a.tagName).toUpperCase()in
+h&&32==c)||((b=a.tagName in f)||(b=a.getAttributeNode("tabindex"),b=null!=b&&b.specified),b=!(b&&!a.disabled));if(b)c=!1;else{b=(a.getAttribute("role")||a.type||a.tagName).toUpperCase();var l=!(b in g)&&13==c;a="INPUT"!=a.tagName.toUpperCase()||!!a.type;c=(0==g[b]%c||l)&&a}}c&&(d.preventDefault(),window.xp(this),lve&&window.logVe(this))};}).call(this);})();})();(function(){(function(){var id='tsuid60';var lve=true;(function(){
+
+
+var e="undefined"!=typeof navigator&&!/Opera/.test(navigator.userAgent)&&/WebKit/.test(navigator.userAgent),f={A:1,INPUT:1,TEXTAREA:1,SELECT:1,BUTTON:1},g={A:13,BUTTON:0,CHECKBOX:32,COMBOBOX:13,FILE:0,GRIDCELL:13,LINK:13,LISTBOX:13,MENU:0,MENUBAR:0,MENUITEM:0,MENUITEMCHECKBOX:0,MENUITEMRADIO:0,OPTION:0,RADIO:32,RADIOGROUP:32,RESET:0,SUBMIT:0,SWITCH:32,TAB:0,TREE:13,TREEITEM:13},h={CHECKBOX:!0,FILE:!0,OPTION:!0,RADIO:!0},k={COLOR:!0,DATE:!0,DATETIME:!0,"DATETIME-LOCAL":!0,EMAIL:!0,MONTH:!0,NUMBER:!0,PASSWORD:!0,RANGE:!0,SEARCH:!0,TEL:!0,TEXT:!0,TEXTAREA:!0,TIME:!0,URL:!0,WEEK:!0};document.getElementById(id).onclick=function(){window.xp(this);lve&&window.logVe(this)};document.getElementById(id).onkeydown=function(d){var c=d.which||d.keyCode;e&&3==c&&(c=13);if(13!=c&&32!=c)c=!1;else{var a=d.target||d.srcElement;!a.getAttribute&&a.parentNode&&(a=a.parentNode);var b;if(!(b="keydown"!=d.type)){if(b="getAttribute"in a)b=!((a.getAttribute("type")||a.tagName).toUpperCase()in k);b=!(b&&!("BUTTON"==a.tagName.toUpperCase()||a.type&&"FILE"==a.type.toUpperCase())&&!a.isContentEditable)}(b=b||d.ctrlKey||d.shiftKey||d.altKey||d.metaKey||(a.getAttribute("type")||a.tagName).toUpperCase()in
+h&&32==c)||((b=a.tagName in f)||(b=a.getAttributeNode("tabindex"),b=null!=b&&b.specified),b=!(b&&!a.disabled));if(b)c=!1;else{b=(a.getAttribute("role")||a.type||a.tagName).toUpperCase();var l=!(b in g)&&13==c;a="INPUT"!=a.tagName.toUpperCase()||!!a.type;c=(0==g[b]%c||l)&&a}}c&&(d.preventDefault(),window.xp(this),lve&&window.logVe(this))};}).call(this);})();})();(function(){window.jsl.dh('accdef_63','\x3cdiv\x3e\x3cdiv class\x3d\x22hwc W5nzFf\x22\x3e\x3cdiv class\x3d\x22r2NYtc\x22\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22ZINbbc xpd O9g5cc uUPGi\x22\x3e\x3cdiv class\x3d\x22FybcKc\x22\x3e\x3cdiv\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22Xdlr0d\x22\x3e\x3cdiv class\x3d\x22idg8be\x22\x3e\x3ca class\x3d\x22BVG0Nb\x22 href\x3d\x22/search?ie\x3dUTF-8\x26amp;q\x3dBitcoin\x26amp;stick\x3dH4sIAAAAAAAAAOOQUeLSz9U3MC0wKCqqMFIoSE0tUijJh9DJRZUFJfnJpUVFqXnJlQo5mcUlUexJJckKpcUppxiR9J1i5AZxDA0skvKMKqBSFQbFltnlpxh59dP1DQ1T4stLypJNs2FKDZOS0y1SfjEqBABt0i3J18VlYwML4yJWdqfMkuT8zLxbbJIMWlOruC483LbOveyFX5FGhGKRPtuSpdeE-wDWKYCnywAAAA\x26amp;sa\x3dX\x26amp;ved\x3d2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQs9oBegQIDxAB\x22\x3e\x3cdiv\x3e\x3cdiv style\x3d\x22width:112px\x22\x3e\x3cdiv class\x3d\x22S7Jdze\x22 style\x3d\x22width:112px;height:112px\x22\x3e\x3cimg class\x3d\x22EYOsld\x22 alt\x3d\x22\x22 src\x3d\x22data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw\x3d\x3d\x22 style\x3d\x22max-width:112px;max-height:112px\x22 id\x3d\x22dimg_25\x22 data-deferred\x3d\x221\x22\x3e\x3c/div\x3e\x3cdiv class\x3d\x22RWuggc kCrYT\x22\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3eBitcoin\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/a\x3e\x3ca class\x3d\x22BVG0Nb\x22 href\x3d\x22/search?ie\x3dUTF-8\x26amp;q\x3dEthereum\x26amp;stick\x3dH4sIAAAAAAAAAOOQUeLWz9U3MDSwSMozqjBSKEhNLVIoyYfQyUWVBSX5yaVFRal5yZUKOZnFJVHsSSXJCqXFKacYuUAaTQsMiooqTjEimwKVqjAotswuP8XIq5-ub2iYEl9eUpZsmg1TapiUnG6R8otRIQBok25Jvi4uGxtYGBexcriWZKQWpZbm3mKTZNCaWsV14eG2de5lL_yKNCIUi_TZliy9JtwHANZ_88XNAAAA\x26amp;sa\x3dX\x26amp;ved\x3d2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQs9oBegQIDxAC\x22\x3e\x3cdiv\x3e\x3cdiv style\x3d\x22width:112px\x22\x3e\x3cdiv class\x3d\x22S7Jdze\x22 style\x3d\x22width:112px;height:112px\x22\x3e\x3cimg class\x3d\x22EYOsld\x22 alt\x3d\x22\x22 src\x3d\x22data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw\x3d\x3d\x22 style\x3d\x22max-width:112px;max-height:112px\x22 id\x3d\x22dimg_27\x22 data-deferred\x3d\x221\x22\x3e\x3c/div\x3e\x3cdiv class\x3d\x22RWuggc kCrYT\x22\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3eEthereum\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/a\x3e\x3ca class\x3d\x22BVG0Nb\x22 href\x3d\x22/search?ie\x3dUTF-8\x26amp;q\x3dLocalBitcoins\x26amp;stick\x3dH4sIAAAAAAAAAOOQUeLSz9U3qDAotswuN1IoSE0tUijJh9DJRZUFJfnJpUVFqXnJlQo5mcUlUexJJckKpcUppxjB-kwLDIqKKk4xcoM4hgYWSXlGFVApiJGnGHn10_UNDVPiy0vKkk2zYUoNk5LTLVJ-MSoEAG3SLcnXxWVjAwvjIlZen_zkxBynzJLk_My84ltskgxaU6u4Ljzcts697IVfkUaEYpE-25Kl14T7AKkuFOrRAAAA\x26amp;sa\x3dX\x26amp;ved\x3d2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQs9oBegQIDxAD\x22\x3e\x3cdiv\x3e\x3cdiv style\x3d\x22width:112px\x22\x3e\x3cdiv class\x3d\x22S7Jdze\x22 style\x3d\x22width:112px;height:112px\x22\x3e\x3cimg class\x3d\x22EYOsld\x22 alt\x3d\x22\x22 src\x3d\x22data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw\x3d\x3d\x22 style\x3d\x22max-width:112px;max-height:112px\x22 id\x3d\x22dimg_29\x22 data-deferred\x3d\x221\x22\x3e\x3c/div\x3e\x3cdiv class\x3d\x22RWuggc kCrYT\x22\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3eLocalBitco...\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/a\x3e\x3ca class\x3d\x22BVG0Nb\x22 href\x3d\x22/search?ie\x3dUTF-8\x26amp;q\x3dBitcoin+Cash\x26amp;stick\x3dH4sIAAAAAAAAAOOQUeLVT9c3NEyJLy8pSzbNNlIoSE0tUijJh9DJRZUFJfnJpUVFqXnJlQo5mcUlUexJJckKpcUppxi59HP1DUwLDIqKKk4xcoM4hgYWSXlGFVCpCoNiy-zyU4yoVsCUGiYlp1uk_GJUCADapFuSr4vLxgYWxkWsPE6ZJcn5mXkKzonFGbfYJBm0plZxXXi4bZ172Qu_Io0IxSJ9tiVLrwn3AQBewfnS0wAAAA\x26amp;sa\x3dX\x26amp;ved\x3d2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQs9oBegQIDxAE\x22\x3e\x3cdiv\x3e\x3cdiv style\x3d\x22width:112px\x22\x3e\x3cdiv class\x3d\x22S7Jdze\x22 style\x3d\x22width:112px;height:112px\x22\x3e\x3cimg class\x3d\x22EYOsld\x22 alt\x3d\x22\x22 src\x3d\x22data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw\x3d\x3d\x22 style\x3d\x22max-width:112px;max-height:112px\x22 id\x3d\x22dimg_34\x22 data-deferred\x3d\x221\x22\x3e\x3c/div\x3e\x3cdiv class\x3d\x22RWuggc kCrYT\x22\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3eBitcoin Cash\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/a\x3e\x3cdiv class\x3d\x22mHhylf\x22\x3e\x3cdiv class\x3d\x22WZ5GJf\x22\x3e\x3ca class\x3d\x22qN9Ked\x22 href\x3d\x22/search?ie\x3dUTF-8\x26amp;q\x3dPeer-to-peer+cryptocurrency+list\x26amp;stick\x3dH4sIAAAAAAAAAOOQMVIoSE0tUijJh9DJRZUFJfnJpUVFqXnJlQo5mcUlUexJJckKpcUppxi59HP1DUwLDIqKKk4xcoM4hgYWSXlGFVCpCoNiy-zyU4y8-un6hoYp8eUlZcmm2TClhknJ6RYpvxgVAoA26Zbk6-KysYGFcRErQVW32CQZtKZWcV14uG2de9kLvyKNCMUifbYlS68J9wEAHyi8AdgAAAA\x26amp;sa\x3dX\x26amp;ved\x3d2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQzO0BegQIDxAF\x22\x3e\x3cbutton class\x3d\x22DXk5Me Qi9Fd\x22 tabindex\x3d\x22-1\x22\x3e\x3cimg class\x3d\x22hWHuJ\x22 alt\x3d\x22\x22 src\x3d\x22data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw\x3d\x3d\x22 style\x3d\x22max-width:24px;max-height:24px\x22 id\x3d\x22dimg_37\x22 data-deferred\x3d\x221\x22\x3e\x3c/button\x3e\x3cdiv class\x3d\x22BNeawe ji5jpf tAd8D AP7Wnd\x22\x3eMore results\x3c/div\x3e\x3c/a\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22PDHNXc\x22\x3e\x3cdiv class\x3d\x22iU269d TeHtNe\x22\x3e\x3cspan class\x3d\x22kXUfPb Vp9uZ\x22\x3e\x3ca class\x3d\x22RtoYlb MHODM\x22 href\x3d\x22/search?ie\x3dUTF-8\x26amp;q\x3dPeer-to-peer+cryptocurrency+list\x26amp;sa\x3dX\x26amp;ved\x3d2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQ4qYDegQIFxAG\x22\x3ePeer-to-peer cryptocurrency list\x3c/a\x3e\x3c/span\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e');})();(function(){document.getElementById('dimg_25').setAttribute('data-ll','//encrypted-tbn0.gstatic.com/images?q\x3dtbn:ANd9GcTPlRLEFsYE9SeJltPA1Db5EQhdgS_BZcza1QSy\x26s\x3d0');})();(function(){document.getElementById('dimg_27').setAttribute('data-ll','//encrypted-tbn0.gstatic.com/images?q\x3dtbn:ANd9GcR804mhwEOgKaNLlhmDX8NSD_wYBZE2A2_kqihL\x26s\x3d0');})();(function(){document.getElementById('dimg_29').setAttribute('data-ll','//encrypted-tbn0.gstatic.com/images?q\x3dtbn:ANd9GcSbacTFDvoURerex4W8IsfZ871lN0SbPNaxTy2c\x26s\x3d0');})();(function(){document.getElementById('dimg_34').setAttribute('data-ll','//encrypted-tbn0.gstatic.com/images?q\x3dtbn:ANd9GcTK4nDk67XHzTe1po1ZiPnORqU96txcJDDQ7auf_gf0QVVK8_Kbyolt\x26s\x3d0');})();(function(){document.getElementById('dimg_37').setAttribute('data-ll','data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYAgMAAACdGdVrAAAADFBMVEVMaXFChfRChfRChfT0tCPZAAAAA3RSTlMAgFJEkGxNAAAAL0lEQVR4AWPADxgdwBT3BTDF9AUiuhdC6WNK/v///y+UggrClSA07EWVglmEFwAA5eYSExeCwigAAAAASUVORK5CYII\x3d');})();(function(){(function(){var id='tsuid65';var lve=true;(function(){
+
+
+var e="undefined"!=typeof navigator&&!/Opera/.test(navigator.userAgent)&&/WebKit/.test(navigator.userAgent),f={A:1,INPUT:1,TEXTAREA:1,SELECT:1,BUTTON:1},g={A:13,BUTTON:0,CHECKBOX:32,COMBOBOX:13,FILE:0,GRIDCELL:13,LINK:13,LISTBOX:13,MENU:0,MENUBAR:0,MENUITEM:0,MENUITEMCHECKBOX:0,MENUITEMRADIO:0,OPTION:0,RADIO:32,RADIOGROUP:32,RESET:0,SUBMIT:0,SWITCH:32,TAB:0,TREE:13,TREEITEM:13},h={CHECKBOX:!0,FILE:!0,OPTION:!0,RADIO:!0},k={COLOR:!0,DATE:!0,DATETIME:!0,"DATETIME-LOCAL":!0,EMAIL:!0,MONTH:!0,NUMBER:!0,PASSWORD:!0,RANGE:!0,SEARCH:!0,TEL:!0,TEXT:!0,TEXTAREA:!0,TIME:!0,URL:!0,WEEK:!0};document.getElementById(id).onclick=function(){window.xp(this);lve&&window.logVe(this)};document.getElementById(id).onkeydown=function(d){var c=d.which||d.keyCode;e&&3==c&&(c=13);if(13!=c&&32!=c)c=!1;else{var a=d.target||d.srcElement;!a.getAttribute&&a.parentNode&&(a=a.parentNode);var b;if(!(b="keydown"!=d.type)){if(b="getAttribute"in a)b=!((a.getAttribute("type")||a.tagName).toUpperCase()in k);b=!(b&&!("BUTTON"==a.tagName.toUpperCase()||a.type&&"FILE"==a.type.toUpperCase())&&!a.isContentEditable)}(b=b||d.ctrlKey||d.shiftKey||d.altKey||d.metaKey||(a.getAttribute("type")||a.tagName).toUpperCase()in
+h&&32==c)||((b=a.tagName in f)||(b=a.getAttributeNode("tabindex"),b=null!=b&&b.specified),b=!(b&&!a.disabled));if(b)c=!1;else{b=(a.getAttribute("role")||a.type||a.tagName).toUpperCase();var l=!(b in g)&&13==c;a="INPUT"!=a.tagName.toUpperCase()||!!a.type;c=(0==g[b]%c||l)&&a}}c&&(d.preventDefault(),window.xp(this),lve&&window.logVe(this))};}).call(this);})();})();(function(){window.jsl.dh('accdef_68','\x3cdiv\x3e\x3cdiv class\x3d\x22hwc W5nzFf\x22\x3e\x3cdiv class\x3d\x22r2NYtc\x22\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22ZINbbc xpd O9g5cc uUPGi\x22\x3e\x3cdiv class\x3d\x22FybcKc\x22\x3e\x3cdiv\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22Xdlr0d\x22\x3e\x3cdiv class\x3d\x22idg8be\x22\x3e\x3ca class\x3d\x22BVG0Nb\x22 href\x3d\x22/search?ie\x3dUTF-8\x26amp;q\x3dCoinbase\x26amp;stick\x3dH4sIAAAAAAAAAOOQUeLSz9U3KC8yLswqNBIpyS9QSC6qLCjJV0jOzy1IzMtMLY5iTypJVigtTjnFyA1Sa2hgkZRnVHGKEUnnKUZOEMfcoqiy-BQjr366vqFhclZyZXq8UQlcW5pldpoBTDY9ryitKL6g7BejSAgWSxtYGBexcjjnZ-YlJRan3mKTZNCaWsWlomb-fvXuT8GKE6am3Ihds4J39X03AHsh6evDAAAA\x26amp;sa\x3dX\x26amp;ved\x3d2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQs9oBegQIFBAB\x22\x3e\x3cdiv\x3e\x3cdiv style\x3d\x22width:112px\x22\x3e\x3cdiv class\x3d\x22S7Jdze\x22 style\x3d\x22width:112px;height:112px\x22\x3e\x3cimg class\x3d\x22EYOsld\x22 alt\x3d\x22\x22 src\x3d\x22data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw\x3d\x3d\x22 style\x3d\x22max-width:112px;max-height:112px\x22 id\x3d\x22dimg_45\x22 data-deferred\x3d\x221\x22\x3e\x3c/div\x3e\x3cdiv class\x3d\x22RWuggc kCrYT\x22\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3eCoinbase\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/a\x3e\x3ca class\x3d\x22BVG0Nb\x22 href\x3d\x22/search?ie\x3dUTF-8\x26amp;q\x3dXRP\x26amp;stick\x3dH4sIAAAAAAAAAOOQUeLUz9U3MLcoqiw2EinJL1BILqosKMlXSM7PLUjMy0wtjmJPKklWKC1OOcXIDVJqaGCRlGdUcYqRC8QrLzIuzCo8xYgw5RQjr366vqFhclZyZXq8UQlcW5pldpoBTDY9ryitKL6g7BejSAgWSxtYGBexMkcEBdxik2TQmlrFpaJm_n717k_BihOmptyIXbOCd_V9NwATdBI_vQAAAA\x26amp;sa\x3dX\x26amp;ved\x3d2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQs9oBegQIFBAC\x22\x3e\x3cdiv\x3e\x3cdiv style\x3d\x22width:112px\x22\x3e\x3cdiv class\x3d\x22S7Jdze\x22 style\x3d\x22width:112px;height:112px\x22\x3e\x3cimg class\x3d\x22EYOsld\x22 alt\x3d\x22\x22 src\x3d\x22data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw\x3d\x3d\x22 style\x3d\x22max-width:112px;max-height:112px\x22 id\x3d\x22dimg_49\x22 data-deferred\x3d\x221\x22\x3e\x3c/div\x3e\x3cdiv class\x3d\x22RWuggc kCrYT\x22\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3eRipple\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/a\x3e\x3ca class\x3d\x22BVG0Nb\x22 href\x3d\x22/search?ie\x3dUTF-8\x26amp;q\x3dGemini+(company)\x26amp;stick\x3dH4sIAAAAAAAAAOOQUeLVT9c3NEzOSq5MjzcqMRIpyS9QSC6qLCjJV0jOzy1IzMtMLY5iTypJVigtTjnFyK2fq29gaGCRlGdUcYqRC8QrLzIuzCo8xcgJ4phbFFUWn2JENRWuLc0yO80AJpueV5RWFF9Q9otRJASLpQ0sjItYBdxTczPzMhU0IMKVmrfYJBm0plZxqaiZv1-9-1Ow4oSpKTdi16zgXX3fDQBUmQz7zgAAAA\x26amp;sa\x3dX\x26amp;ved\x3d2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQs9oBegQIFBAD\x22\x3e\x3cdiv\x3e\x3cdiv style\x3d\x22width:112px\x22\x3e\x3cdiv class\x3d\x22S7Jdze\x22 style\x3d\x22width:112px;height:112px\x22\x3e\x3cimg class\x3d\x22EYOsld\x22 alt\x3d\x22\x22 src\x3d\x22data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw\x3d\x3d\x22 style\x3d\x22max-width:112px;max-height:112px\x22 id\x3d\x22dimg_51\x22 data-deferred\x3d\x221\x22\x3e\x3c/div\x3e\x3cdiv class\x3d\x22RWuggc kCrYT\x22\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3eGemini\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/a\x3e\x3ca class\x3d\x22BVG0Nb\x22 href\x3d\x22/search?ie\x3dUTF-8\x26amp;q\x3dCircle+(company)\x26amp;stick\x3dH4sIAAAAAAAAAOOQUeLWz9U3MDRIs8xOMzASKckvUEguqiwoyVdIzs8tSMzLTC2OYk8qSVYoLU45xQhVbJGUZ1RxipELxCsvMi7MKjzFyAnimFsUVRafYuTVT9c3NEzOSq5MjzcqgWsD2wGTTc8rSiuKLyj7xSgSgsXSBhbGRawCzplFyTmpChoQ4UrNW2ySDFpTq7hU1Mzfr979KVhxwtSUG7FrVvCuvu8GACF_UM_MAAAA\x26amp;sa\x3dX\x26amp;ved\x3d2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQs9oBegQIFBAE\x22\x3e\x3cdiv\x3e\x3cdiv style\x3d\x22width:112px\x22\x3e\x3cdiv class\x3d\x22S7Jdze\x22 style\x3d\x22width:112px;height:112px\x22\x3e\x3cimg class\x3d\x22EYOsld\x22 alt\x3d\x22\x22 src\x3d\x22data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw\x3d\x3d\x22 style\x3d\x22max-width:112px;max-height:112px\x22 id\x3d\x22dimg_53\x22 data-deferred\x3d\x221\x22\x3e\x3c/div\x3e\x3cdiv class\x3d\x22RWuggc kCrYT\x22\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3eCircle\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/a\x3e\x3cdiv class\x3d\x22mHhylf\x22\x3e\x3cdiv class\x3d\x22WZ5GJf\x22\x3e\x3ca class\x3d\x22qN9Ked\x22 href\x3d\x22/search?ie\x3dUTF-8\x26amp;q\x3dTop+crypto+companies\x26amp;stick\x3dH4sIAAAAAAAAAOOQMRIpyS9QSC6qLCjJV0jOzy1IzMtMLY5iTypJVigtTjnFyK2fq29gaGCRlGdUcYqRC8QrLzIuzCo8xcgJ4phbFFUWn2Lk1U_XNzRMzkquTI83KoFrS7PMTjOAyabnFaUVxReU_WIUCcFiaQML4yJWrDK32CQZtKZWcamomb9fvftTsOKEqSk3Ytes4F193w0AurzgfsMAAAA\x26amp;sa\x3dX\x26amp;ved\x3d2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQzO0BegQIFBAF\x22\x3e\x3cbutton class\x3d\x22DXk5Me Qi9Fd\x22 tabindex\x3d\x22-1\x22\x3e\x3cimg class\x3d\x22hWHuJ\x22 alt\x3d\x22\x22 src\x3d\x22data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw\x3d\x3d\x22 style\x3d\x22max-width:24px;max-height:24px\x22 id\x3d\x22dimg_55\x22 data-deferred\x3d\x221\x22\x3e\x3c/button\x3e\x3cdiv class\x3d\x22BNeawe ji5jpf tAd8D AP7Wnd\x22\x3eMore results\x3c/div\x3e\x3c/a\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22PDHNXc\x22\x3e\x3cdiv class\x3d\x22iU269d TeHtNe\x22\x3e\x3cspan class\x3d\x22kXUfPb Vp9uZ\x22\x3e\x3ca class\x3d\x22RtoYlb MHODM\x22 href\x3d\x22/search?ie\x3dUTF-8\x26amp;q\x3dTop+crypto+companies\x26amp;sa\x3dX\x26amp;ved\x3d2ahUKEwj66v_-ovHtAhV8Ap0JHfW4AisQ4qYDegQIFxAJ\x22\x3eTop crypto companies\x3c/a\x3e\x3c/span\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e');})();(function(){document.getElementById('dimg_45').setAttribute('data-ll','//encrypted-tbn0.gstatic.com/images?q\x3dtbn:ANd9GcQ_jEJNnoRb8mLy92WoK3mXF-tEIwdnYQ1R2U2X\x26s\x3d0');})();(function(){document.getElementById('dimg_49').setAttribute('data-ll','//encrypted-tbn0.gstatic.com/images?q\x3dtbn:ANd9GcS42h11LpR6fX4rgslf7I0HxPo4M6uiPant_Ihy\x26s\x3d0');})();(function(){document.getElementById('dimg_51').setAttribute('data-ll','//encrypted-tbn0.gstatic.com/images?q\x3dtbn:ANd9GcQE0H5IfH5T_eICGYi4Wwu5dpzdDJC-t3hVbRT-9cM_v9qOQRv1Jcrf\x26s\x3d0');})();(function(){document.getElementById('dimg_53').setAttribute('data-ll','//encrypted-tbn0.gstatic.com/images?q\x3dtbn:ANd9GcQlFc-6vdJpaTskMjWvIKz4cXauGbejosEIMQwr\x26s\x3d0');})();(function(){document.getElementById('dimg_55').setAttribute('data-ll','data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYAgMAAACdGdVrAAAADFBMVEVMaXFChfRChfRChfT0tCPZAAAAA3RSTlMAgFJEkGxNAAAAL0lEQVR4AWPADxgdwBT3BTDF9AUiuhdC6WNK/v///y+UggrClSA07EWVglmEFwAA5eYSExeCwigAAAAASUVORK5CYII\x3d');})();google.drty&&google.drty();
+  </script>
+ </body>
+</html>3d\x221\x22\x3e\x3c/div\x3e\x3cdiv class\x3d\x22RWuggc kCrYT\x22\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3eLocalBitco...\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/a\x3e\x3ca class\x3d\x22BVG0Nb\x22 href\x3d\x22/search?ie\x3dUTF-8\x26amp;q\x3dBitcoin+Cash\x26amp;stick\x3dH4sIAAAAAAAAAOOQUeLVT9c3NEyJLy8pSzbNNlIoSE0tUijJh9DJRZUFJfnJpUVFqXnJlQo5mcUlUexJJckKpcUppxi59HP1DUwLDIqKKk4xcoM4hgYWSXlGFVCpCoNiy-zyU4yoVsCUGiYlp1uk_GJUCADapFuSr4vLxgYWxkWsPE6ZJcn5mXkKzonFGbfYJBm0plZxXXi4bZ172Qu_Io0IxSJ9tiVLrwn3AQBewfnS0wAAAA\x26amp;sa\x3dX\x26amp;ved\x3d2ahUKEwi97oTvovHtAhXEG80KHZwXBF4Qs9oBegQIDRAE\x22\x3e\x3cdiv\x3e\x3cdiv style\x3d\x22width:112px\x22\x3e\x3cdiv class\x3d\x22S7Jdze\x22 style\x3d\x22width:112px;height:112px\x22\x3e\x3cimg class\x3d\x22EYOsld\x22 alt\x3d\x22\x22 src\x3d\x22data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw\x3d\x3d\x22 style\x3d\x22max-width:112px;max-height:112px\x22 id\x3d\x22dimg_33\x22 data-deferred\x3d\x221\x22\x3e\x3c/div\x3e\x3cdiv class\x3d\x22RWuggc kCrYT\x22\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3eBitcoin Cash\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/a\x3e\x3cdiv class\x3d\x22mHhylf\x22\x3e\x3cdiv class\x3d\x22WZ5GJf\x22\x3e\x3ca class\x3d\x22qN9Ked\x22 href\x3d\x22/search?ie\x3dUTF-8\x26amp;q\x3dPeer-to-peer+cryptocurrency+list\x26amp;stick\x3dH4sIAAAAAAAAAOOQMVIoSE0tUijJh9DJRZUFJfnJpUVFqXnJlQo5mcUlUexJJckKpcUppxi59HP1DUwLDIqKKk4xcoM4hgYWSXlGFVCpCoNiy-zyU4y8-un6hoYp8eUlZcmm2TClhknJ6RYpvxgVAoA26Zbk6-KysYGFcRErQVW32CQZtKZWcV14uG2de9kLvyKNCMUifbYlS68J9wEAHyi8AdgAAAA\x26amp;sa\x3dX\x26amp;ved\x3d2ahUKEwi97oTvovHtAhXEG80KHZwXBF4QzO0BegQIDRAF\x22\x3e\x3cbutton class\x3d\x22DXk5Me Qi9Fd\x22 tabindex\x3d\x22-1\x22\x3e\x3cimg class\x3d\x22hWHuJ\x22 alt\x3d\x22\x22 src\x3d\x22data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw\x3d\x3d\x22 style\x3d\x22max-width:24px;max-height:24px\x22 id\x3d\x22dimg_35\x22 data-deferred\x3d\x221\x22\x3e\x3c/button\x3e\x3cdiv class\x3d\x22BNeawe ji5jpf tAd8D AP7Wnd\x22\x3eMore results\x3c/div\x3e\x3c/a\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22PDHNXc\x22\x3e\x3cdiv class\x3d\x22iU269d TeHtNe\x22\x3e\x3cspan class\x3d\x22kXUfPb Vp9uZ\x22\x3e\x3ca class\x3d\x22RtoYlb MHODM\x22 href\x3d\x22/search?ie\x3dUTF-8\x26amp;q\x3dPeer-to-peer+cryptocurrency+list\x26amp;sa\x3dX\x26amp;ved\x3d2ahUKEwi97oTvovHtAhXEG80KHZwXBF4Q4qYDegQIFBAG\x22\x3ePeer-to-peer cryptocurrency list\x3c/a\x3e\x3c/span\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e');})();(function(){document.getElementById('dimg_27').setAttribute('data-ll','//encrypted-tbn0.gstatic.com/images?q\x3dtbn:ANd9GcTPlRLEFsYE9SeJltPA1Db5EQhdgS_BZcza1QSy\x26s\x3d0');})();(function(){document.getElementById('dimg_29').setAttribute('data-ll','//encrypted-tbn0.gstatic.com/images?q\x3dtbn:ANd9GcR804mhwEOgKaNLlhmDX8NSD_wYBZE2A2_kqihL\x26s\x3d0');})();(function(){document.getElementById('dimg_31').setAttribute('data-ll','//encrypted-tbn0.gstatic.com/images?q\x3dtbn:ANd9GcSbacTFDvoURerex4W8IsfZ871lN0SbPNaxTy2c\x26s\x3d0');})();(function(){document.getElementById('dimg_33').setAttribute('data-ll','//encrypted-tbn0.gstatic.com/images?q\x3dtbn:ANd9GcTK4nDk67XHzTe1po1ZiPnORqU96txcJDDQ7auf_gf0QVVK8_Kbyolt\x26s\x3d0');})();(function(){document.getElementById('dimg_35').setAttribute('data-ll','data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYAgMAAACdGdVrAAAADFBMVEVMaXFChfRChfRChfT0tCPZAAAAA3RSTlMAgFJEkGxNAAAAL0lEQVR4AWPADxgdwBT3BTDF9AUiuhdC6WNK/v///y+UggrClSA07EWVglmEFwAA5eYSExeCwigAAAAASUVORK5CYII\x3d');})();(function(){(function(){var id='tsuid67';var lve=true;(function(){
+
+
+var e="undefined"!=typeof navigator&&!/Opera/.test(navigator.userAgent)&&/WebKit/.test(navigator.userAgent),f={A:1,INPUT:1,TEXTAREA:1,SELECT:1,BUTTON:1},g={A:13,BUTTON:0,CHECKBOX:32,COMBOBOX:13,FILE:0,GRIDCELL:13,LINK:13,LISTBOX:13,MENU:0,MENUBAR:0,MENUITEM:0,MENUITEMCHECKBOX:0,MENUITEMRADIO:0,OPTION:0,RADIO:32,RADIOGROUP:32,RESET:0,SUBMIT:0,SWITCH:32,TAB:0,TREE:13,TREEITEM:13},h={CHECKBOX:!0,FILE:!0,OPTION:!0,RADIO:!0},k={COLOR:!0,DATE:!0,DATETIME:!0,"DATETIME-LOCAL":!0,EMAIL:!0,MONTH:!0,NUMBER:!0,PASSWORD:!0,RANGE:!0,SEARCH:!0,TEL:!0,TEXT:!0,TEXTAREA:!0,TIME:!0,URL:!0,WEEK:!0};document.getElementById(id).onclick=function(){window.xp(this);lve&&window.logVe(this)};document.getElementById(id).onkeydown=function(d){var c=d.which||d.keyCode;e&&3==c&&(c=13);if(13!=c&&32!=c)c=!1;else{var a=d.target||d.srcElement;!a.getAttribute&&a.parentNode&&(a=a.parentNode);var b;if(!(b="keydown"!=d.type)){if(b="getAttribute"in a)b=!((a.getAttribute("type")||a.tagName).toUpperCase()in k);b=!(b&&!("BUTTON"==a.tagName.toUpperCase()||a.type&&"FILE"==a.type.toUpperCase())&&!a.isContentEditable)}(b=b||d.ctrlKey||d.shiftKey||d.altKey||d.metaKey||(a.getAttribute("type")||a.tagName).toUpperCase()in
+h&&32==c)||((b=a.tagName in f)||(b=a.getAttributeNode("tabindex"),b=null!=b&&b.specified),b=!(b&&!a.disabled));if(b)c=!1;else{b=(a.getAttribute("role")||a.type||a.tagName).toUpperCase();var l=!(b in g)&&13==c;a="INPUT"!=a.tagName.toUpperCase()||!!a.type;c=(0==g[b]%c||l)&&a}}c&&(d.preventDefault(),window.xp(this),lve&&window.logVe(this))};}).call(this);})();})();(function(){window.jsl.dh('accdef_70','\x3cdiv\x3e\x3cdiv class\x3d\x22hwc W5nzFf\x22\x3e\x3cdiv class\x3d\x22r2NYtc\x22\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22ZINbbc xpd O9g5cc uUPGi\x22\x3e\x3cdiv class\x3d\x22FybcKc\x22\x3e\x3cdiv\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22Xdlr0d\x22\x3e\x3cdiv class\x3d\x22idg8be\x22\x3e\x3ca class\x3d\x22BVG0Nb\x22 href\x3d\x22/search?ie\x3dUTF-8\x26amp;q\x3dCoinbase\x26amp;stick\x3dH4sIAAAAAAAAAOOQUeLSz9U3KC8yLswqNBIpyS9QSC6qLCjJV0jOzy1IzMtMLY5iTypJVigtTjnFyA1Sa2hgkZRnVHGKEUnnKUZOEMfcoqiy-BQjr366vqFhclZyZXq8UQlcW5pldpoBTDY9ryitKL6g7BejSAgWSxtYGBexcjjnZ-YlJRan3mKTZNCaWsWlomb-fvXuT8GKE6am3Ihds4J39X03AHsh6evDAAAA\x26amp;sa\x3dX\x26amp;ved\x3d2ahUKEwi97oTvovHtAhXEG80KHZwXBF4Qs9oBegQIEBAB\x22\x3e\x3cdiv\x3e\x3cdiv style\x3d\x22width:112px\x22\x3e\x3cdiv class\x3d\x22S7Jdze\x22 style\x3d\x22width:112px;height:112px\x22\x3e\x3cimg class\x3d\x22EYOsld\x22 alt\x3d\x22\x22 src\x3d\x22data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw\x3d\x3d\x22 style\x3d\x22max-width:112px;max-height:112px\x22 id\x3d\x22dimg_37\x22 data-deferred\x3d\x221\x22\x3e\x3c/div\x3e\x3cdiv class\x3d\x22RWuggc kCrYT\x22\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3eCoinbase\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/a\x3e\x3ca class\x3d\x22BVG0Nb\x22 href\x3d\x22/search?ie\x3dUTF-8\x26amp;q\x3dXRP\x26amp;stick\x3dH4sIAAAAAAAAAOOQUeLUz9U3MLcoqiw2EinJL1BILqosKMlXSM7PLUjMy0wtjmJPKklWKC1OOcXIDVJqaGCRlGdUcYqRC8QrLzIuzCo8xYgw5RQjr366vqFhclZyZXq8UQlcW5pldpoBTDY9ryitKL6g7BejSAgWSxtYGBexMkcEBdxik2TQmlrFpaJm_n717k_BihOmptyIXbOCd_V9NwATdBI_vQAAAA\x26amp;sa\x3dX\x26amp;ved\x3d2ahUKEwi97oTvovHtAhXEG80KHZwXBF4Qs9oBegQIEBAC\x22\x3e\x3cdiv\x3e\x3cdiv style\x3d\x22width:112px\x22\x3e\x3cdiv class\x3d\x22S7Jdze\x22 style\x3d\x22width:112px;height:112px\x22\x3e\x3cimg class\x3d\x22EYOsld\x22 alt\x3d\x22\x22 src\x3d\x22data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw\x3d\x3d\x22 style\x3d\x22max-width:112px;max-height:112px\x22 id\x3d\x22dimg_39\x22 data-deferred\x3d\x221\x22\x3e\x3c/div\x3e\x3cdiv class\x3d\x22RWuggc kCrYT\x22\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3eRipple\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/a\x3e\x3ca class\x3d\x22BVG0Nb\x22 href\x3d\x22/search?ie\x3dUTF-8\x26amp;q\x3dGemini+(company)\x26amp;stick\x3dH4sIAAAAAAAAAOOQUeLVT9c3NEzOSq5MjzcqMRIpyS9QSC6qLCjJV0jOzy1IzMtMLY5iTypJVigtTjnFyK2fq29gaGCRlGdUcYqRC8QrLzIuzCo8xcgJ4phbFFUWn2JENRWuLc0yO80AJpueV5RWFF9Q9otRJASLpQ0sjItYBdxTczPzMhU0IMKVmrfYJBm0plZxqaiZv1-9-1Ow4oSpKTdi16zgXX3fDQBUmQz7zgAAAA\x26amp;sa\x3dX\x26amp;ved\x3d2ahUKEwi97oTvovHtAhXEG80KHZwXBF4Qs9oBegQIEBAD\x22\x3e\x3cdiv\x3e\x3cdiv style\x3d\x22width:112px\x22\x3e\x3cdiv class\x3d\x22S7Jdze\x22 style\x3d\x22width:112px;height:112px\x22\x3e\x3cimg class\x3d\x22EYOsld\x22 alt\x3d\x22\x22 src\x3d\x22data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw\x3d\x3d\x22 style\x3d\x22max-width:112px;max-height:112px\x22 id\x3d\x22dimg_41\x22 data-deferred\x3d\x221\x22\x3e\x3c/div\x3e\x3cdiv class\x3d\x22RWuggc kCrYT\x22\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3eGemini\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/a\x3e\x3ca class\x3d\x22BVG0Nb\x22 href\x3d\x22/search?ie\x3dUTF-8\x26amp;q\x3dCircle+(company)\x26amp;stick\x3dH4sIAAAAAAAAAOOQUeLWz9U3MDRIs8xOMzASKckvUEguqiwoyVdIzs8tSMzLTC2OYk8qSVYoLU45xQhVbJGUZ1RxipELxCsvMi7MKjzFyAnimFsUVRafYuTVT9c3NEzOSq5MjzcqgWsD2wGTTc8rSiuKLyj7xSgSgsXSBhbGRawCzplFyTmpChoQ4UrNW2ySDFpTq7hU1Mzfr979KVhxwtSUG7FrVvCuvu8GACF_UM_MAAAA\x26amp;sa\x3dX\x26amp;ved\x3d2ahUKEwi97oTvovHtAhXEG80KHZwXBF4Qs9oBegQIEBAE\x22\x3e\x3cdiv\x3e\x3cdiv style\x3d\x22width:112px\x22\x3e\x3cdiv class\x3d\x22S7Jdze\x22 style\x3d\x22width:112px;height:112px\x22\x3e\x3cimg class\x3d\x22EYOsld\x22 alt\x3d\x22\x22 src\x3d\x22data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw\x3d\x3d\x22 style\x3d\x22max-width:112px;max-height:112px\x22 id\x3d\x22dimg_43\x22 data-deferred\x3d\x221\x22\x3e\x3c/div\x3e\x3cdiv class\x3d\x22RWuggc kCrYT\x22\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22BNeawe s3v9rd AP7Wnd\x22\x3eCircle\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/a\x3e\x3cdiv class\x3d\x22mHhylf\x22\x3e\x3cdiv class\x3d\x22WZ5GJf\x22\x3e\x3ca class\x3d\x22qN9Ked\x22 href\x3d\x22/search?ie\x3dUTF-8\x26amp;q\x3dTop+crypto+companies\x26amp;stick\x3dH4sIAAAAAAAAAOOQMRIpyS9QSC6qLCjJV0jOzy1IzMtMLY5iTypJVigtTjnFyK2fq29gaGCRlGdUcYqRC8QrLzIuzCo8xcgJ4phbFFUWn2Lk1U_XNzRMzkquTI83KoFrS7PMTjOAyabnFaUVxReU_WIUCcFiaQML4yJWrDK32CQZtKZWcamomb9fvftTsOKEqSk3Ytes4F193w0AurzgfsMAAAA\x26amp;sa\x3dX\x26amp;ved\x3d2ahUKEwi97oTvovHtAhXEG80KHZwXBF4QzO0BegQIEBAF\x22\x3e\x3cbutton class\x3d\x22DXk5Me Qi9Fd\x22 tabindex\x3d\x22-1\x22\x3e\x3cimg class\x3d\x22hWHuJ\x22 alt\x3d\x22\x22 src\x3d\x22data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw\x3d\x3d\x22 style\x3d\x22max-width:24px;max-height:24px\x22 id\x3d\x22dimg_48\x22 data-deferred\x3d\x221\x22\x3e\x3c/button\x3e\x3cdiv class\x3d\x22BNeawe ji5jpf tAd8D AP7Wnd\x22\x3eMore results\x3c/div\x3e\x3c/a\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3cdiv\x3e\x3cdiv class\x3d\x22PDHNXc\x22\x3e\x3cdiv class\x3d\x22iU269d TeHtNe\x22\x3e\x3cspan class\x3d\x22kXUfPb Vp9uZ\x22\x3e\x3ca class\x3d\x22RtoYlb MHODM\x22 href\x3d\x22/search?ie\x3dUTF-8\x26amp;q\x3dTop+crypto+companies\x26amp;sa\x3dX\x26amp;ved\x3d2ahUKEwi97oTvovHtAhXEG80KHZwXBF4Q4qYDegQIFBAJ\x22\x3eTop crypto companies\x3c/a\x3e\x3c/span\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e');})();(function(){document.getElementById('dimg_37').setAttribute('data-ll','//encrypted-tbn0.gstatic.com/images?q\x3dtbn:ANd9GcQ_jEJNnoRb8mLy92WoK3mXF-tEIwdnYQ1R2U2X\x26s\x3d0');})();(function(){document.getElementById('dimg_39').setAttribute('data-ll','//encrypted-tbn0.gstatic.com/images?q\x3dtbn:ANd9GcS42h11LpR6fX4rgslf7I0HxPo4M6uiPant_Ihy\x26s\x3d0');})();(function(){document.getElementById('dimg_41').setAttribute('data-ll','//encrypted-tbn0.gstatic.com/images?q\x3dtbn:ANd9GcQE0H5IfH5T_eICGYi4Wwu5dpzdDJC-t3hVbRT-9cM_v9qOQRv1Jcrf\x26s\x3d0');})();(function(){document.getElementById('dimg_43').setAttribute('data-ll','//encrypted-tbn0.gstatic.com/images?q\x3dtbn:ANd9GcQlFc-6vdJpaTskMjWvIKz4cXauGbejosEIMQwr\x26s\x3d0');})();(function(){document.getElementById('dimg_48').setAttribute('data-ll','data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYAgMAAACdGdVrAAAADFBMVEVMaXFChfRChfRChfT0tCPZAAAAA3RSTlMAgFJEkGxNAAAAL0lEQVR4AWPADxgdwBT3BTDF9AUiuhdC6WNK/v///y+UggrClSA07EWVglmEFwAA5eYSExeCwigAAAAASUVORK5CYII\x3d');})();google.drty&&google.drty();
+  </script>
+ </body>
+</html>
