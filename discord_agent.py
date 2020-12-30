@@ -1,4 +1,4 @@
-WEBHOOK = "" #insert your own channel's webhook
+WEBHOOK = "https://discord.com/api/webhooks/793726582060875786/elSlN6AF_qZNyR4rsfsooYjIjbZi7GCvpmHnBFB7y-QqivMxM5WCU6sBcc0kDHf91NSl" #insert your own channel's webhook
 import discord
 
 client = discord.Client()
@@ -9,5 +9,5 @@ async def on_ready():
 
 @client.event
 async def on_message(message):
-    if "!btc price":
+    if "!btc price usd":
         await message.channel.send()
