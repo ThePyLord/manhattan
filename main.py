@@ -1,5 +1,3 @@
-#main file for the project
-
 import requests
 import json
 from bs4 import BeautifulSoup
