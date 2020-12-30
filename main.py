@@ -10,4 +10,5 @@ site = requests.get(URL)
 
 soup = BeautifulSoup(site.content, 'html.parser')
 btc_value = soup.find(class_="BNeawe iBp4i AP7Wnd")
-btc_value_text = btc_value.text
+btc_value_text = btc_value.text + 's'
+print(btc_value_text)
