@@ -1,11 +1,11 @@
-WEBHOOK = "https://discord.com/api/webhooks/793726582060875786/elSlN6AF_qZNyR4rsfsooYjIjbZi7GCvpmHnBFB7y-QqivMxM5WCU6sBcc0kDHf91NSl" #insert your own channel's webhook
+WEBHOOK = "YOUR WEBHOOK HERE" #insert your own channel's webhook
 import discord, os
 
 from dotenv import load_dotenv
 import main
 
 load_dotenv()
-TOKEN = os.getenv('TOKEN')
+TOKEN = os.getenv('TOKEN')  # load the token
 GUILD_ID = os.getenv('DISCORD_GUILD')
 
 
@@ -26,10 +26,12 @@ async def on_ready():
 
 @client.event
 async def on_ready():
-    print("Hot n' ready")
+    print(f"Hot n' ready, My name is {client.user}")
 
 @client.event
 async def on_message(message):
-    if "!btc price usd":
-        await message.channel.send()
-        
+    if "!btc price usd" in message.content.lower():
+        await message.channel.send(main.btc_value_text)
+        await client.close()        
+
+client.run(TOKEN)
