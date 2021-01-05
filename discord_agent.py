@@ -11,24 +11,23 @@ GUILD_ID = os.getenv('DISCORD_GUILD')
 
 client = discord.Client()
 
-"""
 @client.event
 async def on_ready():
 	for guild in client.guilds:
-		if guild.name == GUILD:
+		if guild.name == GUILD_ID:
 			break
 
 	print(
 		f'{client.user} is connected to the following guild:\n'
 		f'{guild.name}(id: {guild.id})'
 	)
- """
 
-@client.event
+
+""" @client.event
 async def on_ready():
-	print(f"Hot n' ready, My name is {client.user}")
+	print(f"Hot n' ready, My name is {client.user}") """
 
-#Send a message to the intended recipient and guild 
+#Send a message to the intended recipient and guild x
 @client.event
 async def on_message(message):
 	id = client.get_guild(GUILD_ID)
