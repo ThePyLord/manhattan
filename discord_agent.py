@@ -42,9 +42,11 @@ async def on_message(message):
 		await message.channel.send(f"There's {id.member_count} users in this server")
 
 	elif "!bye" in message.content.lower():
+		# End the session
 		await client.close()
 
 	elif "!clear" in message.content.lower():
+		# Delete the previous message
 		pass
 
 
