@@ -33,10 +33,12 @@ async def on_ready():
 async def on_message(message):
 	id = client.get_guild(GUILD_ID)
 	if "!btc price usd" in message.content.lower():
-		await message.channel.send(main.btc_value_text)
+		# send the value of bitcoin in USD via a Google Search
+		await message.channel.send(main.btc_value_text) 
 		# await client.close()       
 
 	elif "!users" in message.content.lower():
+		# Find the number of users in the server
 		await message.channel.send(f"There's {id.member_count} users in this server")
 
 	elif "!bye" in message.content.lower():
