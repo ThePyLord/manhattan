@@ -54,12 +54,12 @@ async def on_message(message):
 		# Delete the previous message
 		pass
 	elif "$manhattan help" in message.content.lower():
-		help_message = "manhattan help\n"
-		"usage: $manhattan <ticker> <entry> <target(optional)>\n"
-		"MUST HAVE TICKER SYMBOL AND ENTRY!!!\n\n"
-		"no target -> $manhattan btc 2000\n"
-		"notifications -> $manhattan btc notif !0.2, 0.4, 0.5, 0.6\n"
-		"price -> $manhattan <ticker>"
+		help_message = """manhattan help\n
+		usage: $manhattan <ticker> <entry> <target(optional)>\n
+		MUST HAVE TICKER SYMBOL AND ENTRY!!!\n\n
+		no target -> $manhattan btc 2000\n
+		notifications -> $manhattan btc notif !0.2, 0.4, 0.5, 0.6\n
+		price -> $manhattan <ticker>"""
 		
 		await message.channel.send(help_message)
 
