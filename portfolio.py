@@ -31,7 +31,7 @@ class Portfolio:
 		# Use the official ticker symbol
 		self.portfolio["tick_name"] = str(tick_name).upper()
 		self.portfolio["entry"] = float(entry)
-		self.portfolio["target"] = float(round(kwargs["target"], 2))
+		self.portfolio["target"] = kwargs.get("target")
 
 
 	def export_data(self):
@@ -41,5 +41,13 @@ class Portfolio:
 		}
 		return self.profile
 
+	
+
 #test portfolio
 drews_pft = Portfolio()
+# drews_pft.update_portfolio('btc', 1500, target=10000)
+
+# drews_profile = drews_pft.export_data()
+
+# with open('database.json', 'a') as f:
+	# json.dump(drews_profile, f, indent=4)
