@@ -1,4 +1,5 @@
 
-Todo:
-  ☐ Item
+Todo(MANHATTAN):
+  ☐ Add portfolio tracker(include entry point, exit(target), and levels to notify users)
+  ☐ Create new command convention system(idea($manhattan))
   
