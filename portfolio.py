@@ -31,6 +31,6 @@ class Portfolio:
 		self.portfolio["entry"] = entry
 		self.portfolio["target"] = kwargs["target"]
 
-
+#test portfolio
 drews_pft = Portfolio()
 

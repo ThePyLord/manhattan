@@ -1,5 +1,6 @@
 
 Todo(MANHATTAN):
   ☐ Add portfolio tracker(include entry point, exit(target), and levels to notify users)
+  @high @est(3 hours)
   ☐ Create new command convention system(idea($manhattan))
   
