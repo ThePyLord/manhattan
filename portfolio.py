@@ -14,28 +14,32 @@ class Portfolio:
 	"""
 	Create a portfolio for a user 
 	"""
-	def __init__(self):
+	def __init__(self):	
 		self.portfolio = {}
 		self.notifs = [0.2]
-		self.notifs.sort()
 		
 
 	#Set percentage changes where the user would be notified at
 	def set_notif(self, *args):
 		for arg in list(args):
 			self.notifs.append(arg)
+		self.notifs.sort()
 
 
 	#Another way to implement an update is to use member variables
 	def update_portfolio(self, tick_name, entry, **kwargs):
 		# Use the official ticker symbol
-		self.portfolio["tick_name"] = 
-		(tick_name).upper()
+		self.portfolio["tick_name"] = str(tick_name).upper()
 		self.portfolio["entry"] = float(entry)
-		self.portfolio["target"] = round(kwargs["target"], 2)
+		self.portfolio["target"] = float(round(kwargs["target"], 2))
+
 
 	def export_data(self):
-		pass
+		self.profile = {
+			"portfolio": self.portfolio,
+			"notifs": self.notifs
+		}
+		return self.profile
 
 #test portfolio
 drews_pft = Portfolio()
