@@ -16,21 +16,26 @@ class Portfolio:
 	"""
 	def __init__(self):
 		self.portfolio = {}
-		self.pft_data = json.loads(self.portfolio)
+		self.notifs = [0.2]
+		self.notifs.sort()
+		
 
-	#Set the percentage change which the user should be notified of
-	def set_notif(self, notif):
-		self.trgs = []
-		self.trgs.append(notif)
-		return self.trgs
+	#Set percentage changes where the user would be notified at
+	def set_notif(self, *args):
+		for arg in list(args):
+			self.notifs.append(arg)
+
 
 	#Another way to implement an update is to use member variables
 	def update_portfolio(self, tick_name, entry, **kwargs):
 		# Use the official ticker symbol
-		self.portfolio["tick_name"] = str(tick_name).upper()
-		self.portfolio["entry"] = entry
-		self.portfolio["target"] = kwargs["target"]
+		self.portfolio["tick_name"] = 
+		(tick_name).upper()
+		self.portfolio["entry"] = float(entry)
+		self.portfolio["target"] = round(kwargs["target"], 2)
+
+	def export_data(self):
+		pass
 
 #test portfolio
 drews_pft = Portfolio()
-
