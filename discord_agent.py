@@ -1,4 +1,5 @@
 WEBHOOK = "YOUR WEBHOOK HERE" #insert your own channel's webhook
+
 import discord, os
 
 from dotenv import load_dotenv
@@ -38,7 +39,7 @@ async def on_message(message):
 
 	elif "!users" in message.content.lower():
 		# Find the number of users in the server
-		await message.channel.send(f"There's {id.member_count} users in this server")
+		await message.channel.send(f'There\'s {id.member_count} users in this server')
 
 	elif "!bye" in message.content.lower():
 		# End the session
