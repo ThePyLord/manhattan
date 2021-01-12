@@ -17,7 +17,9 @@ class Portfolio:
 	def __init__(self):	
 		self.portfolio = {}
 		self.notifs = [0.2]
-		
+
+	def __str__(self):
+		return """ """
 
 	#Set percentage changes where the user would be notified at
 	def set_notif(self, *args):
@@ -46,8 +48,3 @@ class Portfolio:
 #test portfolio
 drews_pft = Portfolio()
 # drews_pft.update_portfolio('btc', 1500, target=10000)
-
-# drews_profile = drews_pft.export_data()
-
-# with open('database.json', 'a') as f:
-	# json.dump(drews_profile, f, indent=4)
