@@ -12,8 +12,13 @@ finally:
 
 class Portfolio:
 	"""
-	Create a portfolio for a user 
+	Create a portfolio for a user
+
+	Attributes:
+	-----------
+	portfolio: 
 	"""
+
 	def __init__(self):	
 		self.portfolio = {}
 		self.notifs = [0.2]
@@ -21,6 +26,7 @@ class Portfolio:
 
 	#Set percentage changes where the user would be notified at
 	def set_notif(self, *args):
+		""" """
 		for arg in list(args):
 			self.notifs.append(arg)
 		self.notifs.sort()
@@ -45,9 +51,3 @@ class Portfolio:
 
 #test portfolio
 drews_pft = Portfolio()
-# drews_pft.update_portfolio('btc', 1500, target=10000)
-
-# drews_profile = drews_pft.export_data()
-
-# with open('database.json', 'a') as f:
-	# json.dump(drews_profile, f, indent=4)
