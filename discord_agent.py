@@ -54,7 +54,8 @@ async def on_message(message):
 		# Delete the previous message
 		pass
 	elif "$manhattan help" in message.content.lower():
-		help_message = """manhattan help\n
+		help_message = """
+		manhattan help\n
 		usage: $manhattan <ticker> <entry> <target(optional)>\n
 		MUST HAVE TICKER SYMBOL AND ENTRY!!!\n\n
 		no target -> $manhattan btc 2000\n

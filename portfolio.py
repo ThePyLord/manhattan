@@ -47,4 +47,7 @@ class Portfolio:
 
 #test portfolio
 drews_pft = Portfolio()
+<<<<<<< Updated upstream
 # drews_pft.update_portfolio('btc', 1500, target=10000)
+=======
+>>>>>>> Stashed changes
