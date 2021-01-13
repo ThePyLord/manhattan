@@ -10,4 +10,4 @@ Requirements
 Written by [Danquilius the GOAT 🐐](https://github.com/Danquilius)
 
 
-![Milly Rock](https://tenor.com/view/milly-rock-high-takeoff-lit-djtakeoff-gif-12723661)
+![Milly Rock](https://media.giphy.com/media/cjPlycfrfDbmWvUSuQ/giphy.gif)
