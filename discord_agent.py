@@ -8,12 +8,11 @@ from discord.ext import commands
 from dotenv import load_dotenv
 
 
-import search
+from tesco import search
 
 load_dotenv()
 TOKEN = os.getenv('TOKEN')  # load the token
 GUILD_ID = os.getenv('DISCORD_GUILD')
-
 
 
 
@@ -67,18 +66,16 @@ async def on_message(message):
 		# await message.channel.send(help_message)
 
 
-@client.group(name='manhattan', invoke_without_command=True)
-async def manhattan(ctx):
-	await ctx.channel.send("Yo! I'm the big dog here")
 
 @client.command()
 async def help_docs():
 	embed = discord.Embed(
-		title = 'Title',
+		title = 'Title', 
 		description = 'Help for the Manhattan bot',
-		colour = discord.Colour.blue()
+			colour = discord.Colour.blue()
 	)
-	img = "https://cdn.discordapp.com/attachments/792847780719886356/798393652195754004/Bitcoin-Emblem.png"
+	#The link for the image to be used in the embed(shortened for readability)
+	img = "https://bit.ly/3slHEvS"
 
 	embed.set_footer(text='Manhattan Bot')
 	embed.set_image(url=img)
