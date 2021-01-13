@@ -8,4 +8,7 @@ Requirements
 -   The discord.py library v1.4.1
 
 Written by [Danquilius the GOAT 🐐](https://github.com/Danquilius)
+
+
+
 ![Milly Rock](https://media.giphy.com/media/cjPlycfrfDbmWvUSuQ/giphy.gif)
