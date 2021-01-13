@@ -8,3 +8,4 @@ Requirements
 -   The discord.py library v1.4.1
 
 Written by [Danquilius the GOAT 🐐](https://github.com/Danquilius)
+[https://tenor.com/view/milly-rock-high-takeoff-lit-djtakeoff-gif-12723661]
