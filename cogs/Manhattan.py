@@ -44,7 +44,7 @@ class Manhattan(commands.Cog):
 		await ctx.channel.send(search.btc_value_text)
 
 	@manhattan.command(name='pft')
-	async def pft(self, ctx, ticker, entry):
+	async def pft(self, ctx, ticker, entry_price, target_price):
 		"""
 		Shows the portfolio only
 
@@ -57,7 +57,9 @@ class Manhattan(commands.Cog):
 			The entry price of the asset specified
 		"""
 		self.pft = Portfolio()
-		self.pft.update_portfolio()
+		self.pft.update_portfolio(ticker, entry_price, target=target_price)
+
+		await ctx.channel.send(self.pft.export_data())
 
 
 
