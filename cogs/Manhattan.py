@@ -44,20 +44,22 @@ class Manhattan(commands.Cog):
 		await ctx.channel.send(search.btc_value_text)
 
 	@manhattan.command(name='pft')
-	async def pft(self, ctx, ticker, entry):
+	async def pft(self, ctx, ticker: str, entry: int, *, arg):
 		"""
 		Shows the portfolio only
 
 		Parameters
 		----------
-		ticker:
+		ticker: str
 			The ticker symbol
 		
-		entry:
+		entry: int
 			The entry price of the asset specified
 		"""
 		self.pft = Portfolio()
-		self.pft.update_portfolio()
+		self.pft.update_portfolio(ticker, entry, target=arg)
+		print(self.pft.portfolio)
+		await ctx.send(self.pft.portfolio)
 
 
 

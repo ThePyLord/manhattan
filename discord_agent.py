@@ -7,7 +7,6 @@ import discord
 from discord.ext import commands
 from dotenv import load_dotenv
 
-
 from tesco import search
 
 load_dotenv()
@@ -21,49 +20,18 @@ client = commands.Bot(command_prefix='$')
 
 @client.command()
 async def load(ctx, extension):
-	client.load_extension(f'cogs.{extension}')
+	client.load_extension(f"cogs.{extension}")
 
 @client.command()
 async def unload(ctx, extension):
-	client.unload_extension(f'cogs.{extension}')
+	client.unload_extension(f"cogs.{extension}")
 
-for filename in os.listdir('./cogs'):
-	if filename.endswith('.py'):
-		client.load_extension(f'cogs.{filename[:-3]}')
+for filename in os.listdir("./cogs"):
+	if filename.endswith(".py"):
+		print(filename)
+		client.load_extension(f"cogs.{filename[:-3]}")
 
 
-#Send a message to the intended recipient and guild x
-@client.event
-async def on_message(message):
-	id = client.get_guild(GUILD_ID)
-	if "!btc price usd" in message.content.lower():
-		# send the value of bitcoin in USD via a Google Search
-		await message.channel.send(search.btc_value_text) 
-		# await client.close()       
-
-	elif "!users" in message.content.lower():
-		# Find the number of users in the server
-		await message.channel.send(f'There\'s {id.member_count} users in this server')
-
-	elif "!bye" in message.content.lower():
-		# End the session
-		await client.close()
-
-	elif "!clear" in message.content.lower():
-		# Delete the previous message
-		pass
-		"""elif "$manhattan help" in message.content.lower():
-		help_message = """"""
-		```
-		Usage: $manhattan <ticker> <entry> <target(optional)>
-		MUST HAVE TICKER SYMBOL AND ENTRY!!!
-		No target -> $manhattan btc 2000
-		Notifications -> $manhattan btc notif !0.2, 0.4, 0.5, 0.6
-		Price -> $manhattan <ticker>```
-		"""
-		"""" """
-		
-		# await message.channel.send(help_message)
 
 
 

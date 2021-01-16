@@ -8,7 +8,15 @@ GUILD_ID = os.getenv('DISCORD_GUILD')
 
 
 class Commands(commands.Cog):
+	"""
+
+
+	"""
+
 	def __init__(self, client):
+		"""
+
+		"""
 		self.client = client
 
 	@commands.Cog.listener()
@@ -18,10 +26,13 @@ class Commands(commands.Cog):
 				break
 
 		print(
-			f'{self.client.user} is connected to the following guild:\n'
+			f'{self.client.user} is connected to the following guild:\t'
 			f'{guild.name}(id: {guild.id})'
 		)
 
+	@commands.command()
+	async def ping(self, ctx):
+		await ctx.send(f"Pong {self.client.latency}")
 
 def setup(client):
 	client.add_cog(Commands(client))

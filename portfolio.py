@@ -22,6 +22,7 @@ class Portfolio:
 	def __init__(self):	
 		self.portfolio = {}
 		self.notifs = [0.2]
+		print("Portfolio has been registered")
 		
 
 	#Set percentage changes where the user would be notified at
