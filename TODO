@@ -1,0 +1,9 @@
+
+Todo(MANHATTAN):
+  ☐ Add portfolio tracker(include entry point, exit(target), and levels to notify users)
+  @high @est(3 hours)
+  ✔ Create a cog for the new convention @critical @started(21-01-12 01:20) @finished @done(21-01-12 19:16) @lasted(17h56m58s)
+  ☐ Change the embed colour to one that relates to the bot @est 
+Archive:
+  ✔ Create new command convention system(idea($manhattan)) @done(21-01-12 01:17) @project(Todo(MANHATTAN))
+  ✔ Fix the import issue @done(21-01-12 12:42) @project(Todo(MANHATTAN))
