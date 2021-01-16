@@ -12,17 +12,28 @@ finally:
 
 class Portfolio:
 	"""
-	Create a portfolio for a user 
+	Create a portfolio for a user
+
+	Attributes:
+	-----------
+	portfolio: 
 	"""
+
 	def __init__(self):	
 		self.portfolio = {}
 		self.notifs = [0.2]
+<<<<<<< HEAD
 
 	def __str__(self):
 		return """ """
+=======
+		print("Portfolio has been registered")
+		
+>>>>>>> 4d8e4dbf0858479c2d7a61984c83aad05e3323b4
 
 	#Set percentage changes where the user would be notified at
 	def set_notif(self, *args):
+		""" """
 		for arg in list(args):
 			self.notifs.append(arg)
 		self.notifs.sort()
@@ -47,7 +58,10 @@ class Portfolio:
 
 #test portfolio
 drews_pft = Portfolio()
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 # drews_pft.update_portfolio('btc', 1500, target=10000)
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> 4d8e4dbf0858479c2d7a61984c83aad05e3323b4
