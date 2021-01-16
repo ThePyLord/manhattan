@@ -1,4 +1,5 @@
-# manhattan
+# manhattan v1.0 is done!!!!!!!!!
+Some stuff may be crude, but it's here!!
 A Discord Bot that tracks the price of Bitcoin. Other cryptos may be added in the future.
 
 Requirements
