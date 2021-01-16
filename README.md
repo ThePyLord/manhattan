@@ -1,4 +1,5 @@
-# manhattan
+# manhattan v1.0 is done!!!!!!!!!
+Some stuff may be crude, but it's here!!
 A Discord Bot that tracks the price of Bitcoin. Other cryptos may be added in the future.
 
 Requirements
@@ -8,4 +9,4 @@ Requirements
 -   The discord.py library v1.4.1
 
 Written by [Danquilius the GOAT 🐐](https://github.com/Danquilius)
-![https://media.giphy.com/media/cjPlycfrfDbmWvUSuQ/giphy.gif]
+![LINGARD PFA][https://media.giphy.com/media/cjPlycfrfDbmWvUSuQ/giphy.gif]

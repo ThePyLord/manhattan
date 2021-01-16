@@ -43,6 +43,7 @@ class Manhattan(commands.Cog):
 	async def price(self, ctx, arg):
 		await ctx.channel.send(search.btc_value_text)
 
+
 	@manhattan.command(name='pft')
 	async def pft(self, ctx, ticker: str, entry: int, *, arg):
 		"""
@@ -55,6 +56,8 @@ class Manhattan(commands.Cog):
 		
 		entry: int
 			The entry price of the asset specified
+
+			You have BTC in your portfolio with an entry of {entry} and a target of {target}
 		"""
 		self.pft = Portfolio()
 		self.pft.update_portfolio(ticker, entry, target=arg)

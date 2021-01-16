@@ -101,4 +101,8 @@ client.run(TOKEN)
 =======
 if __name__ == '__main__':
 	client.run(TOKEN)
+<<<<<<< HEAD
 >>>>>>> Il-grande-Finale
+=======
+>>>>>>> 4d8e4dbf0858479c2d7a61984c83aad05e3323b4
+>>>>>>> 7e30075100da61a06f63a6f7c318285d934c2bb0

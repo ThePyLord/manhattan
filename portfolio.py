@@ -29,7 +29,11 @@ class Portfolio:
 =======
 		print("Portfolio has been registered")
 		
+<<<<<<< HEAD
 >>>>>>> Il-grande-Finale
+=======
+>>>>>>> 4d8e4dbf0858479c2d7a61984c83aad05e3323b4
+>>>>>>> 7e30075100da61a06f63a6f7c318285d934c2bb0
 
 	#Set percentage changes where the user would be notified at
 	def set_notif(self, *args):
@@ -64,4 +68,8 @@ drews_pft = Portfolio()
 =======
 >>>>>>> Stashed changes
 =======
+<<<<<<< HEAD
 >>>>>>> Il-grande-Finale
+=======
+>>>>>>> 4d8e4dbf0858479c2d7a61984c83aad05e3323b4
+>>>>>>> 7e30075100da61a06f63a6f7c318285d934c2bb0
