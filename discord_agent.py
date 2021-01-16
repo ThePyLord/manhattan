@@ -14,9 +14,7 @@ TOKEN = os.getenv('TOKEN')  # load the token
 GUILD_ID = os.getenv('DISCORD_GUILD')
 
 
-
 client = commands.Bot(command_prefix='$')
-
 
 @client.command()
 async def load(ctx, extension):
@@ -30,8 +28,6 @@ for filename in os.listdir("./cogs"):
 	if filename.endswith(".py"):
 		print(filename)
 		client.load_extension(f"cogs.{filename[:-3]}")
-
-
 
 
 
@@ -60,10 +56,7 @@ async def help_docs():
 
 
 
-
-
 client.run(TOKEN)
-=======
 if __name__ == '__main__':
 	client.run(TOKEN)
 

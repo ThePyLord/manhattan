@@ -22,18 +22,12 @@ class Portfolio:
 	def __init__(self):	
 		self.portfolio = {}
 		self.notifs = [0.2]
-<<<<<<< HEAD
 
 	def __str__(self):
 		return """ """
-=======
+
 		print("Portfolio has been registered")
 		
-<<<<<<< HEAD
->>>>>>> Il-grande-Finale
-=======
->>>>>>> 4d8e4dbf0858479c2d7a61984c83aad05e3323b4
->>>>>>> 7e30075100da61a06f63a6f7c318285d934c2bb0
 
 	#Set percentage changes where the user would be notified at
 	def set_notif(self, *args):
@@ -62,14 +56,3 @@ class Portfolio:
 
 #test portfolio
 drews_pft = Portfolio()
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-# drews_pft.update_portfolio('btc', 1500, target=10000)
-=======
->>>>>>> Stashed changes
-=======
-<<<<<<< HEAD
->>>>>>> Il-grande-Finale
-=======
->>>>>>> 4d8e4dbf0858479c2d7a61984c83aad05e3323b4
->>>>>>> 7e30075100da61a06f63a6f7c318285d934c2bb0
