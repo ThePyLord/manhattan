@@ -60,49 +60,10 @@ async def help_docs():
 
 
 
-<<<<<<< HEAD
-""" @client.event
-async def on_ready():
-	print(f"Hot n' ready, My name is {client.user}") """
-
-#Send a message to the intended recipient and guild x
-@client.event
-async def on_message(message):
-	id = client.get_guild(GUILD_ID)
-	if "!btc price usd" in message.content.lower():
-		# send the value of bitcoin in USD via a Google Search
-		await message.channel.send(main.btc_value_text) 
-		# await client.close()       
-
-	elif "!users" in message.content.lower():
-		# Find the number of users in the server
-		await message.channel.send(f'There\'s {id.member_count} users in this server')
-
-	elif "!bye" in message.content.lower():
-		# End the session
-		await client.close()
-
-	elif "!clear" in message.content.lower():
-		# Delete the previous message
-		pass
-	elif "$manhattan help" in message.content.lower():
-		help_message = """
-		manhattan help\n
-		usage: $manhattan <ticker> <entry> <target(optional)>\n
-		MUST HAVE TICKER SYMBOL AND ENTRY!!!\n\n
-		no target -> $manhattan btc 2000\n
-		notifications -> $manhattan btc notif !0.2, 0.4, 0.5, 0.6\n
-		price -> $manhattan <ticker>"""
-		
-		await message.channel.send(help_message)
 
 
 client.run(TOKEN)
 =======
 if __name__ == '__main__':
 	client.run(TOKEN)
-<<<<<<< HEAD
->>>>>>> Il-grande-Finale
-=======
->>>>>>> 4d8e4dbf0858479c2d7a61984c83aad05e3323b4
->>>>>>> 7e30075100da61a06f63a6f7c318285d934c2bb0
+
