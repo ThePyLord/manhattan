@@ -3,8 +3,6 @@ Some stuff may be crude, but it's here!!
 A Discord Bot that tracks the price of Bitcoin. Other cryptos may be added in the future.
 
 Here are some screenshots of the bot in use
-
-![Test Embed](){:height="50%" width="50%"}
 <img src="./assets/Successful_Embed_test.png" height=250 width=250>
 
 Requirements
