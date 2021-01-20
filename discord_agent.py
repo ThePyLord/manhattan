@@ -12,7 +12,7 @@ from tesco import search
 load_dotenv()
 TOKEN = os.getenv('TOKEN')  # load the token
 GUILD_ID = os.getenv('DISCORD_GUILD')
-
+EMBED_COLOUR = 0xff9416
 
 client = commands.Bot(command_prefix='$')
 
@@ -26,17 +26,16 @@ async def unload(ctx, extension):
 
 for filename in os.listdir("./cogs"):
 	if filename.endswith(".py"):
-		print(filename)
 		client.load_extension(f"cogs.{filename[:-3]}")
 
 
 
 @client.command()
-async def help_docs():
+async def help_docs(ctx):
 	embed = discord.Embed(
 		title = 'Title', 
 		description = 'Help for the Manhattan bot',
-			colour = discord.Colour.blue()
+		colour = discord.Colour(0xff9416)
 	)
 	#The link for the image to be used in the embed(shortened for readability)
 	img = "https://bit.ly/3slHEvS"
@@ -52,11 +51,10 @@ async def help_docs():
 	embed.add_field(name='Field Name', value='Field Value2', inline=False)
 	embed.add_field(name='Field Name', value='Field Value3', inline=False)
 
-	await client.send(embed=embed)
+	await ctx.send(embed=embed)
 
 
 
 client.run(TOKEN)
 if __name__ == '__main__':
 	client.run(TOKEN)
-

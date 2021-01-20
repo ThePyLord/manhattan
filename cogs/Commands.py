@@ -30,9 +30,7 @@ class Commands(commands.Cog):
 			f'{guild.name}(id: {guild.id})'
 		)
 
-	@commands.command()
-	async def ping(self, ctx):
-		await ctx.send(f"Pong {self.client.latency}")
+	
 
 def setup(client):
 	client.add_cog(Commands(client))

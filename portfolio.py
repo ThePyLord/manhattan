@@ -26,7 +26,7 @@ class Portfolio:
 	def __str__(self):
 		return """ """
 
-		print("Portfolio has been registered")
+		# print("Portfolio has been registered")
 		
 
 	#Set percentage changes where the user would be notified at
@@ -38,11 +38,11 @@ class Portfolio:
 
 
 	#Another way to implement an update is to use member variables
-	def update_portfolio(self, tick_name, entry, **kwargs):
+	def update_portfolio(self, tick_name: str, entry: float, **kwargs):
 		# Use the official ticker symbol
-		self.portfolio["tick_name"] = str(tick_name).upper()
-		self.portfolio["entry"] = float(entry)
-		self.portfolio["target"] = kwargs.get("target")
+		self.portfolio["tick_name"] = tick_name.upper()
+		self.portfolio["entry"] = entry
+		self.portfolio["target"] = float(kwargs.get("target"))
 
 
 	def export_data(self):
@@ -52,7 +52,4 @@ class Portfolio:
 		}
 		return self.profile
 
-	
 
-#test portfolio
-drews_pft = Portfolio()
