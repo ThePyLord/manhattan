@@ -1,8 +1,17 @@
 {
-	"Danquillius #9702": {
+	"Joshua Oye#9760": {
+		"portfolio":{
+			"entry": 200,
+			"target": 1500
+		}
+	},
+	"USER": {
 		"portfolio": {
-			"entry":2000,
-			"target": 50000
+			"tickers": {
+				"tick_name": "BTC",
+				"entry":2000,
+				"target": 50000
+			}
 		},		
 		"notifs": [0.1, 0.05]
 	},
@@ -11,5 +20,8 @@
 			"entry": 25000,
 			"target": 50000
 		}
+	},
+	"Uncle Drew #0475": {
+		
 	}
 }

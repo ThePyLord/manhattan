@@ -26,8 +26,9 @@ class Commands(commands.Cog):
 				break
 
 		print(
-			f'{self.client.user} is connected to the following guild:\t'
+			f'{self.client.user.name} is connected to the following guild:\t'
 			f'{guild.name}(id: {guild.id})'
+			"\nListening for commands..."
 		)
 
 	

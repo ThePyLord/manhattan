@@ -1,10 +1,10 @@
-#TODO: clean up the whole program, load and unload the cog
+#todo: clean up the whole program, load and unload the cog
 
 WEBHOOK = "YOUR WEBHOOK HERE" #insert your own channel's webhook
 import os
 
 import discord
-from discord.ext import commands
+from discord.ext import flags, commands
 from dotenv import load_dotenv
 
 from tesco import search
@@ -19,6 +19,7 @@ client = commands.Bot(command_prefix='$')
 @client.command()
 async def load(ctx, extension):
 	client.load_extension(f"cogs.{extension}")
+	print("Cogs loaded")
 
 @client.command()
 async def unload(ctx, extension):
@@ -47,12 +48,22 @@ async def help_docs(ctx):
 		name='ThePyLord x Danquilius', 
 		icon_url=img
 	)
-	embed.add_field(name='Field Name', value='Field Value1', inline=False)
-	embed.add_field(name='Field Name', value='Field Value2', inline=False)
-	embed.add_field(name='Field Name', value='Field Value3', inline=False)
+	embed.add_field(name='Field Name', value='Field Value1', inline=True)
+	embed.add_field(name='Field Name', value='Field Value2', inline=True)
+	embed.add_field(name='Field Name', value='Field Value3', inline=True)
 
 	await ctx.send(embed=embed)
 
+
+@flags.add_flag("--count", type=int, default=10)
+@flags.add_flag("--string", default="hello!")
+@flags.add_flag("--user", type=discord.User)
+@flags.add_flag("--thing", type=bool)
+@flags.command()
+async def flags(ctx, **flags):
+    await ctx.send("--count={count!r}, --string={string!r}, --user={user!r}, --thing={thing!r}".format(**flags))
+
+client.add_command(flags)
 
 
 client.run(TOKEN)

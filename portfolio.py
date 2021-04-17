@@ -41,8 +41,11 @@ class Portfolio:
 	def update_portfolio(self, tick_name: str, entry: float, **kwargs):
 		# Use the official ticker symbol
 		self.portfolio["tick_name"] = tick_name.upper()
-		self.portfolio["entry"] = entry
+		self.portfolio["entry"] = float(entry)
 		self.portfolio["target"] = float(kwargs.get("target"))
+
+		for i in self.portfolio:
+			print(i)
 
 
 	def export_data(self):
@@ -52,4 +55,8 @@ class Portfolio:
 		}
 		return self.profile
 
+
+	def write_to(self):
+		# self.profile
+		pass
 
