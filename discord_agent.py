@@ -4,15 +4,16 @@ WEBHOOK = "YOUR WEBHOOK HERE" #insert your own channel's webhook
 import os
 
 import discord
-from discord.ext import flags, commands
+from discord.ext import commands
 from dotenv import load_dotenv
 
-from tesco import search
+# from module import search
 
 load_dotenv()
 TOKEN = os.getenv('TOKEN')  # load the token
 GUILD_ID = os.getenv('DISCORD_GUILD')
 EMBED_COLOUR = 0xff9416
+
 
 client = commands.Bot(command_prefix='$')
 
@@ -53,17 +54,6 @@ async def help_docs(ctx):
 	embed.add_field(name='Field Name', value='Field Value3', inline=True)
 
 	await ctx.send(embed=embed)
-
-
-@flags.add_flag("--count", type=int, default=10)
-@flags.add_flag("--string", default="hello!")
-@flags.add_flag("--user", type=discord.User)
-@flags.add_flag("--thing", type=bool)
-@flags.command()
-async def flags(ctx, **flags):
-    await ctx.send("--count={count!r}, --string={string!r}, --user={user!r}, --thing={thing!r}".format(**flags))
-
-client.add_command(flags)
 
 
 client.run(TOKEN)

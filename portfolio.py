@@ -18,13 +18,15 @@ class Portfolio:
 	-----------
 	portfolio: 
 	"""
+	_instances = 0
 
 	def __init__(self):	
+		Portfolio._instances += 1
 		self.portfolio = {}
 		self.notifs = [0.2]
 
 	def __str__(self):
-		return """ """
+		return """ The users's portfolio """
 
 		# print("Portfolio has been registered")
 		
