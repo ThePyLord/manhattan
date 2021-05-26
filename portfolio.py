@@ -1,4 +1,5 @@
 #TODO: Create a portfolio tracker that the bot can use
+#TODO: Add a quantity of the asset purchased
 import json
 
 """ try:
@@ -14,7 +15,7 @@ class Portfolio:
 	"""
 	Create a portfolio for a user
 
-	Attributes:
+	Attributes:	
 	-----------
 	portfolio: 
 	"""
@@ -46,16 +47,15 @@ class Portfolio:
 		self.portfolio["entry"] = float(entry)
 		self.portfolio["target"] = float(kwargs.get("target"))
 
-		for i in self.portfolio:
-			print(i)
+		return "Portfolio has been updated"
 
 
-	def export_data(self):
-		self.profile = {
+	def to_json(self, user):
+		return { f'{user}': {
 			"portfolio": self.portfolio,
 			"notifs": self.notifs
+			}
 		}
-		return self.profile
 
 
 	def write_to(self):
