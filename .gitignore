@@ -2,4 +2,4 @@
 .vscode/
 api/node_module
 .gitattributes
-*.code-workspace
+.code-workspace
