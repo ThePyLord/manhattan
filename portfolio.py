@@ -1,4 +1,5 @@
 #TODO: Create a portfolio tracker that the bot can use
+#TODO: Add a quantity of the asset purchased
 import json
 
 """ try:
@@ -14,17 +15,19 @@ class Portfolio:
 	"""
 	Create a portfolio for a user
 
-	Attributes:
+	Attributes:	
 	-----------
 	portfolio: 
 	"""
+	_instances = 0
 
 	def __init__(self):	
+		Portfolio._instances += 1
 		self.portfolio = {}
 		self.notifs = [0.2]
 
 	def __str__(self):
-		return """ """
+		return """ The users's portfolio """
 
 		# print("Portfolio has been registered")
 		
@@ -41,15 +44,21 @@ class Portfolio:
 	def update_portfolio(self, tick_name: str, entry: float, **kwargs):
 		# Use the official ticker symbol
 		self.portfolio["tick_name"] = tick_name.upper()
-		self.portfolio["entry"] = entry
+		self.portfolio["entry"] = float(entry)
 		self.portfolio["target"] = float(kwargs.get("target"))
 
+		return "Portfolio has been updated"
 
-	def export_data(self):
-		self.profile = {
+
+	def to_json(self, user):
+		return { f'{user}': {
 			"portfolio": self.portfolio,
 			"notifs": self.notifs
+			}
 		}
-		return self.profile
 
+
+	def write_to(self):
+		# self.profile
+		pass
 

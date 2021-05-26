@@ -1,4 +1,4 @@
-#TODO: clean up the whole program, load and unload the cog
+#todo: clean up the whole program, load and unload the cog
 
 WEBHOOK = "YOUR WEBHOOK HERE" #insert your own channel's webhook
 import os
@@ -7,18 +7,20 @@ import discord
 from discord.ext import commands
 from dotenv import load_dotenv
 
-from tesco import search
+# from module import search
 
 load_dotenv()
 TOKEN = os.getenv('TOKEN')  # load the token
 GUILD_ID = os.getenv('DISCORD_GUILD')
 EMBED_COLOUR = 0xff9416
 
+
 client = commands.Bot(command_prefix='$')
 
 @client.command()
 async def load(ctx, extension):
 	client.load_extension(f"cogs.{extension}")
+	print("Cogs loaded")
 
 @client.command()
 async def unload(ctx, extension):
@@ -47,12 +49,11 @@ async def help_docs(ctx):
 		name='ThePyLord x Danquilius', 
 		icon_url=img
 	)
-	embed.add_field(name='Field Name', value='Field Value1', inline=False)
-	embed.add_field(name='Field Name', value='Field Value2', inline=False)
-	embed.add_field(name='Field Name', value='Field Value3', inline=False)
+	embed.add_field(name='Field Name', value='Field Value1', inline=True)
+	embed.add_field(name='Field Name', value='Field Value2', inline=True)
+	embed.add_field(name='Field Name', value='Field Value3', inline=True)
 
 	await ctx.send(embed=embed)
-
 
 
 client.run(TOKEN)
