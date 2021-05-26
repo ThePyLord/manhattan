@@ -1,4 +1,4 @@
 .env
 .vscode/
 api/node_module
-.gitattributess
+.gitattributes
