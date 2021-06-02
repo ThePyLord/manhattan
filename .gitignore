@@ -1,5 +1,5 @@
 .env
 .vscode/
-api/node_module
+api/node_modules
 .gitattributes
 .code-workspace
