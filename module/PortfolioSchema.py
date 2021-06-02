@@ -1,5 +1,5 @@
 from mongoengine import Document, DictField, ListField, IntField
-import portfolio
+from portfolio import Portfolio
 
 
 #TODO: Set this Schema as a standard for the structure of the database

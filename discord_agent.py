@@ -37,7 +37,7 @@ async def help_docs(ctx):
 	embed = discord.Embed(
 		title = 'Title', 
 		description = 'Help for the Manhattan bot',
-		colour = discord.Colour(0xff9416)
+		colour = discord.Colour(EMBED_COLOUR)
 	)
 	#The link for the image to be used in the embed(shortened for readability)
 	img = "https://bit.ly/3slHEvS"
@@ -56,6 +56,9 @@ async def help_docs(ctx):
 	await ctx.send(embed=embed)
 
 
-client.run(TOKEN)
+# client.run(TOKEN)
 if __name__ == '__main__':
-	client.run(TOKEN)
+	try:
+		client.run(TOKEN)
+	except RuntimeError as e:
+		print('Event Loop Error')

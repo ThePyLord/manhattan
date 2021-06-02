@@ -2,15 +2,6 @@
 #TODO: Add a quantity of the asset purchased
 import json
 
-""" try:
-	with open("database.json", "r+") as f:
-		user_data = json.load(f) #load the file into a Python object
-except Exception as e:
-	print(e)
-finally:
-	user_data.close() """
-
-
 class Portfolio:
 	"""
 	Create a portfolio for a user
@@ -46,19 +37,13 @@ class Portfolio:
 		self.portfolio["tick_name"] = tick_name.upper()
 		self.portfolio["entry"] = float(entry)
 		self.portfolio["target"] = float(kwargs.get("target"))
+		# self.portfolio["quantity"] = float(kwargs.get("quantity"))
 
 		return "Portfolio has been updated"
 
 
-	def to_json(self, user):
-		return { f'{user}': {
+	def to_json(self):
+		return json.dumps({
 			"portfolio": self.portfolio,
 			"notifs": self.notifs
-			}
-		}
-
-
-	def write_to(self):
-		# self.profile
-		pass
-
+		})

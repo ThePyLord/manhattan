@@ -2,4 +2,5 @@
 .vscode/
 api/node_modules
 .gitattributes
-./.code-workspace
+./manhattan.code-workspace
+./TODO
