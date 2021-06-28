@@ -2,5 +2,6 @@
 .vscode/
 api/node_modules
 .gitattributes
-*.manhattan.code-workspace
-./TODO
+manhattan.code-workspace
+TODO
+./__init__.py
