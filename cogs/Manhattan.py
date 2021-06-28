@@ -1,15 +1,14 @@
-import aiohttp
-import discord
+import asyncio
+import discord, random
 import requests
 from aiohttp import ClientSession
 from typing import List
 from discord.ext import commands
 # using relative import to import a module from a parent directory
-# from module import search, PortfolioSchema
-from portfolio import Portfolio
+from module.portfolio import Portfolio
+
 from pymongo import MongoClient
 
-# mySchema = PortfolioSchema
 
 try:
 	client = MongoClient(
@@ -60,12 +59,24 @@ class Manhattan(commands.Cog):
 		# await ctx.channel.send("Base group for the Manhattan bot")
 		pass
 
-
+	
+	@commands.has_role('Oligarchs')
+	@manhattan.command(name='delete')
+	async def del_cmd(self, ctx, num_msg: int, sender):
+		for i in range(0, num_msg+1):
+			if ctx.message == sender:
+				ctx.message.delete()
 
 	#TODO: Add flags for the crypto to show more/less detail about it
 	@manhattan.command(name='price')
-	async def price(self, ctx):
-		await ctx.channel.send(search.refresh_data())
+	async def price(self, ctx, ticker):
+		async with ClientSession() as session:
+			async with session.get('http://localhost:5000/api/prices/'+ticker) as res:
+				d = await res.json()
+				# Show that the bot is "typing"
+				async with ctx.typing():
+					await asyncio.sleep(random.uniform(0.5, 2))
+			await ctx.message.reply(f"The price of {d['data']['name'].capitalize()} is currently: {d['data']['price']} USD", mention_author=False)
 
 	@manhattan.command(name='pft')
 	async def pft(self, ctx, ticker: str, entry: float, *, arg):
@@ -92,12 +103,12 @@ class Manhattan(commands.Cog):
 			)
 
 
-
+		# Post the new asset group to the database
 		self.pft = Portfolio()
 		self.pft.holder = ctx.message.author
-		self.pft.update_portfolio(ticker, entry, target=arg[0])
-		requests.post('http://localhost:5000/api/portfolios', self.pft.to_json())
-		print(self.pft.portfolio)
+		self.pft.update_portfolio(ticker, entry, target=arg)
+		r = requests.post('http://localhost:5000/api/portfolios', json=self.pft.to_json())
+		print(r.status_code)
 
 
 
@@ -109,12 +120,17 @@ class Manhattan(commands.Cog):
 		# if arg[1]:
 		# 	embed.add_field(name="Quantity", value=self.pft.portfolio["quantity"], inline=True)
 		embed.set_footer(text="Bitcoin's Eye. Powered by ThePyLord.")
+		async with ctx.typing():
+			await asyncio.sleep(random.uniform(1, 3))
+		
 		await ctx.send(embed=embed)
 		return self.pft
 
 	@manhattan.command()
 	async def ping(self, ctx, invoke_without_command=True):
-		await ctx.send(f"Pong {round(self.client.latency, 3)}")
+		async with ctx.typing():
+			await asyncio.sleep(random.uniform(0.5, 1.5))
+		await ctx.send(f"Pong {round(self.client.latency, 3)} 🎾")
 
 	@manhattan.command()
 	async def my_pft(self, ctx):

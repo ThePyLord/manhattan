@@ -4,7 +4,8 @@ const mongoose = require('mongoose')
 const morgan = require('morgan')
 const app = express()
 
-const apiRoutes = require('./routes/portfolio')
+const apiRoutes = require('./routes/portfolio'),
+    priceRoute = require('./routes/priceApi')
 
 app.use(morgan('dev'))
 app.use(express.urlencoded({ extended: true}))
@@ -14,9 +15,10 @@ mongoose.connect('mongodb://localhost:27017/manhattan', {
     useNewUrlParser: true,
     useUnifiedTopology: true
 })
-console.log('Successfully connected to the database. 😎')
+console.log('Successfully connected to the database.')
 
 app.use('/api', apiRoutes)
+app.use('/api', priceRoute)
 
 app.use((req, res, next) => {
     const error = new Error({messsage: 'There\s nothing at this resource'})
@@ -24,7 +26,7 @@ app.use((req, res, next) => {
     next()
 })
 
-app.use((error, req, res, next) => {
+app.use((error, req, res) => {
     res.status(error.status || 500).json({
         error: {
             messsage: error.messsage

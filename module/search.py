@@ -1,18 +1,14 @@
 #TODO: Scrape the cryptonator website
-from os import sep
-import pprint
-from colorama import Fore
-import colorama
+import sys
 from colorama.initialise import init
 import requests
 import json
 from bs4 import BeautifulSoup
 
-init()
+
 
 URL = "https://www.google.com/search?q=btc+usd&oq=BTC+usd&aqs=chrome.0.69i59j0i67i131i433j0i131i433j0l2j69i60l3.2445j0j7&sourceid=chrome&ie=UTF-8"
 url_c = "https://www.cryptonator.com/rates/BTC-USD"
-# print(type(site), site, sep="\n")
 
 def refresh_data():
 	site = requests.get(URL)
@@ -29,7 +25,12 @@ def refresh_data_c():
 	print(btc_val)
 	return btc_val
 
-crypto_lst = []
+# Helper function to remove duplicates in the list returned by the next function
+def rm_duplicates(lst):
+	return list({frozenset(item.items()): item for item in lst}.values())
+
+
+
 #TODO: Parameterize the data and return the info for a specific crypto
 def get_price_data():
 	site = requests.get('https://coinmarketcap.com/')
@@ -44,8 +45,10 @@ def get_price_data():
 			'circulating supply',
 			'sparkline'
 	)
-	info = {}
+	crypto_lst = []
+	# Starts at index one to skip over the template for the table
 	for rowIdx, rows in enumerate(soup.find_all('tr')[1:]):
+		info = {}
 		keyIdx = 0
 		counter = 0
 		if rowIdx < 10:
@@ -68,19 +71,19 @@ def get_price_data():
 				if child_text:
 					info[keys[keyIdx]] = child_text
 					keyIdx += 1
+					crypto_lst.append(info)
 
 				for img in child.find_all('img'):
 					if img.get('alt'):
 						info[keys[keyIdx]] = img['src']
-						# print(img['src'])
 
 		else: break
 		counter += 1
-		crypto_lst.append(info)
-
-		pprint.pprint(crypto_lst[rowIdx])
-
-	print(crypto_lst)
-	return info
+		# pprint.pprint(crypto_lst[rowIdx], sort_dicts=None)
+	crypto_lst = rm_duplicates(crypto_lst)
+	print(json.dumps(crypto_lst, indent=4, sort_keys=None))
+	# return json.dumps(crypto_lst)
 
 get_price_data()
+
+sys.stdout.flush()

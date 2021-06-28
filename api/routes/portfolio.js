@@ -1,9 +1,9 @@
 const express = require('express');
-const { Mongoose } = require('mongoose');
+const { mongoose } = require('mongoose');
 const router = express.Router();
 
 const Portfolio = require('../models/portfolioModel')
-
+let postCount = 0
 
 router.get('/portfolios', (req, res) => {
 	Portfolio.find()
@@ -45,28 +45,33 @@ router.get('/portfolios/:id', (req, res) => {
 })
 
 router.post('/portfolios', (req, res) => {
-	console.log("POST")
-	// console.log(req.body)
+	const postedTime = new Date(Date.now())
 	const pft = new Portfolio({
-		_id: new mongoose.Types.ObjectId(),
+		// _id: new mongoose.Types.ObjectId(),
 		portfolio: req.body.portfolio,
 		notifs: req.body.notifs
 	})
-	
+
 	pft.save()
 	.then(result => {
-		console.log(result);
 		res.status(201).json({
-			message: 'Your submission was received👍',
-			// result: Number(req.body.myRes)
+			message: `Your submission was received on ${postedTime.toDateString()} 👍`
 		})
 	}).catch(err => {
 		console.log(err)
 		res.status(500).json({error: err})
 	})
-	// res.status(201).json({"message": "You POSTed"})
 })
 
-// router.delete('/portfolios')
+router.delete('/portfolios/:id', (req, res) => {
+	const id = req.params.id
+
+	Portfolio.remove({_id: id}).exec()
+	.then(res => {
+		res.status(200).json({
+			message: `${id} was deleted`
+		})
+	})
+})
 
 module.exports = router;
