@@ -4,4 +4,4 @@ api/node_modules
 .gitattributes
 manhattan.code-workspace
 TODO
-./__init__.py
+__init__.py
