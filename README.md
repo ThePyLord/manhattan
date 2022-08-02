@@ -14,4 +14,4 @@ Requirements
 
 This readme was written by [Danquilius the GOAT 🐐](https://github.com/Danquilius)
 
-![LINGARD PFA](https://media.giphy.com/media/cjPlycfrfDbmWvUSuQ/giphy.gif)
+I have discontinued working on this project due to the Python Discord library being phased out.
